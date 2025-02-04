@@ -5,7 +5,7 @@ title: "Tshela Airport (FZAH)"
 
 # Tshela Airport (FZAH)
 
-**Location:** Tshela, Kongo Central Province, DRC  
+**Location:** Tshela, Kongo Central
 **Status:** Abandoned, but reactivation in progress  
 **ICAO Code:** FZAH  
 **Coordinates (verified):** -5.013936°, 12.956319°
