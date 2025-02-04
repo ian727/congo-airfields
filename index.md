@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Welcome to Congo Airfields"
+title: "Welcome to little-known and abandoned airfields in the DRC"
 ---
 
-# Welcome to Congo Airfields
+# Background
 
 The Democratic Republic of the Congo (DRC) is a vast country with a history as complex as its geography. Once a colony of Belgium, the country was heavily exploited for its natural resources, leading to widespread human rights violations. The borders of modern Congo are colonial constructs, encompassing a nation almost 77 times the size of Belgium.
 
