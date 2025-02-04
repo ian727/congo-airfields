@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to little-known and abandoned airfields in the DRC"
+title: "Home"
 ---
 
 # Background
