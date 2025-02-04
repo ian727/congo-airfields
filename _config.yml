@@ -1,0 +1,5 @@
+title: "Congo Airfields"
+description: "A documentation project for airports and airstrips in the Democratic Republic of the Congo."
+theme: minima
+plugins:
+  - jekyll-feed
