@@ -10,6 +10,7 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
 ## Browse Airports:
 - [Tshela Airport (FZAH)](tshela.md)
 - [Inkisi Airport (FZAS)](inkisi.md)
+- [Konde Airport (FZAU)](konde.md)
 - More coming soon...
 
 [← Back to Homepage](index.md)
