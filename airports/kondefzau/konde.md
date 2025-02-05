@@ -30,13 +30,15 @@ The 1967 version of the aeronautical Joint Operations Graphics by the U.S. Defen
     <p class="caption">Konde airport as seen on the 1967 Joint Operations Graphics by the U.S. Defense Mapping Agency</p>
 </div>
 
+In the 1996 U.S. Tactical Pilotage Chart, the airport is not included anymore.
+
 ## Current Status
 
 Despite extensive analysis of satellite imagery, no clear trace of Konde Airport could be identified. Some linear patterns are visible in the nearby fields, but they appear to be related to agriculture or drainage systems, rather than remnants of a former airstrip.
 
-As a result, it is likely that Konde Airport has either been removed or never had substantial infrastructure to begin with. No verifiable evidence of the airport remains today.
+It remains unclear why Konde Airport was established, and it is likely that it has been abandoned many decades ago, leaving no trace of it.
 
 ## See Also
 
-- [List of Airports in the DRC](list.md)
+- [List of Airports](list.md)
 - [Homepage](index.md)
