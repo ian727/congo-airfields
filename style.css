@@ -1,0 +1,10 @@
+.img-small {
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+}
+.caption {
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+}
