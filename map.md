@@ -14,7 +14,7 @@ Here you can see a map of all airports featured on this website so far.
 Dark green: Active airport with regular flights  
 Light green: Active airport  
 Yellow: Intermittent airport (infrequent maintenance or can easily be put back in operation)  
-Orange: Abandoned aiport (no maintenance in years, largely overgrown)  
+Orange: Abandoned airport (no maintenance in years, largely overgrown)  
 Red: Airport area redeveloped  
 
 **Airfields not verified on satellite imagery**
