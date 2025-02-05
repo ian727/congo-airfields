@@ -3,7 +3,7 @@ layout: default
 title: "Konde Airport (FZAU)"
 ---
 
-<link rel="stylesheet" type="text/css" href="/style.css">
+<link rel="stylesheet" type="text/css" href="/congo-airfields/styles/style.css">
 
 # Konde Airport (FZAU)
 
