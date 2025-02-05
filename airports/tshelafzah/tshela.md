@@ -35,7 +35,7 @@ No documentation has been found regarding the founding of Tshela Airport. The fi
 The area where Tshela Airport once operated is currently used for agricultural purposes, with fields covering much of the site. The condition of the facilities suggests that the airport has been abandoned for many years.
 
 <div style="text-align: left;">
-    <img src="/congo-airfields/airports/tshelafzah/sat2020.png" alt="Exact location of Tshela Airport 2020" width="70%">
+    <img src="/congo-airfields/airports/tshelafzah/sat2020.png" alt="Exact location of Tshela Airport 2020" width="100%">
     <p class="caption">The exact location of Tshela Airport as seen on 2020 satellite imagery. On the right side, the former runway alignment has been highlighted.</p>
 </div>
 
