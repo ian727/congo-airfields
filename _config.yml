@@ -3,3 +3,4 @@ description: "A documentation project for airports and airstrips in the Democrat
 theme: minima
 plugins:
   - jekyll-feed
+markdown: kramdown
