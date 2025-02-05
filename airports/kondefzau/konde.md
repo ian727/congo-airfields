@@ -34,5 +34,5 @@ As a result, it is likely that Konde Airport has either been removed or never ha
 
 ## See Also
 
-- [List of Airports in the DRC](airports.md)
+- [List of Airports in the DRC](list.md)
 - [Homepage](index.md)
