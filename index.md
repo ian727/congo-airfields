@@ -25,6 +25,5 @@ This website is, in part, dedicated to the people of Congo — to document the i
 
 ## Explore the Website
 
-- [Browse the List of Airports](airports.md)
+- [Browse the List of Airports](list.md)
 - [View the Interactive Map](map.md)
-- [Learn More About This Project](about.md)
