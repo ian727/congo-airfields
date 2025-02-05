@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Congo Airfields Map"
+title: "Map"
 ---
 
-# Interactive Map of Congo Airfields
+# Interactive Map of Airport and Airstrips
 
 Here you can see a map of all airports featured on this website so far. 
 
