@@ -28,5 +28,5 @@ The same article also reports that with the new bridge, the RVA (Régie des Voie
 
 ## See Also
 
-- [List of Airports in the DRC](airports.md)
+- [List of Airports in the DRC](list.md)
 - [Homepage](index.md)
