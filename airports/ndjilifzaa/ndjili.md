@@ -18,5 +18,5 @@ This airport is included in this database only for the sake of completeness, as 
 
 ## See Also
 
-- [List of Airports in the DRC](airports.md)
+- [List of Airports in the DRC](list.md)
 - [Homepage](index.md)
