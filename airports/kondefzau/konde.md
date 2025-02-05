@@ -14,7 +14,7 @@ title: "Konde Airport (FZAU)"
 Konde is a small village situated at the westernmost point of the Democratic Republic of the Congo. It is located approximately 1.5 kilometers south of the border with the Republic of Congo. While various old maps confirm the village's existence, little is known about Konde itself. Satellite imagery reveals a small settlement with around 100 small houses or huts, with no visible signs of greater economic activity that would justify the presence of an airport.
 
 <div style="text-align: center;">
-    <img src="https://github.com/ian727/congo-airfields/blob/main/airports/kondefzau/konde-1938-AMS.png" alt="Konde village seen on a 1938 map" width="70%">
+    <img src="https://raw.githubusercontent.com/ian727/congo-airfields/main/airports/kondefzau/konde-1938-AMS.png" alt="Konde village seen on a 1938 map" width="70%">
     <p class="caption">Konde village seen on a 1938 map</p>
 </div>
 
