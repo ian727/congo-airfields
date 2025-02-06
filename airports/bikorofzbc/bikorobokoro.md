@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Bikoro Airport (FZBC) & Bokoro Airport"
+show_title: false
 ---
 
 # Bikoro Airport (FZBC) & Bokoro Airport
