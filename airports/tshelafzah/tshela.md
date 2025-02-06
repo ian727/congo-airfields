@@ -10,6 +10,7 @@ title: "Tshela Airport (FZAH)"
 **Location:** Tshela, Kongo Central
 **Status:** Abandoned, but reactivation in progress  
 **ICAO Code:** FZAH  
+**IATA Code:** none  
 **Coordinates (verified):** -5.013936°, 12.956319°
 
 Tshela is a town in the western part of Kongo Central province and serves as a regional center located approximately 100 kilometers north of Boma. Due to its proximity to the Atlantic Ocean, Kongo Central was one of the most developed provinces during colonial times, benefiting from a dense network of transportation infrastructure. Tshela was once connected to Boma by a railway line, which was dismantled in 1984 under the rule of Mobutu Sese Seko.

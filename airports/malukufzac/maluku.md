@@ -10,6 +10,7 @@ title: "Maluku Airport (FZAC)"
 **Location:** Maluku, Kinshasa  
 **Status:** Possibly inactive, but appears usable  
 **ICAO Code:** FZAC  
+**IATA Code:** none  
 **Coordinates (verified):** -4.070861°, 15.543336°  
 
 Maluku is a community located approximately 40 kilometers north of Kinshasa, on the eastern bank of the Congo River. Originally a small village, it has transformed into a distant suburb of the capital, experiencing enormous population growth over the past decades. Maluku is historically significant as one of the locations where former president Mobutu Sese Seko attempted to develop heavy industry in the 1970s. 

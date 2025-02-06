@@ -8,6 +8,7 @@ title: "Kinshasa N'Dolo Airport (FZAB)"
 **Location:** Kinshasa, Kinshasa    
 **Status:** Active with regular flights  
 **ICAO Code:** FZAB  
+**IATA Code:** NLO  
 **Coordinates:** -4.326655°, 15.327401°  
 
 Kinshasa's N'Dolo Airport is the older airport in the capital. Today, it mainly serves as a hub for regional flights, operated by carriers such as KinAvia.

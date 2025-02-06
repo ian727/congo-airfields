@@ -10,6 +10,7 @@ title: "Inkisi Airport (FZAS)"
 **Location:** Kisantu, Kongo Central  
 **Status:** Possibly Removed  
 **ICAO Code:** FZAS  
+**IATA Code:** none  
 **Coordinates (not verified):** -5.162953°, 15.002718°  
 
 Kisantu is a historical town in Kongo Central province, located along the Matadi-Kinshasa railway and National Road 1 (RN1). The name "Inkisi" originates from the Inkisi River, which crosses the railway at Kisantu. Over time, the river’s name began to be used synonymously with the town, leading to maps labeling the settlement as either "Inkisi" or "Kisantu," and sometimes marking both names separately.
