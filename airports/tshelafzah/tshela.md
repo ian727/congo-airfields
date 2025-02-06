@@ -1,11 +1,10 @@
 ---
 layout: page
 title: "Tshela Airport (FZAH)"
+show_title: false
 ---
 
-<link rel="stylesheet" type="text/css" href="/congo-airfields/styles/style.css">
-
-# Tshela Airport (FZAH)
+## Tshela Airport (FZAH)
 
 **Location:** Tshela, Kongo Central
 **Status:** Abandoned, but reactivation in progress  

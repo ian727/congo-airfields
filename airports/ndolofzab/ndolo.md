@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "Kinshasa N'Dolo Airport (FZAB)"
+show_title: false
 ---
 
-# Kinshasa N'Dolo Airport (FZAB)
+## Kinshasa N'Dolo Airport (FZAB)
 
 **Location:** Kinshasa, Kinshasa    
 **Status:** Active with regular flights  

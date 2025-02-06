@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "Kinshasa N'Djili International Airport (FZAA)"
+show_title: false
 ---
 
-# Kinshasa N'Djili International Airport (FZAA)
+## Kinshasa N'Djili International Airport (FZAA)
 
 **Location:** Kinshasa, Kinshasa    
 **Status:** Active with regular flights  

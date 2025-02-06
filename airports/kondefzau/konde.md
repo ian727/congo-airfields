@@ -1,11 +1,10 @@
 ---
 layout: page
 title: "Konde Airport (FZAU)"
+show_title: false
 ---
 
-<link rel="stylesheet" type="text/css" href="/congo-airfields/styles/style.css">
-
-# Konde Airport (FZAU)
+## Konde Airport (FZAU)
 
 **Location:** Konde, Kongo Central  
 **Status:** Possibly Removed  

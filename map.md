@@ -1,13 +1,14 @@
 ---
 layout: page
 title: "Map"
+show_title: false
 ---
 
-# Interactive Map of Airport and Airstrips
+## Interactive Map of Airport and Airstrips
 
 Here you can see a map of all airports featured on this website so far. 
 
-# Color coding
+## Color coding
 
 **Airfields verified on satellite imagery**
 

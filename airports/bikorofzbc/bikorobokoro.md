@@ -4,7 +4,7 @@ title: "Bikoro Airport (FZBC) & Bokoro Airport"
 show_title: false
 ---
 
-# Bikoro Airport (FZBC) & Bokoro Airport
+## Bikoro Airport (FZBC) & Bokoro Airport
 
 **Location:** Bikoro, Équateur or Bokoro, Mai-Ndombe  
 **Status:** Bikoro (FZBC): Unknown, Bokoro: Active with regular flights  
