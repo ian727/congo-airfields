@@ -16,7 +16,7 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
 - [Kinshasa N'Dolo Airport (FZAB)](airports/ndolofzab/ndolo.md)
 - [Konde Airport (FZAU)](airports/kondefzau/konde.md)
 - [Maluku Airport (FZAC)](airports/malukufzac/maluku.md)
-- [Tshela Airport (FZAH)](airports/thshelafzah/tshela.md)
+- [Tshela Airport (FZAH)](airports/tshelafzah/tshela.md)
 - More coming soon...
 
 [← Back to Homepage](index.md)
