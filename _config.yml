@@ -11,3 +11,5 @@ header_pages:
   - map.md
 sass:
   style: compressed
+  load_paths:
+    - _sass
