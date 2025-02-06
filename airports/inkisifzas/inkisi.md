@@ -18,9 +18,12 @@ Kisantu has grown into a regional center with over 75,000 inhabitants and is hom
 
 No official documents regarding the establishment of Inkisi Airport have been found. The airport only appears in official databases under the ICAO code FZAS, without further details. It is notable that the airport is referred to as "Inkisi" - a name historically associated with the river rather than the town itself.
 
-The provided ICAO coordinates (-5.167, 15.000) are very generic and appear incorrect, as they point to a location directly on National Road 1. However, the 1967 version of the aeronautical Joint Operations Graphics by the U.S. Defense Mapping Agency marks an airfield in the same general area, referred to as "KM 237 Airport." This name likely originates from the airport’s position at kilometer 237 along either the national road or the railway.
+The provided ICAO coordinates (-5.167, 15.000) are very generic and appear incorrect, as they point to a location directly on National Road 1. However, the 1967 version of the aeronautical Joint Operations Graphics by the U.S. Defense Mapping Agency marks an airfield in the same general area, referred to as "KM 237 Airport." This name likely originates from the airport’s position at kilometer 237 along either the national road or the railway. Due to the close proximity of the ICAO-listed coordinates and the KM 237 Airport location, it can be reasonably assumed that they refer to the same facility.
 
-Due to the close proximity of the ICAO-listed coordinates and the KM 237 Airport location, it can be reasonably assumed that they refer to the same facility.
+<div style="text-align: left;">
+    <img src="/congo-airfields/airports/inkisifzas/1967.png" alt="Inkisi on 1967 map" width="70%">
+    <p class="caption">The only geographic evidence for the existence of Inkisi Airport is sheet SB 33-6 of the Joint Operations Graphics published by the U.S. Defense Mapping Agency, where at its righternmost edge, KM 237 Airport can be found at the supposed location of Inkisi Airport</p>
+</div>
 
 ## Current Status
 
