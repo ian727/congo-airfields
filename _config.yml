@@ -9,3 +9,5 @@ header_pages:
   - index.md
   - list.md
   - map.md
+sass:
+  style: compressed
