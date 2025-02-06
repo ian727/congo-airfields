@@ -28,9 +28,11 @@ The earliest confirmed record of Maluku Airport’s existence comes from satelli
 
 Unlike many small airfields in the Democratic Republic of the Congo, Maluku Airport has a paved runway. However, following the economic decline of Maluku, the airport has been left without maintenance for many years. The runway remains clearly visible in aerial imagery, and while its surface is deteriorating, it is still likely to be usable. The airfield includes a single large hangar building, but its overall infrastructure appears to be in poor condition. 
 
-<div style="text-align: left;">
-    <img src="/congo-airfields/airports/malukufzac/sat2023.png" alt="2023 satellite imagery, Maluku Airport" width="70%">
-    <p class="caption">Maluku Airport as seen on 2023 satellite imagery</p>
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/malukufzac/sat2023.png" alt="2023 satellite imagery, Maluku Airport" width="70%">
+        <figcaption>Maluku Airport as seen on 2023 satellite imagery</figcaption>
+    </figure>
 </div>
 
 Due to the relatively short distance between Kinshasa and Maluku, the need for an airport in the area is questionable, which explains its extremely low usage. Recent satellite imagery shows significant wear on the asphalt, and the lack of activity suggests that there has been no serious effort to restore the facility. 
