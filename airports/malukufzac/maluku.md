@@ -3,6 +3,8 @@ layout: default
 title: "Maluku Airport (FZAC)"
 ---
 
+<link rel="stylesheet" type="text/css" href="/congo-airfields/styles/style.css">
+
 # Maluku Airport (FZAC)
 
 **Location:** Maluku, Kinshasa  
