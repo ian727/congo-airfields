@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "List of Airports in the DRC"
+title: "List of Airports"
 show_title: false
 ---
 
