@@ -1,15 +1,17 @@
 title: "Little-known and abandoned airfields in the DRC"
 description: "A documentation project for airports and airstrips in the Democratic Republic of the Congo."
+theme: null
+include:
+  - _layouts
+  - _includes
+  - _sass
+  - assets
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-markdown: kramdown
-highlighter: rouge
 header_pages:
   - index.md
   - list.md
   - map.md
-sass:
-  style: compressed
-  load_paths:
-    - _sass
+markdown: kramdown
+highlighter: rouge
