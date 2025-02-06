@@ -4,6 +4,10 @@ theme: minima
 plugins:
   - jekyll-feed
 markdown: kramdown
+highlighter: rouge
 include:
   - styles/style.css
-header_pages: []
+header_pages:
+  - index.md
+  - list.md
+  - map.md
