@@ -24,8 +24,8 @@ The provided ICAO coordinates (-5.167, 15.000) are very generic and appear incor
 
 <div class="image-left">
     <figure>
-    <img src="/congo-airfields/airports/inkisifzas/1967.png" alt="Inkisi on 1967 map" width="70%">
-    <figcaption>The only geographic evidence for the existence of Inkisi Airport is sheet SB 33-6 of the Joint Operations Graphics published by the U.S. Defense Mapping Agency, where at its righternmost edge, KM 237 Airport can be found at the supposed location of Inkisi Airport</figcaption>
+        <img src="/congo-airfields/airports/inkisifzas/1967.png" alt="Inkisi on 1967 map" width="70%">
+        <figcaption>The only geographic evidence for the existence of Inkisi Airport is sheet SB 33-6 of the Joint Operations Graphics published by the U.S. Defense Mapping Agency, where at its righternmost edge, KM 237 Airport can be found at the supposed location of Inkisi Airport</figcaption>
     </figure>
 </div>
 
