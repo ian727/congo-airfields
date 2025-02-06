@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Bikoro (FZBC) & Bokoro Airport"
+title: "Bikoro Airport (FZBC) & Bokoro Airport"
 ---
 
 <link rel="stylesheet" type="text/css" href="/congo-airfields/styles/style.css">
 
-# Bikoro (FZBC) & Bokoro Airport
+# Bikoro Airport (FZBC) & Bokoro Airport
 
 **Location:** Bikoro, Équateur or Bokoro, Mai-Ndombe  
 **Status:** Bikoro (FZBC): Unknown, Bokoro: Active with regular flights  
