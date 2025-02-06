@@ -3,6 +3,8 @@ layout: default
 title: "Inkisi Airport (FZAS)"
 ---
 
+<link rel="stylesheet" type="text/css" href="/congo-airfields/styles/style.css">
+
 # Inkisi Airport (FZAS)
 
 **Location:** Kisantu, Kongo Central  
