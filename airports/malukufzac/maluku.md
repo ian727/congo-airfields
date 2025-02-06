@@ -25,7 +25,7 @@ The construction of Maluku Airport most likely coincided with the development of
 
 The earliest confirmed record of Maluku Airport’s existence comes from satellite imagery, which shows that the airfield was already in place by 1984. This suggests that the airport was built during Mobutu’s industrial expansion efforts but was not considered strategically important enough to be included in major aeronautical maps.
 
-## Current Situation
+## Current Status
 
 Unlike many small airfields in the Democratic Republic of the Congo, Maluku Airport has a paved runway. However, following the economic decline of Maluku, the airport has been left without maintenance for many years. The runway remains clearly visible in aerial imagery, and while its surface is deteriorating, it is still likely to be usable. The airfield includes a single large hangar building, but its overall infrastructure appears to be in poor condition. 
 
