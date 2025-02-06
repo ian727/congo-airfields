@@ -6,3 +6,4 @@ plugins:
 markdown: kramdown
 include:
   - styles/style.css
+header_pages: []
