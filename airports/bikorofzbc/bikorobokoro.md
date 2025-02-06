@@ -32,26 +32,34 @@ Bokoro, on the other hand, is a town along the Lukenie River, approximately 30 k
 
 Despite its long-standing existence, Bokoro does not appear on more recent maps. The 1966 Joint Operations Graphics published by the U.S. Defense Mapping Agency refers to the town as "Bumbu," while the 1996 U.S. Tactical Pilotage Chart labels it as "Buna." These inconsistencies already indicate that something went wrong in the geographic documentation of Bokoro.  
 
-<div style="text-align: left;">
-    <img src="/congo-airfields/airports/bikorofzbc/Bumbu.png" alt="Bokoro 1966" width="70%">
-    <p class="caption">Bokoro depicted as Bumbu on the 1966 Joint Operations Graphics published by the U.S. Defense Mapping Agency. Note Kempa Airport in the south.</p>
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/bikorofzbc/Bumbu.png" alt="Bokoro 1966" width="70%">
+        <figcaption>Bokoro depicted as Bumbu on the 1966 Joint Operations Graphics published by the U.S. Defense Mapping Agency. Note Kempa Airport in the south.</figcaption>
+    </figure>
 </div>
-<div style="text-align: left;">
-    <img src="/congo-airfields/airports/bikorofzbc/Buna.png" alt="Bokoro 1996" width="70%">
-    <p class="caption">Bokoro depicted as Buna on the 1996 U.S. Tactical Pilotage Chart. Note Kempa Airport still marked as active in the south.</p>
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/bikorofzbc/Buna.png" alt="Bokoro 1996" width="70%">
+        <figcaption>Bokoro depicted as Buna on the 1996 U.S. Tactical Pilotage Chart. Note Kempa Airport still marked as active in the south.</figcaption>
+    </figure>
 </div>
 
 ## Historical Background  
 
 The only formal evidence of Bikoro Airport (FZBC) is its listing in the ICAO register. The coordinates provided for FZBC place it in the town center of Bikoro, but there is no historical or recent evidence that an airport ever existed at that location. Instead, Bikoro appears to have been historically served by Yembe-Moke Airport (FZEM), which was documented on the 1966 Joint Operations Graphics but disappeared from the 1996 U.S. Tactical Pilotage Chart.  
 
-<div style="text-align: left;">
-    <img src="/congo-airfields/airports/bikorofzbc/fzbc.png" alt="Bikoro on 1966 map" width="70%">
-    <p class="caption">Bikoro shown on the 1966 Joint Operations Graphics published by the U.S. Defense Mapping Agency. Note Yembe-Moke Airport (FZEM) in the east.</p>
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/bikorofzbc/fzbc.png" alt="Bikoro on 1966 map" width="70%">
+        <figcaption>Bikoro shown on the 1966 Joint Operations Graphics published by the U.S. Defense Mapping Agency. Note Yembe-Moke Airport (FZEM) in the east.</figcaption>
+    </figure>
 </div>
-<div style="text-align: left;">
-    <img src="/congo-airfields/airports/bikorofzbc/FZBC2.png" alt="Bikoro on 1996 map" width="70%">
-    <p class="caption">Bikoro shown on the 1996 U.S. Tactical Pilotage Chart. Note that Yembe-Moke Airport (FZEM) is not shown anymore.</p>
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/bikorofzbc/FZBC2.png" alt="Bikoro on 1996 map" width="70%">
+        <figcaption>Bikoro shown on the 1996 U.S. Tactical Pilotage Chart. Note that Yembe-Moke Airport (FZEM) is not shown anymore.</figcaption>
+    </figure>
 </div>
 
 A 2015 airport database from Mission Aviation Fellowship (MAF) explicitly states that "as of January 2012, there has never been an airstrip at Bikoro despite ONC markings and RVA info. Use Ntondo." Ntondo, a small airstrip located south of Bikoro at -0.831463°, 18.125646°, appears to be in intermittent condition, though it lacks an official ICAO designation.  
@@ -62,9 +70,11 @@ Meanwhile, Bokoro Airport also remains largely undocumented. Just eight kilomete
 
 The status of Bikoro Airport (FZBC) remains entirely unclear, and it is likely that it never existed. Bokoro Airport, however, is active and maintained, though it does not host scheduled flights. The airline KinAvia lists Bokoro Airport for regular charter flights.  
 
-<div style="text-align: left;">
-    <img src="/congo-airfields/airports/bikorofzbc/bokoro_sat2024.png" alt="Bokoro 2024" width="70%">
-    <p class="caption">Bokoro Airport as seen on 2024 satellite imagery</p>
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/bikorofzbc/bokoro_sat2024.png" alt="Bokoro 2024" width="70%">
+        <figcaption>Bokoro Airport as seen on 2024 satellite imagery</figcaption>
+    </figure>
 </div>
 
 ## Bikoro and Bokoro – The Result of a Spelling Error?  
