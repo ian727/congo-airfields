@@ -3,10 +3,14 @@ description: "A documentation project for airports and airstrips in the Democrat
 theme: null
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 markdown: kramdown
 highlighter: rouge
 include:
-  - styles/style.css
+  - _layouts
+  - _includes
+  - _sass
+  - assets
 header_pages:
   - index.md
   - list.md
