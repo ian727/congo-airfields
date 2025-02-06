@@ -303,7 +303,44 @@
   }
 }
 
+/**
+ * Page content
+ */
+.page-content {
+  padding: $spacing-unit 0;
+  flex: 1 0 auto;
+}
 
+.page-heading {
+  @include relative-font-size(2);
+}
+
+.post-content {
+  margin-bottom: $spacing-unit;
+  text-align: justify;
+}
+
+/**
+ * Left-aligned image with styled caption
+ */
+.image-left {
+  text-align: left;
+  max-width: 100%;
+  margin-bottom: 10px;
+}
+
+.image-left img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.image-left figcaption {
+  font-size: 0.85em;
+  color: blue;
+  font-style: italic;
+  margin-top: 5px;
+}
 
 /**
  * Pagination navbar
