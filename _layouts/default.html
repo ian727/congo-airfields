@@ -2,10 +2,25 @@
 layout: default
 ---
 
-<header class="site-header">
-    {% include header.html %}
-</header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/styles/style.css">
+</head>
+<body>
 
-<main class="page-content">
-    {{ content }}
-</main>
+    <header class="site-header">
+        {% include header.html %}
+    </header>
+
+    <main class="page-content">
+        <div class="wrapper">
+            {{ content }}
+        </div>
+    </main>
+
+</body>
+</html>
