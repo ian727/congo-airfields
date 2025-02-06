@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Kinshasa N'Dolo Airport (FZAB)"
 ---
 

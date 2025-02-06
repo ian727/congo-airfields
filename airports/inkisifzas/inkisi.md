@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Inkisi Airport (FZAS)"
 ---
 
