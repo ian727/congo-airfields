@@ -14,16 +14,20 @@ show_title: false
 
 Bikoro is a market town situated on the shores of Lac Tumba, serving as the largest settlement in the region. It is connected to Mbandaka via National Road 21 (RN21) and has long been documented on various maps.  
 
-<div style="text-align: left;">
-    <img src="/congo-airfields/airports/bikorofzbc/oldmap_bi.png" alt="Bikoro on old map" width="70%">
-    <p class="caption">Bikoro depicted on a 1920s map</p>
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/bikorofzbc/oldmap_bi.png" alt="Bikoro on old map" width="70%">
+        <figcaption>Bikoro depicted on a 1920s map</figcaption>
+    </figure>
 </div>
 
 Bokoro, on the other hand, is a town along the Lukenie River, approximately 30 kilometers east of Kutu, where the Lukenie merges into the Fimi River. It originated as a mission settlement, with historical photographs from the place dating back as early as 1915. 
 
-<div style="text-align: left;">
-    <img src="/congo-airfields/airports/bikorofzbc/oldmap_bo.png" alt="Bikoro on old map" width="70%">
-    <p class="caption">Bokoro depicted on a 1920s map</p>
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/bikorofzbc/oldmap_bo.png" alt="Bikoro on old map" width="70%">
+        <figcaption>Bokoro depicted on a 1920s map</figcaption>
+    </figure>
 </div>
 
 Despite its long-standing existence, Bokoro does not appear on more recent maps. The 1966 Joint Operations Graphics published by the U.S. Defense Mapping Agency refers to the town as "Bumbu," while the 1996 U.S. Tactical Pilotage Chart labels it as "Buna." These inconsistencies already indicate that something went wrong in the geographic documentation of Bokoro.  
