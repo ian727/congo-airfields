@@ -6,15 +6,60 @@ show_title: false
 
 ## Background
 
-The Democratic Republic of the Congo (DRC) is a vast country with a history as complex as its geography. Once a colony of Belgium, the country was heavily exploited for its natural resources, leading to widespread human rights violations. The borders of modern Congo are colonial constructs, encompassing a nation almost 77 times the size of Belgium.
+The Democratic Republic of the Congo (DRC) is a country with a fascinating history and complex geography. Long before colonization, the Kingdom of Kongo was an influential regional power, maintaining diplomatic ties with Europe. In 1604, the kingdom even sent an ambassador to the Vatican. However, the late 19th century marked a turning point when Belgium’s King Leopold II annexed the territory that would later become the DRC.
 
-However, large-scale resource extraction required a functioning transportation network. This included hundreds of small airfields, many of which were already present in colonial times. Following independence in 1960, decades of political struggles, authoritarian rule under Mobutu, and the deterioration of road infrastructure made these airfields even more crucial for transport.
+What followed was, in the words of historian David van Reybrouck, *"a massacre of incredible extent, which was not intended, but a consequence of a perfidious and ruthless policy of exploitation with the background of morbid profit-thirst."* The exploitation of the Congo, a country 77 times the size of Belgium, was fueled by its immense wealth of natural resources. To facilitate this exploitation, an extensive transportation network was required.
+
+While Belgium constructed roads and railways, many remote mining sites, plantations, and mission posts were most conveniently accessed by airplane. As a result, hundreds of small airstrips were established across the country. Most were simple dirt runways, cleared of vegetation either manually or by light machinery. Some were no more than flattened fields in the savanna or rainforest.
+
+Many of these little-known airfields still exist today, yet most are undocumented. Their locations, conditions, and histories are often unknown to both aviation authorities and the public.
 
 ## Airfields in the Congo
 
-Unlike in many other countries, there is no single, official database documenting small airfields in the DRC. Some airports received ICAO codes before independence, using an early **"FCXX"** format (with "FC" for "Congo Belge"). When the country was renamed Zaire in 1971, the first two ICAO letters changed to **"FZ"**, a structure that persists to this day.
+The first systematic documentation of airfields in the Congo took place before independence in 1960, under Belgian colonial rule. The airfields were assigned ICAO codes—the four-letter airport codes issued by the International Civil Aviation Organization (ICAO) to uniquely identify airports.
 
-The last two ICAO code letters do not correspond to city names (as in many other countries) but instead follow a regional alphabetical system. The regions were divided so that the codes move clockwise across the country, starting with "A" for Kongo Central, "B," "C," and "D" for the former Bandundu region, "E" for Equateur, and continuing in this pattern until "W" for inland airports like Lodja and Mbuji-Mayi. A full map of these ICAO letter zones will be added to this website.
+These ICAO codes followed a structured format:
+
+The first letter, F, was assigned to Central Africa.
+The second letter, C, stood for Congo Belge (Belgian Congo).
+The last two letters represented individual airports.
+In most countries, these last two letters are based on the airport’s name - for example, Berlin-Tegel (EDDT):
+
+E = Europe  
+D = Germany  
+D = Major airport  
+T = Tegel  
+
+However, the Congo followed a different system. Instead of naming conventions, ICAO codes were assigned alphabetically by region, moving clockwise across the country.
+
+"A" for Kongo Central  
+"B," "C," and "D" for the former Bandundu region  
+"E" for Equateur  
+"M" and "N" for the Kivus  
+
+The pattern continues across the country, with "W" marking inland places like Lodja and Mbuji-Mayi.
+This alphabetical regional system remained even after Congo’s independence in 1960. However, in 1971, President Mobutu Sese Seko renamed the country Zaire, and as a result, the ICAO code system was altered:
+
+The second letter was changed from C (Congo) to Z (Zaire).
+The format "FZXX" has remained unchanged ever since, even though Zaire itself ceased to exist in 1997.
+For example, Kinshasa N'Djili International Airport was assigned the code FZAA:
+
+F = Central Africa  
+Z = Zaire (formerly C for Congo)  
+A = Geographic region around Kinshasa & Kongo Central  
+A = Assigned letter with no special meaning  
+
+## Codes, Coordinates, and Mysteries
+
+Today, 286 airports in the Congo have an official ICAO code, yet hundreds more exist without any formal registration. The lack of an official database for small airstrips makes documentation difficult. Even among those that do have ICAO codes, many have been abandoned for decades, and their actual locations remain unclear.
+
+Here are some examples illustrating this:
+
+Bikoro Airport (FZBC) appears in the ICAO register, yet Bikoro has never had an airport - a fact confirmed by old maps and, most importantly, even local sources.  
+Konde Airport (FZAU) exists in databases, but if you visit its given coordinates, all you find is forest and farmland. However, an old map proves that the airstrip once existed - though no trace remains.  
+Gandajika Airport (FZWC) is another mystery. At the officially listed coordinates, no airstrip can be seen. But analyzing old maps and comparing them with historic satellite imagery reveals the correct location some kilometers away, and: the faint traces of a long-abandoned runway.  
+
+The Congo’s aviation records are filled with similar discrepancies - where runways exist without documentation, and documented runways no longer exist.
 
 ## About This Website
 
