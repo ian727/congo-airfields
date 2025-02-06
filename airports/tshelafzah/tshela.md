@@ -6,7 +6,7 @@ show_title: false
 
 ## Tshela Airport (FZAH)
 
-**Location:** Tshela, Kongo Central
+**Location:** Tshela, Kongo Central  
 **Status:** Abandoned, but reactivation in progress  
 **ICAO Code:** FZAH  
 **IATA Code:** none  
