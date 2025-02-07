@@ -71,7 +71,7 @@ This website is, in part, dedicated to the people of Congo — to document the i
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/P1020698.png" alt="Gungu Airport 2018" width="70%">
+        <img src="/congo-airfields/P1020698.JPG" alt="Gungu Airport 2018" width="70%">
         <figcaption>"Gungu Airport", photographed by me in 2018. Very little on the ground suggests the existence of a runway.</figcaption>
     </figure>
 </div>
