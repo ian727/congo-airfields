@@ -69,6 +69,13 @@ In 2018, I was lucky enough to visit the Democratic Republic of the Congo, a bea
 
 This website is, in part, dedicated to the people of Congo — to document the infrastructure they rely on and to preserve the history of these airfields before they disappear entirely.
 
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/P1020698.png" alt="Gungu Airport 2018" width="70%">
+        <figcaption>"Gungu Airport", photographed by me in 2018. Very little on the ground suggests the existence of a runway.</figcaption>
+    </figure>
+</div>
+
 ## Explore the Website
 
 - [Browse the List of Airports](list.md)
