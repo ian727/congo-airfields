@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Celo-Zongo Airport (FZAD)"
 show_title: false
 ---
