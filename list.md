@@ -11,7 +11,7 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
 ## Browse Airports:
 - [Bikoro Airport (FZBC)](airports/bikorofzbc/bikorobokoro.md)
 - [Bokoro Airport](airports/bikorofzbc/bikorobokoro.md)
-- [Celo-Zongo Airport](airports/zongofzad/zongo.md)
+- [Celo-Zongo Airport (FZAD)](airports/zongofzad/zongo.md)
 - [Inkisi Airport (FZAS)](airports/inkisifzas/inkisi.md)
 - [Kinshasa N'Djili Airport (FZAA)](airports/ndjilifzaa/ndjili.md)
 - [Kinshasa N'Dolo Airport (FZAB)](airports/ndolofzab/ndolo.md)
