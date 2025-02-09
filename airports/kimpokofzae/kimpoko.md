@@ -10,9 +10,9 @@ show_title: false
 **Status:** Redeveloped  
 **ICAO Code:** FZAE  
 **IATA Code:** none  
-**Coordinates:** -4.214337, 15.558997 
+**Coordinates (verified):** -4.214337, 15.558997 
 
-Kimpoko was once a small village located approximately 30 kilometers northeast of Kinshasa. Positioned between [N'Djili International Airport](../airports/ndjilifzaa/ndjili.md) and [Maluku Airport](../airports/malukufzac/maluku.md), the area remained largely undeveloped until the mid-1960s.
+Kimpoko was once a small village located approximately 30 kilometers northeast of Kinshasa. Positioned between [N'Djili International Airport](../ndjilifzaa/ndjili.md) and [Maluku Airport](../malukufzac/maluku.md), the area remained largely undeveloped until the mid-1960s.
 
 During this period, President Mobutu Sese Seko selected a location just south of Kimpoko for an ambitious and highly prestigious political retreat and luxury resort. This area was named N’Sele, although its proximity to Kimpoko also led to it being commonly referred to as Kimpoko-N’Sele.
 
@@ -27,9 +27,9 @@ Throughout Mobutu’s rule, N’Sele remained a blend of political seminar venue
     </figure>
 </div>
 
-## **Historical Background of Kimpoko Airport**
+## Historical Background of Kimpoko Airport
 
-Little information exists regarding the establishment of Kimpoko Airport**. However, it is officially listed in the **ICAO database as FZAE.
+Little information exists regarding the establishment of Kimpoko Airport. However, it is officially listed in the ICAO database as FZAE.
 
 The 1966 aeronautical Joint Operations Graphics map, published by the U.S. Defense Mapping Agency, marks the airport’s location near the main road leading to Kimpoko. Given that Kimpoko itself was only a small village at the time, it is likely that the airport was constructed in parallel with the development of the N’Sele resort. Its primary function was probably to fly in government officials, architects, and high-profile guests during the construction of the prestigious retreat.
 
@@ -40,7 +40,7 @@ The 1966 aeronautical Joint Operations Graphics map, published by the U.S. Defen
     </figure>
 </div>
 
-## **Current Status (as of 2025)**
+## Current Status (as of 2025)
 
 By 1996, Kimpoko Airport was no longer depicted on the U.S. Tactical Pilotage Chart, suggesting that it had ceased to exist by then. Satellite imagery of the location indicated on the 1966 map shows that the area was later redeveloped with additional accommodations for the N’Sele resort — likely during the 1970s when the site was still actively in use.
 
