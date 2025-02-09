@@ -36,7 +36,7 @@ However, at -5.604005°, 15.313070°, just east of the factory ruins, there is a
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/nsangifzaf/FZAF.png" alt="FZAF" width="70%">
+        <img src="/congo-airfields/airports/nsangifzaf/FZAF.png" alt="FZAF">
         <figcaption>2005 and 2023 satellite imagery of the Nsangi textile factory, showing its deterioration. In the 2023 imagery, the long and flat terrain section suitable for a runway has been highlighted.</figcaption>
     </figure>
 </div>
