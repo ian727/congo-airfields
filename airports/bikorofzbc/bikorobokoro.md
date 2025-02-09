@@ -83,7 +83,7 @@ There is a strong reason why these two airports are discussed together. The case
 
 One possibility is that FZBC was originally assigned to Bokoro, but due to a spelling error or misinterpretation, the name "Bokoro" was mistaken for "Bikoro." While this may sound strange, such name inconsistencies are actually quite common in the Democratic Republic of the Congo, where multiple airports have had slight variations or outright spelling errors in the official ICAO database over the years.  
 
-However, there is an issue with this theory. Kempa Airport (FZBG) was located just eight kilometers from Bokoro, and it would have been unusual for two official airports to exist so close to each other. It is possible that Kempa was originally the designated airfield for the region and that Bokoro only became relevant after Kempa was abandoned.  
+What makes this theory slightly less credible however is the fact that Kempa Airport (FZBG) was located just eight kilometers from Bokoro - and it appears unusual for two official airports to exist (or have existed) so close to each other. It is possible that Kempa was originally the designated airfield for the region and that Bokoro only became relevant after Kempa was abandoned.  
 
 What remains certain is that FZBC is misplaced in the official ICAO register, but the question remains: Was it actually meant for Bokoro, or was it assigned to yet another location that has since been forgotten? If you have any additional information about Bikoro, Bokoro, or their airports, feel free to reach out!  
 
