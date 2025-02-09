@@ -36,7 +36,7 @@ The 1967 version of the aeronautical Joint Operations Graphics by the U.S. Defen
 
 In the 1996 U.S. Tactical Pilotage Chart, the airport is not included anymore.
 
-## Current Status
+## Current Status (as of 2025)  
 
 Despite extensive analysis of satellite imagery, no clear trace of Konde Airport could be identified. Some linear patterns are visible in the nearby fields, but they appear to be related to agriculture or drainage systems, rather than remnants of a former airstrip.
 

@@ -66,7 +66,7 @@ A 2015 airport database from Mission Aviation Fellowship (MAF) explicitly states
 
 Meanwhile, Bokoro Airport also remains largely undocumented. Just eight kilometers south of Bokoro, another airstrip, Kempa Airport (FZBG), once existed and was clearly marked on both the 1966 Joint Operations Graphics and the 1996 U.S. Tactical Pilotage Chart. Low-resolution satellite imagery from 1984 shows a well-defined runway at Kempa, while the area that now hosts Bokoro Airport appears only as a faint line. Over the following years, Kempa Airport’s runway gradually fades, indicating it was abandoned, while Bokoro Airport's runway becomes more pronounced, suggesting that for some reason, Bokoro Airport replaced Kempa as the primary airstrip for the area.  
 
-## Current Status  
+## Current status (as of 2025)  
 
 The status of Bikoro Airport (FZBC) remains entirely unclear, and it is likely that it never existed. Bokoro Airport, however, is active and maintained, though it does not host scheduled flights. The airline KinAvia lists Bokoro Airport for regular charter flights.  
 

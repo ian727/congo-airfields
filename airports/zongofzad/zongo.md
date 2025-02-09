@@ -51,7 +51,7 @@ The current name, Celo-Zongo Airport, appears to be derived from a nearby villag
 
 ---
 
-## Current Status
+## Current Status (as of 2025)  
 
 The operational status of Celo-Zongo Airport remains unclear. There is no known evidence of recent flights taking place at the airstrip. However, satellite imagery confirms its presence, and it remains a clearly defined area. 
 

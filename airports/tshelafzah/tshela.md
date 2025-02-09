@@ -34,7 +34,7 @@ No documentation has been found regarding the founding of Tshela Airport. The fi
     </figure>
 </div>
 
-## Current Status
+## Current Status (as of 2025)  
 
 The area where Tshela Airport once operated is currently used for agricultural purposes, with fields covering much of the site. The condition of the facilities suggests that the airport has been abandoned for many years.
 

@@ -29,7 +29,7 @@ The provided ICAO coordinates (-5.167, 15.000) are very generic and appear incor
     </figure>
 </div>
 
-## Current Status
+## Current Status (as of 2025)  
 
 Matching the KM 237 Airport location with satellite imagery does not provide clear evidence of an airstrip. The approximate location, about 300 meters north of National Road 1, appears realistic, but there are no distinct remnants of a runway visible.
 
