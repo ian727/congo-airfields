@@ -20,7 +20,7 @@ The same problem applies to airports — as described on the main page, the exis
 
 Researching old infrastructure in the DRC is challenging and often requires a combination of different methods. When investigating airports, I primarily rely on historical maps, particularly old aeronautical charts.
 
-One invaluable source of information is the Royal Museum for Central Africa in Tervuren, Belgium, which houses a huge collection of colonial-era maps. Unfortunately, these maps are no longer accessible online, making access to them more difficult.
+One invaluable source of information used to be the Royal Museum for Central Africa in Tervuren, Belgium, which houses a huge collection of colonial-era maps. Unfortunately, these maps are no longer accessible online, taking away one of my main sources for information.
 
 Another essential tool in my research is satellite imagery, which has been available since 1984, albeit at very low resolution. Despite this limitation, maintained dirt runways in forested areas can often be clearly distinguished. With more recent high-resolution imagery, I scan the surroundings of suspected old airstrips, looking for faint traces of former runway alignments.
 
