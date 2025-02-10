@@ -18,7 +18,7 @@ The city is relatively well-connected to Kinshasa with the National Road 1 (RN1)
 
 <div class="image-left">
     <figure>
-        <img src="https://www.studiohirondellerdc.org/wp-content/uploads/from-joomla/d6e0c71ca3722c71ddd73a242718257f.jpg" alt="Beach Moanda">
+        <img src="https://www.studiohirondellerdc.org/wp-content/uploads/from-joomla/d6e0c71ca3722c71ddd73a242718257f.jpg" alt="Beach Moanda" width="70%">
         <figcaption>The Atlantic coast at Muanda.</figcaption>
     </figure>
 </div>
@@ -33,7 +33,7 @@ The most plausible reason for this upgrade was the discovery and exploitation of
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/muandafzag/FZAG_1967.png" alt="FZAG 1967">
+        <img src="/congo-airfields/airports/muandafzag/FZAG_1967.png" alt="FZAG 1967" width="70%">
         <figcaption>Muanda Airport (FZAG) as seen on the 1967 Joint Operations Graphics map.</figcaption>
     </figure>
 </div>
@@ -48,7 +48,7 @@ Currently, no scheduled airline service operates at Muanda Airport. However, usi
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/muandafzag/FZAG_2024.png" alt="FZAG 2024">
+        <img src="/congo-airfields/airports/muandafzag/FZAG_2024.png" alt="FZAG 2024" width="70%">
         <figcaption>Satellite view of Muanda Airport (FZAG) in 2024, showing its paved runway and active status.</figcaption>
     </figure>
 </div>
