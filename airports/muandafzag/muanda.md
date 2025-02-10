@@ -19,7 +19,7 @@ The city is relatively well-connected to Kinshasa with the National Road 1 (RN1)
 <div class="image-left">
     <figure>
         <img src="https://www.studiohirondellerdc.org/wp-content/uploads/from-joomla/d6e0c71ca3722c71ddd73a242718257f.jpg" alt="Beach Moanda" width="70%">
-        <figcaption>The Atlantic coast at Muanda.</figcaption>
+        <figcaption>The Atlantic coast at Muanda. ©Studio Hirondelle</figcaption>
     </figure>
 </div>
 

@@ -21,7 +21,7 @@ Since colonial times, Zongo has been known as a travel destination. Today, sever
 <div class="image-left">
     <figure>
         <img src="https://live.staticflickr.com/514/19213974360_ec7ec92855_b.jpg" alt="Zongo Falls" width="70%">
-        <figcaption>Zongo Waterfalls, one of the most famous natural attractions in the DR Congo.</figcaption>
+        <figcaption>Zongo Waterfalls, one of the most famous natural attractions in the DR Congo. ©Abel Kavanagh</figcaption>
     </figure>
 </div>
 

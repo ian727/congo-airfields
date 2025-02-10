@@ -23,7 +23,7 @@ Throughout Mobutu’s rule, N’Sele remained a blend of political seminar venue
 <div class="image-left">
     <figure>
         <img src="https://static.wixstatic.com/media/6495a0_78db4b1933ff4e22bd2234b9c91c1fbd~mv2.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6495a0_78db4b1933ff4e22bd2234b9c91c1fbd~mv2.jpg" alt="N'sele ruins" width="70%">
-        <figcaption>The palace of N'sele in ruins</figcaption>
+        <figcaption>The palace of N'sele in ruins. ©African State Architecture</figcaption>
     </figure>
 </div>
 
