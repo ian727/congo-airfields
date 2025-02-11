@@ -15,5 +15,24 @@ header_pages:
   - index.md
   - list.md
   - map.md
+defaults:
+  - scope:
+      path: "_layouts"
+    values:
+      sitemap: false
+  - scope:
+      path: "_includes"
+    values:
+      sitemap: false
+  - scope:
+      path: "assets"
+    values:
+      sitemap: false
+  - scope:
+      path: "_sass/minima/"
+    values:
+      sitemap: false
+sitemap:
+  include_xml_header: true
 markdown: kramdown
 highlighter: rouge
