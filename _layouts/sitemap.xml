@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% for page in site.pages %}
+  {% if page.sitemap != false %}
+  <url>
+    <loc>{{ site.url }}{{ page.url | replace:'index.html','' }}</loc>
+  </url>
+  {% endif %}
+{% endfor %}
+{% for post in site.posts %}
+  {% if post.sitemap != false %}
+  <url>
+    <loc>{{ site.url }}{{ post.url }}</loc>
+  </url>
+  {% endif %}
+{% endfor %}
+</urlset>
