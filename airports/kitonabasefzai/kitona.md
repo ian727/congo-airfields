@@ -33,7 +33,7 @@ This situation changed dramatically in 1998 when Rwandan forces fighting against
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/kitonabasefzai/FZAI_1967.png" alt="Kitona Base on 1996 map" width="70%">
+        <img src="/congo-airfields/airports/kitonabasefzai/FZAI_1996.png" alt="Kitona Base on 1996 map" width="70%">
         <figcaption>Kitona Base Airport as shown on the 1996 U.S. Tactical Pilotage Chart.</figcaption>
     </figure>
 </div>
