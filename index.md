@@ -55,9 +55,9 @@ Today, 286 airports in the Congo have an official ICAO code, yet hundreds more e
 
 Here are some examples illustrating this:
 
-Bikoro Airport (FZBC) appears in the ICAO register, yet Bikoro has never had an airport - a fact confirmed by old maps and, most importantly, even local sources.  
-Konde Airport (FZAU) exists in databases, but if you visit its given coordinates, all you find is forest and farmland. However, an old map proves that the airstrip once existed - though no trace remains.  
-Gandajika Airport (FZWC) is another mystery. At the officially listed coordinates, no airstrip can be seen. But analyzing old maps and comparing them with historic satellite imagery reveals the correct location some kilometers away, and: the faint traces of a long-abandoned runway.  
+- Bikoro Airport (FZBC) appears in the ICAO register, yet Bikoro has never had an airport - a fact confirmed by old maps and, most importantly, even local sources.  
+- Konde Airport (FZAU) exists in databases, but if you visit its given coordinates, all you find is forest and farmland. However, an old map proves that the airstrip once existed - though no trace remains.  
+- Gandajika Airport (FZWC) is another mystery. At the officially listed coordinates, no airstrip can be seen. But analyzing old maps and comparing them with historic satellite imagery reveals the correct location some kilometers away, and: the faint traces of a long-abandoned runway.  
 
 The Congo’s aviation records are filled with similar discrepancies - where runways exist without documentation, and documented runways no longer exist.
 
