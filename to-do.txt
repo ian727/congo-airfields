@@ -1,0 +1,4 @@
+- use of ai disclaimer
+- french translation
+- source details: coordinates, operator etc
+- runway headings
