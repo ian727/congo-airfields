@@ -2,3 +2,4 @@
 - french translation
 - source details: coordinates, operator etc
 - runway headings
+- verify local minima & solve deprecation issues & develop strategy
