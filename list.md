@@ -16,6 +16,7 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
 - [Kimpoko Airport (FZAE)](airports/kimpokofzae/kimpoko.md)
 - [Kinshasa N'Djili Airport (FZAA)](airports/ndjilifzaa/ndjili.md)
 - [Kinshasa N'Dolo Airport (FZAB)](airports/ndolofzab/ndolo.md)
+- [Kitona Base Airport (FZAI)](airports/kitonabasefzai/kitona.md)
 - [Konde Airport (FZAU)](airports/kondefzau/konde.md)
 - [Maluku Airport (FZAC)](airports/malukufzac/maluku.md)
 - [Muanda Airport (FZAG)](airports/muandafzag/muanda.md)
