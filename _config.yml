@@ -33,6 +33,6 @@ defaults:
     values:
       sitemap: false
 sitemap:
-  include_xml_header: true
+  file: "/_layouts/sitemap.xml"
 markdown: kramdown
 highlighter: rouge
