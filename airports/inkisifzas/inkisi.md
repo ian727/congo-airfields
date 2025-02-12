@@ -4,6 +4,8 @@ title: "Inkisi Airport (FZAS)"
 show_title: false
 ---
 
+[en français](../../airports_fr/inkisifzas/inkisi_fr.md)
+
 ## Inkisi Airport (FZAS)
 
 **Location:** Kisantu, Kongo Central  
