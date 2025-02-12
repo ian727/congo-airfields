@@ -4,7 +4,7 @@ title: "Bikoro Airport (FZBC) & Bokoro Airport"
 show_title: false
 ---
 
-[en français](../airports_fr/bikorofzbc/bikorobokoro_fr.md)
+[en français](/airports_fr/bikorofzbc/bikorobokoro_fr.md)
 
 ## Bikoro Airport (FZBC) & Bokoro Airport
 
@@ -49,7 +49,7 @@ Despite its long-standing existence, Bokoro does not appear on some more recent 
 
 ## Historical Background  
 
-The only formal evidence of Bikoro Airport (FZBC) is its listing in the ICAO register. The coordinates provided for FZBC place it in the town center of Bikoro, but there is no historical or recent evidence that an airport ever existed at that location. Instead, Bikoro appears to have been historically served by [Yembe-Moke Airport (FZEM)](../airports/yembe-mokefzem/yembe-moke.md), which was documented on the 1966 Joint Operations Graphics but disappeared from the 1996 U.S. Tactical Pilotage Chart.  
+The only formal evidence of Bikoro Airport (FZBC) is its listing in the ICAO register. The coordinates provided for FZBC place it in the town center of Bikoro, but there is no historical or recent evidence that an airport ever existed at that location. Instead, Bikoro appears to have been historically served by [Yembe-Moke Airport (FZEM)](/airports/yembe-mokefzem/yembe-moke.md), which was documented on the 1966 Joint Operations Graphics but disappeared from the 1996 U.S. Tactical Pilotage Chart.  
 
 <div class="image-left">
     <figure>
@@ -64,9 +64,9 @@ The only formal evidence of Bikoro Airport (FZBC) is its listing in the ICAO reg
     </figure>
 </div>
 
-A 2015 airport database from Mission Aviation Fellowship (MAF) explicitly states that *"as of January 2012, there has never been an airstrip at Bikoro despite ONC markings and RVA info. Use Ntondo."* [Ntondo Airport](../airports/ntondo/ntondo.md), a small airstrip located south of Bikoro at -0.831463°, 18.125646°, appears to be in intermittent condition, though it lacks an official ICAO designation.  
+A 2015 airport database from Mission Aviation Fellowship (MAF) explicitly states that *"as of January 2012, there has never been an airstrip at Bikoro despite ONC markings and RVA info. Use Ntondo."* [Ntondo Airport](/airports/ntondo/ntondo.md), a small airstrip located south of Bikoro at -0.831463°, 18.125646°, appears to be in intermittent condition, though it lacks an official ICAO designation.  
 
-Meanwhile, Bokoro Airport also remains largely undocumented. Just eight kilometers south of Bokoro, another airstrip, [Kempa Airport (FZBG)](../airports/kempafzbg/kempa.md), once existed and was clearly marked on both the 1966 Joint Operations Graphics and the 1996 U.S. Tactical Pilotage Chart. Low-resolution satellite imagery from 1984 shows a well-defined runway at Kempa, while the area that now hosts Bokoro Airport appears only as a faint line. Over the following years, Kempa Airport’s runway gradually fades, indicating it was abandoned, while Bokoro Airport's runway becomes more pronounced, suggesting that for some reason, Bokoro Airport replaced Kempa as the primary airstrip for the area.  
+Meanwhile, Bokoro Airport also remains largely undocumented. Just eight kilometers south of Bokoro, another airstrip, [Kempa Airport (FZBG)](/airports/kempafzbg/kempa.md), once existed and was clearly marked on both the 1966 Joint Operations Graphics and the 1996 U.S. Tactical Pilotage Chart. Low-resolution satellite imagery from 1984 shows a well-defined runway at Kempa, while the area that now hosts Bokoro Airport appears only as a faint line. Over the following years, Kempa Airport’s runway gradually fades, indicating it was abandoned, while Bokoro Airport's runway becomes more pronounced, suggesting that for some reason, Bokoro Airport replaced Kempa as the primary airstrip for the area.  
 
 ## Current status (as of 2025)  
 
@@ -85,7 +85,7 @@ There is a strong reason why these two airports are discussed together. The case
 
 One possibility is that FZBC was originally assigned to Bokoro, but due to a spelling error or misinterpretation, the name "Bokoro" was mistaken for "Bikoro." While this may sound strange, such name inconsistencies are actually quite common in the Democratic Republic of the Congo, where multiple airports have had slight variations or outright spelling errors in the official ICAO database over the years.  
 
-What makes this theory slightly less credible however is the fact that [Kempa Airport (FZBG)](../airports/kempafzbg/kempa.md) was located just eight kilometers from Bokoro - and it appears unusual for two official airports to exist (or have existed) so close to each other. It is possible that Kempa was originally the designated airfield for the region and that Bokoro only became relevant after Kempa was abandoned.  
+What makes this theory slightly less credible however is the fact that [Kempa Airport (FZBG)](/airports/kempafzbg/kempa.md) was located just eight kilometers from Bokoro - and it appears unusual for two official airports to exist (or have existed) so close to each other. It is possible that Kempa was originally the designated airfield for the region and that Bokoro only became relevant after Kempa was abandoned.  
 
 What remains certain is that FZBC is misplaced in the official ICAO register, but the question remains: Was it actually meant for Bokoro, or was it assigned to yet another location that has since been forgotten? If you have any additional information about Bikoro, Bokoro, or their airports, feel free to reach out!  
 
