@@ -4,6 +4,8 @@ title: "Kimpoko Airport (FZAE)"
 show_title: false
 ---
 
+[en français](../../airports_fr/kimpokofzae/kimpoko_fr.md)
+
 ## Kimpoko Airport (FZAE)
 
 **Location:** Kimpoko, Kinshasa
@@ -27,7 +29,7 @@ Throughout Mobutu’s rule, N’Sele remained a blend of political seminar venue
     </figure>
 </div>
 
-## Historical Background of Kimpoko Airport
+## Historical Background
 
 Little information exists regarding the establishment of Kimpoko Airport. However, it is officially listed in the ICAO database as FZAE.
 
@@ -57,5 +59,5 @@ In recent years, the Congolese government has taken actions to restore N'sele an
 
 ## See Also
 
-- [List of Airports](list.md)
-- [Homepage](index.md)
+- [List of Airports](../../list.md)
+- [Homepage](../../index.md)
