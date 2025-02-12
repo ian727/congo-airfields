@@ -91,5 +91,5 @@ Ce qui reste certain, c'est que FZBC est mal répertorié dans le registre offic
 
 ## Voir aussi  
 
-- [Liste des Aéroports](list_fr.md)  
-- [Page d'accueil](index_fr.md)  
+- [Liste des Aéroports](../../list_fr.md)  
+- [Page d'accueil](../../index_fr.md)  
