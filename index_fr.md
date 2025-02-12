@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "*en français*"
+title: "en français"
 show_title: false
 ---
 
