@@ -4,7 +4,7 @@ title: "Aéroport de Bikoro (FZBC) & Aéroport de Bokoro"
 show_title: false
 ---
 
-[in english](/congo-airfields/airports/bikorofzbc/bikorobokoro.md)
+[in english](../../airports/bikorofzbc/bikorobokoro.md)
 
 ## Aéroport de Bikoro (FZBC) & Aéroport de Bokoro
 
@@ -49,7 +49,7 @@ Malgré son existence de longue date, Bokoro n'apparaît pas sur les cartes réc
 
 ## Contexte historique  
 
-La seule preuve formelle de l'Aéroport de Bikoro (FZBC) est son inscription dans le registre de l'ICAO. Les coordonnées fournies pour FZBC le placent au centre-ville de Bikoro, mais aucune preuve historique ou récente n'indique l'existence d'un aéroport à cet endroit. Au lieu de cela, Bikoro semble avoir été historiquement desservi par [l'Aéroport de Yembe-Moke (FZEM)](/congo-airfields/airports_fr/yembe-mokefzem/yembe-moke_fr.md), documenté sur la carte Joint Operations Graphics de 1966 mais disparu sur la carte U.S. Tactical Pilotage Chart de 1996.  
+La seule preuve formelle de l'Aéroport de Bikoro (FZBC) est son inscription dans le registre de l'ICAO. Les coordonnées fournies pour FZBC le placent au centre-ville de Bikoro, mais aucune preuve historique ou récente n'indique l'existence d'un aéroport à cet endroit. Au lieu de cela, Bikoro semble avoir été historiquement desservi par [l'Aéroport de Yembe-Moke (FZEM)](../yembe-mokefzem/yembe-moke_fr.md), documenté sur la carte Joint Operations Graphics de 1966 mais disparu sur la carte U.S. Tactical Pilotage Chart de 1996.  
 
 <div class="image-left">
     <figure>
@@ -64,9 +64,9 @@ La seule preuve formelle de l'Aéroport de Bikoro (FZBC) est son inscription dan
     </figure>
 </div>
 
-Un document de 2015 de Mission Aviation Fellowship (MAF) précise explicitement qu'*"en janvier 2012, il n'y avait jamais eu de piste d'atterrissage à Bikoro malgré les marquages ONC et les informations de la RVA. Utiliser Ntondo."* [L'aéroport de Ntondo](/congo-airfields/airports_fr/ntondo/ntondo_fr.md), une petite piste située au sud de Bikoro à -0.831463°, 18.125646°, semble être en état intermittent bien qu'elle ne possède pas de désignation ICAO officielle.  
+Un document de 2015 de Mission Aviation Fellowship (MAF) précise explicitement qu'*"en janvier 2012, il n'y avait jamais eu de piste d'atterrissage à Bikoro malgré les marquages ONC et les informations de la RVA. Utiliser Ntondo."* [L'aéroport de Ntondo](../ntondo/ntondo_fr.md), une petite piste située au sud de Bikoro à -0.831463°, 18.125646°, semble être en état intermittent bien qu'elle ne possède pas de désignation ICAO officielle.  
 
-L'Aéroport de Bokoro reste lui aussi largement non documenté. À seulement huit kilomètres au sud de Bokoro, une autre piste d'atterrissage, [l'Aéroport de Kempa (FZBG)](/congo-airfields/airports_fr/kempafzbg/kempa_fr.md), a existé et était clairement indiquée sur la carte Joint Operations Graphics de 1966 ainsi que sur la carte U.S. Tactical Pilotage Chart de 1996. Des images satellites de basse résolution datant de 1984 montrent une piste bien définie à Kempa, tandis que la zone qui accueille aujourd’hui l'Aéroport de Bokoro n'apparaît alors que sous la forme d’une ligne vague. Au fil des années suivantes, la piste de l'Aéroport de Kempa s'est estompée progressivement, indiquant son abandon, tandis que la piste de l'Aéroport de Bokoro s’est précisée, suggérant qu'à un moment donné, l'Aéroport de Bokoro a remplacé Kempa en tant que principale piste d'atterrissage de la région.
+L'Aéroport de Bokoro reste lui aussi largement non documenté. À seulement huit kilomètres au sud de Bokoro, une autre piste d'atterrissage, [l'Aéroport de Kempa (FZBG)](../kempafzbg/kempa_fr.md), a existé et était clairement indiquée sur la carte Joint Operations Graphics de 1966 ainsi que sur la carte U.S. Tactical Pilotage Chart de 1996. Des images satellites de basse résolution datant de 1984 montrent une piste bien définie à Kempa, tandis que la zone qui accueille aujourd’hui l'Aéroport de Bokoro n'apparaît alors que sous la forme d’une ligne vague. Au fil des années suivantes, la piste de l'Aéroport de Kempa s'est estompée progressivement, indiquant son abandon, tandis que la piste de l'Aéroport de Bokoro s’est précisée, suggérant qu'à un moment donné, l'Aéroport de Bokoro a remplacé Kempa en tant que principale piste d'atterrissage de la région.
 
 ## Statut actuel (en 2025)  
 
@@ -85,7 +85,7 @@ Il y a une raison importante pour laquelle ces deux aéroports sont discutés en
 
 Une possibilité est que FZBC ait été initialement attribué à Bokoro, mais qu'en raison d'une erreur d'orthographe ou d'une mauvaise interprétation, le nom "Bokoro" ait été confondu avec "Bikoro". Bien que cela puisse sembler surprenant, ce genre d’incohérences est en réalité assez fréquent en République Démocratique du Congo, où de nombreux aéroports ont connu de légères variations ou même des erreurs flagrantes d'orthographe dans la base de données officielle de l'ICAO au fil des ans.
 
-Ce qui rend cette théorie un peu moins crédible, cependant, est le fait que [l'Aéroport de Kempa (FZBG)](/congo-airfields/airports_fr/kempafzbg/kempa_fr.md) était situé à seulement huit kilomètres de Bokoro. Il est rare que deux aéroports officiels existent (ou aient existé) aussi proches l'un de l'autre. Il est possible que Kempa ait été initialement désigné comme l'aérodrome principal de la région et que Bokoro ne soit devenu pertinent qu'après l'abandon de Kempa.
+Ce qui rend cette théorie un peu moins crédible, cependant, est le fait que [l'Aéroport de Kempa (FZBG)](../kempafzbg/kempa_fr.md) était situé à seulement huit kilomètres de Bokoro. Il est rare que deux aéroports officiels existent (ou aient existé) aussi proches l'un de l'autre. Il est possible que Kempa ait été initialement désigné comme l'aérodrome principal de la région et que Bokoro ne soit devenu pertinent qu'après l'abandon de Kempa.
 
 Ce qui reste certain, c'est que FZBC est mal répertorié dans le registre officiel de l'ICAO. Mais la question demeure : était-il en réalité destiné à Bokoro, ou bien à un tout autre emplacement aujourd’hui oublié ? Si vous avez des informations supplémentaires sur Bikoro, Bokoro ou leurs aéroports, n’hésitez pas à nous contacter !
 
