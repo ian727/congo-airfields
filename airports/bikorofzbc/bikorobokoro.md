@@ -91,5 +91,5 @@ What remains certain is that FZBC is misplaced in the official ICAO register, bu
 
 ## See Also
 
-- [List of Airports](list.md)
-- [Homepage](index.md)
+- [List of Airports](../../list.md)
+- [Homepage](../../index.md)
