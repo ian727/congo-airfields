@@ -82,4 +82,4 @@ This website is, in part, dedicated to the people of Congo — to document the i
 
 - [Browse the List of Airports](list.md)
 - [View the Interactive Map](map.md)
-- [About the author](about.md)
+- [About the author and the research](about.md)
