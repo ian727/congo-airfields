@@ -39,5 +39,5 @@ Some patterns in the satellite imagery hint at past infrastructure, but no concl
 
 ## See Also
 
-- [List of Airports](list.md)
-- [Homepage](index.md)
+- [List of Airports](../../list.md)
+- [Homepage](../../index.md)
