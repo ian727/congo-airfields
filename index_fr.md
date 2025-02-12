@@ -4,7 +4,7 @@ title: "En français"
 show_title: false
 ---
 
-## Ce site sera bientôt disponible en français !
+[in english](index.md)
 
 ## Contexte
 
@@ -81,7 +81,6 @@ Ce site web est en partie dédié aux habitants du Congo, afin de documenter l�
 
 ## Explorez le site web
 
-- [en Anglais](index.md)
 - [Liste des aéroports](list_fr.md)
 - [Voir la carte interactive](map_fr.md)
 - [A propos de l'auteur](about_fr.md)
