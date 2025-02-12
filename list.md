@@ -4,6 +4,8 @@ title: "List of Airports"
 show_title: false
 ---
 
+[en français](list_fr.md)
+
 ## List of Airports in the Democratic Republic of the Congo
 
 Below, you will find a comprehensive list of airports and airfields in the DRC. Implementing every bit of information is a lot of work, so this page will continuously be updated. So far, the following airports are included:
