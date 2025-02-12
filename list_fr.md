@@ -4,6 +4,8 @@ title: "Liste des Aéroports"
 show_title: false
 ---
 
+[in english](list.md)
+
 ## Liste des Aéroports en République Démocratique du Congo
 
 Ci-dessous, vous trouverez une liste complète des aéroports et aérodromes en RDC. Rassembler toutes ces informations demande beaucoup de travail, donc cette page sera continuellement mise à jour. Jusqu'à présent, les aéroports suivants sont inclus :
