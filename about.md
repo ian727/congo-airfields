@@ -28,6 +28,8 @@ Of course, the best source of information would be local knowledge. However, my 
 
 Due to the difficult nature of this research, many of my findings involve theories and speculation — particularly when attempting to locate missing airports or explain anomalies in ICAO documentation. However, I am committed to ensuring that all unverified information is clearly marked on this website.
 
+The collection of information and all conclusions made on this website are the courtesy of humans. However, in some instances, information is collected in or compiled to bullet points, which are transformed into flowing text with the help of AI. All respective text is read, checked and verified by humans. Furthermore, AI is used to help with the translation of English content to French.
+
 ## Contact
 
 I would love to collaborate! If you have any information about an airfield in the DRC, or if you share an interest in documenting abandoned infrastructure, feel free to get in touch.
