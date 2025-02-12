@@ -83,4 +83,4 @@ Ce site web est en partie dédié aux habitants du Congo, afin de documenter l�
 
 - [Liste des aéroports](list_fr.md)
 - [Voir la carte interactive](map_fr.md)
-- [A propos de l'auteur](about_fr.md)
+- [A propos de l'auteur et les recherches](about_fr.md)
