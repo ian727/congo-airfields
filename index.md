@@ -4,6 +4,8 @@ title: "Home"
 show_title: false
 ---
 
+[en français](index_fr.md)
+
 ## Background
 
 The Democratic Republic of the Congo (DRC) is a country with a fascinating history and complex geography. Long before colonization, the Kingdom of Kongo was an influential regional power, maintaining diplomatic ties with Europe. In 1604, the kingdom even sent an ambassador to the Vatican. However, the late 19th century marked a turning point when Belgium’s King Leopold II annexed the territory that would later become the DRC.
