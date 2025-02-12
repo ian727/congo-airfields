@@ -10,7 +10,7 @@ My name is Ian Pasternak, and I was born and raised in Berlin, Germany. I have b
 
 I have always been naturally curious, and when I can’t find answers to things I’m looking for, I tend to start researching. My particular passion lies in old infrastructure. In Europe, I have spent a lot of time using historical maps to document abandoned railways, and I have visited many of their remains during my cycling tours. I also enjoy exploring old, abandoned buildings and metal detecting, trying to uncover things from the past.
 
-In the Democratic Republic of the Congo (DRC), the situation is quite different. Much of its infrastructure is poorly documented, and yet, paradoxically, there are official lists that suggest a certain degree of organization. For example, the country has a detailed multi-level network of national roads, and 286 airports with official ICAO codes.
+In the Democratic Republic of the Congo (DRC), much of the infrastructure is poorly documented, and yet, paradoxically, there are official lists that suggest a certain degree of organization. For example, the country has a detailed multi-level network of national roads, and 286 airports with official ICAO codes.
 
 However, a closer examination reveals a different reality. Many of the officially numbered roads are in extremely bad condition — some have even ceased to exist. A striking example is National Road 1 east of Kikwit, which was realigned in the mid-1980s. This new alignment was never updated in official documentation, meaning that the old sections (for example Kikwit - Idiofa), which are still in use, remain without any reference number to this day.
 
