@@ -31,9 +31,15 @@ Throughout Mobutu’s rule, N’Sele remained a blend of political seminar venue
 
 ## Historical Background
 
-Little information exists regarding the establishment of Kimpoko Airport. However, it is officially listed in the ICAO database as FZAE.
+Little information exists regarding the establishment of Kimpoko Airport. However, it is officially listed in the ICAO database as FZAE. In this case, too, the letter E suggests an early assignment of the ICAO code, indicating that the airport predates Mobutu's N’Sele project. The 1966 aeronautical Joint Operations Graphics map, published by the U.S. Defense Mapping Agency, marks Kimpoko Airport near the main road leading to Kimpoko. Based on this, two possible scenarios exist:
 
-The 1966 aeronautical Joint Operations Graphics map, published by the U.S. Defense Mapping Agency, marks the airport’s location near the main road leading to Kimpoko. Given that Kimpoko itself was only a small village at the time, it is likely that the airport was constructed in parallel with the development of the N’Sele resort. Its primary function was probably to fly in government officials, architects, and high-profile guests during the construction of the prestigious retreat.
+1. The airport predates the N’Sele project.
+Little is documented about Kimpoko’s role during the colonial era, but some records suggest missionary activities by Scheut missionaries, and the Compagnie du Congo pour le Commerce et l’Industrie (C.C.C.I.) is mentioned in relation to a land request at Kimpoko. However, it remains unclear whether C.C.C.I. actually owned the land. Kimpoko Airport could have been established to support these activities.
+
+2. The airport was constructed in parallel with the N’Sele resort.
+In this scenario, its primary function would have been to fly in government officials, architects, and high-profile guests during the construction of the prestigious retreat. However, if this is the case, then the ICAO code FZAE must have been reassigned to Kimpoko Airport, meaning it was previously assigned to another airport in the A region.
+
+Only an official ICAO airport list or a version of ICAO Doc 7910 from around 1960 could confirm which scenario is correct. So far, these documents have not been obtained. If you have access to either, please reach out!
 
 <div class="image-left">
     <figure>
@@ -44,9 +50,7 @@ The 1966 aeronautical Joint Operations Graphics map, published by the U.S. Defen
 
 ## Current Status (as of 2025)
 
-By 1996, Kimpoko Airport was no longer depicted on the U.S. Tactical Pilotage Chart, suggesting that it had ceased to exist by then. Satellite imagery of the location indicated on the 1966 map shows that the area was later redeveloped with additional accommodations for the N’Sele resort — likely during the 1970s when the site was still actively in use.
-
-Today, no trace of Kimpoko Airport remains. Its existence appears to have been extremely short-lived, likely only serving as a temporary airstrip during the construction phase of the N’Sele retreat. Once the main facilities were completed, the airport likely became redundant and was built over.
+By 1996, Kimpoko Airport was no longer depicted on the U.S. Tactical Pilotage Chart, suggesting that it had ceased to exist by then. Satellite imagery of the location indicated on the 1966 map shows that the area was later redeveloped with additional accommodations for the N’Sele resort — likely during the 1970s when the site was still actively in use. Today, no trace of Kimpoko Airport remains.
 
 In recent years, the Congolese government has taken actions to restore N'sele and its facilities. Gradually, they have again been established as a tourist destination, but the restoration works are far from complete.
 
