@@ -38,11 +38,9 @@ In the 1996 U.S. Tactical Pilotage Chart, the airport is not included anymore.
 
 ## Current Status (as of 2025)  
 
-Despite extensive analysis of satellite imagery, no clear trace of Konde Airport could be identified. Some linear patterns are visible in the nearby fields, but they appear to be related to agriculture or drainage systems, rather than remnants of a former airstrip.
-
-It remains unclear why Konde Airport was established, and it is likely that it has been abandoned many decades ago, leaving no trace of it.
+Despite extensive analysis of satellite imagery, no clear trace of Konde Airport could be identified. Some linear patterns are visible in the nearby fields, but they appear to be related to agriculture or drainage systems rather than remnants of a former airstrip. Additionally, they do not correspond to the 03/21 runway heading provided in both the 2015 MAF Airports Directory and the 2015 UN DR Congo Aerodromes and Helipads Directory. Interestingly, two roads extending southwest from Konde village do align with the given runway heading. However, both appear to have historically been roads rather than repurposed airstrips. While it is not uncommon in the Congo for roads to double as airstrips (and vice versa), no evidence suggests that this was the case in Konde. It remains unclear why Konde Airport was established, and it is likely that it has been abandoned many decades ago, leaving no trace of it.
 
 ## See Also
 
-- [List of Airports](list.md)
-- [Homepage](index.md)
+- [List of Airports](../../list.md)
+- [Homepage](../../index.md)
