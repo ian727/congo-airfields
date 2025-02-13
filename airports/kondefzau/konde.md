@@ -4,6 +4,8 @@ title: "Konde Airport (FZAU)"
 show_title: false
 ---
 
+[en français](../../airports_fr/kondefzau/konde_fr.md)
+
 ## Konde Airport (FZAU)
 
 **Location:** Konde, Kongo Central  
