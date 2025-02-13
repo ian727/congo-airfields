@@ -4,6 +4,8 @@ title: "Maluku Airport (FZAC)"
 show_title: false
 ---
 
+[en français](../../airports_fr/malukufzac/maluku_fr.md)
+
 ## Maluku Airport (FZAC)
 
 **Location:** Maluku, Kinshasa  
@@ -20,9 +22,9 @@ In recent years, there have been repeated attempts to revive Maluku’s industri
 
 ## Historical Background
 
-The construction of Maluku Airport most likely coincided with the development of the steelworks plant in the 1970s, although its exact origins remain unclear. The airport does not appear on the 1966 Joint Operations Graphics published by the U.S. Defense Mapping Agency, suggesting that it had not yet been built at that time. Surprisingly, it is also absent from the 1996 U.S. Tactical Pilotage Chart, despite evidence that the airport had existed for at least a decade by then. 
+The ICAO code for Maluku Airport is FZAC. Since C is the third letter of the alphabet, and ICAO codes in the Congo were assigned alphabetically, this suggests that the code was either assigned very early on or later re-assigned. Indeed, further research reveals that Maluku held significance during the colonial era, serving as the site of a hospital, a military camp, and a prison for the entire former Bas-Congo region [(source)](https://www.memoireonline.com/04/15/9119/m_Etude-de-faisabilite-et-de-viabilite-dun-projet-dinvestissement-Cas-de-limplantation-d15.html#:~:text=Maluku%20abritait%20la%20r%C3%A9sidence%20priv%C3%A9e,024%20du%2024%20Janvier%201968.). 
 
-The earliest confirmed record of Maluku Airport’s existence comes from satellite imagery, which shows that the airfield was already in place by 1984. This suggests that the airport was built during Mobutu’s industrial expansion efforts but was not considered strategically important enough to be included in major aeronautical maps.
+It is therefore likely that the airport's construction was not part of Mobutu's industrialization projects at Maluku, but predates them. However, the airport neither appears on the 1966 Joint Operations Graphics published by the U.S. Defense Mapping Agency, nor is it included in the 1996 U.S. Tactical Pilotage Chart. This absence is particularly strange given that Maluku Airport's runway is paved, a rare feature among small airports in the Congo. No explanation for its absence from aeronautical charts has been found.
 
 ## Current Status (as of 2025)  
 
@@ -41,5 +43,5 @@ Interestingly, while the airport infrastructure is in decline, the land itself h
 
 ## See Also
 
-- [List of Airports](list.md)
-- [Homepage](index.md)
+- [List of Airports](../../list.md)
+- [Homepage](../../index.md)
