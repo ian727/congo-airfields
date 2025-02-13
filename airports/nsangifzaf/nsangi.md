@@ -32,7 +32,7 @@ Given the lack of documentation, Nsangi Airport (FZAF) was likely constructed as
 
 Despite extensive analysis of satellite imagery, no trace of a former runway has been found. The given coordinates (-5.600000°, 15.316670°) are likely incorrect, as they do not correspond to any visible airstrip or cleared area.
 
-However, at -5.604005°, 15.313070°, just east of the factory ruins, there is a long, flat section of terrain that appears to be the only suitable location for a runway in the area. While it remains purely speculative, this location could have once served as the Nsangi airstrip.
+However, at -5.604005°, 15.313070°, just east of the factory ruins, there is a long, flat section of terrain that appears to be the only suitable location for a runway in the area. This section of terrain alings with a heading of 120 degrees - corresponding to the runway designation 12/30 found in the 2015 UN DR Congo Aerodromes and Helipads Directory. While it remains purely speculative, this location could have once served as the Nsangi airstrip.
 
 <div class="image-left">
     <figure>
