@@ -31,9 +31,15 @@ Sous le régime de Mobutu, N’Sele servit à la fois de centre de séminaires p
 
 ## Contexte historique 
 
-Peu d'informations existent sur la création de l'Aéroport de Kimpoko. Cependant, il est officiellement répertorié dans la base de données de l'ICAO sous le code FZAE.  
+Peu d’informations existent sur l’origine de l’Aéroport de Kimpoko. Cependant, il est officiellement répertorié dans la base de données de l’ICAO sous le code FZAE. Ici aussi, la lettre E suggère une attribution précoce du code ICAO, indiquant que l’aéroport précède le projet de N’Sele de Mobutu. La carte aéronautique Joint Operations Graphics de 1966, publiée par la U.S. Defense Mapping Agency, indique l’Aéroport de Kimpoko près de la route principale menant à Kimpoko. À partir de ces éléments, deux scénarios sont possibles :
 
-La carte aéronautique Joint Operations Graphics de 1966, publiée par la U.S. Defense Mapping Agency, indique l’emplacement de l’aéroport à proximité de la route principale menant à Kimpoko. Étant donné que Kimpoko n’était à l’époque qu’un petit village, il est probable que l’aéroport ait été construit parallèlement au développement du complexe de N’Sele. Sa fonction principale était probablement de transporter les responsables gouvernementaux, les architectes et les invités de marque durant la construction de ce lieu prestigieux.  
+1. L’aéroport est antérieur au projet de N’Sele.
+Peu d’éléments sont documentés sur le rôle de Kimpoko à l’époque coloniale, mais certains documents suggèrent la présence d’activités missionnaires menées par les missionnaires de Scheut. De plus, la Compagnie du Congo pour le Commerce et l’Industrie (C.C.C.I.) est mentionnée dans une demande de terrain à Kimpoko. Toutefois, il reste incertain que la C.C.C.I. ait réellement possédé ce terrain. L’Aéroport de Kimpoko aurait pu être établi pour soutenir ces activités.
+
+2. L’aéroport a été construit en parallèle avec le complexe de N’Sele.
+Dans ce scénario, sa fonction principale aurait été de transporter des responsables gouvernementaux, des architectes et des invités de haut rang durant la construction de la retraite présidentielle prestigieuse. Cependant, si tel est le cas, cela signifie que le code ICAO FZAE a dû être réattribué à l’Aéroport de Kimpoko, ce qui implique qu’il avait été initialement assigné à un autre aéroport de la région A.
+
+Seule une liste officielle des aéroports de l’ICAO ou une version du Doc 7910 de l’ICAO datant d’environ 1960 pourrait confirmer lequel de ces scénarios est correct. À ce jour, ces documents n’ont pas été obtenus. Si vous avez accès à l’un d’eux, n’hésitez pas à me contacter !
 
 <div class="image-left">
     <figure>
@@ -44,9 +50,7 @@ La carte aéronautique Joint Operations Graphics de 1966, publiée par la U.S. D
 
 ## Statut actuel (en 2025)  
 
-En 1996, l'Aéroport de Kimpoko n'apparaît plus sur la carte U.S. Tactical Pilotage Chart, suggérant qu'il avait déjà cessé d'exister à cette époque. L'imagerie satellite de l'emplacement indiqué sur la carte de 1966 montre que la zone a été réaménagée avec des infrastructures supplémentaires pour le complexe de N’Sele, probablement durant les années 1970, lorsque le site était encore en activité.  
-
-Aujourd’hui, il ne reste aucune trace de l'Aéroport de Kimpoko. Son existence semble avoir été de très courte durée, probablement limitée à une piste temporaire durant la phase de construction du complexe de N’Sele. Une fois les principales installations achevées, l’aéroport est vraisemblablement devenu inutile et a été remplacé par d’autres infrastructures.  
+En 1996, l'Aéroport de Kimpoko n'apparaît plus sur la carte U.S. Tactical Pilotage Chart, suggérant qu'il avait déjà cessé d'exister à cette époque. L'imagerie satellite de l'emplacement indiqué sur la carte de 1966 montre que la zone a été réaménagée avec des infrastructures supplémentaires pour le complexe de N’Sele, probablement durant les années 1970, lorsque le site était encore en activité. Aujourd’hui, il ne reste aucune trace de l'Aéroport de Kimpoko.
 
 Ces dernières années, le gouvernement congolais a entrepris des efforts pour restaurer N'Sele et ses installations. Progressivement, le site est à nouveau établi comme une destination touristique, bien que les travaux de restauration soient loin d’être terminés.  
 
