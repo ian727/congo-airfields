@@ -40,7 +40,7 @@ This situation changed dramatically in 1998 when Rwandan forces fighting against
     </figure>
 </div>
 
-## Current Status
+## Current Status (as of 2025)
 
 With the exception of the Rwandan incursion in 1998, Kongo Central province has, fortunately, remained at peace compared to other regions in the Congo. Since then, the Kitona base has reverted to its former function as a military training facility with reduced importance.
 
