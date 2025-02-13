@@ -4,6 +4,8 @@ title: "Kitona Base Airport (FZAI)"
 show_title: false
 ---
 
+[en français](../../airports_fr/kitonabasefzai/kitona_fr.md)
+
 ## Kitona Base Airport (FZAI)
 
 **Location:** Kitona, Kongo Central  
@@ -53,5 +55,5 @@ Kitona Base Airport remains active but is not frequently used. The paved runway 
 
 ## See Also
 
-- [List of Airports](list.md)
-- [Homepage](index.md)
+- [List of Airports](../../list.md)
+- [Homepage](../../index.md)
