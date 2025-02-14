@@ -57,5 +57,5 @@ Currently, no scheduled airline service operates at Muanda Airport. However, usi
 
 ## See Also
 
-- [List of Airports](list.md)
-- [Homepage](index.md)
+- [List of Airports](../../list.md)
+- [Homepage](../../index.md)
