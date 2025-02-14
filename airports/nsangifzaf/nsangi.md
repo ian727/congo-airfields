@@ -4,6 +4,8 @@ title: "Nsangi Airport (FZAF)"
 show_title: false
 ---
 
+[en français](../../airports_fr/nsangifzaf/nsangi_fr.md)
+
 ## Nsangi Airport (FZAF)
 
 **Location:** Nsangi (near Ngidinga), Kongo Central  
@@ -43,5 +45,5 @@ However, at -5.604005°, 15.313070°, just east of the factory ruins, there is a
 
 ## See Also
 
-- [List of Airports](list.md)
-- [Homepage](index.md)
+- [List of Airports](../../list.md)
+- [Homepage](../../index.md)
