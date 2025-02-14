@@ -44,7 +44,7 @@ Due to the airport’s small size and lack of expansion possibilities, a decisio
 
 Since the opening of the new site in 2012, the old Boma Airport has been abandoned. The former runway is now largely overgrown, and new buildings have begun to encroach on the former airport grounds. 
 
-Despite never being fully completed, the new Boma Lukandu Airport has already seen limited use. In 2019, a flight carrying President Félix Tshisekedi landed at the airport, confirming that the runway is capable of handling aircraft. However, the airport’s actual operational status remains uncertain. A [2021 report by ACP](https://acp.cd/economie/kongo-central-aeroport-de-lukandu-a-boma-abandonne-a-son-triste-sort/) described the airport as abandoned, with its access road in poor condition. More recent information is scarce, but 2022 satellite imagery suggests that the airport has not been maintained.
+Despite never being fully completed, the new Boma Lukandu Airport has already seen limited use. In 2019, a flight carrying President Félix Tshisekedi landed at the airport, confirming that the runway is capable of handling aircraft. However, the airport’s actual operational status remains uncertain. A [2021 report by ACP](https://acp.cd/economie/kongo-central-aeroport-de-lukandu-a-boma-abandonne-a-son-triste-sort/) describes the airport as abandoned, with its access road in poor condition. More recent information is scarce, but 2022 satellite imagery suggests that the airport has not been maintained.
 
 The transfer of the ICAO and IATA codes (FZAJ/BOA) from the old airport to the new one has not been officially confirmed, adding to the uncertainty surrounding the facility’s current status.
 
