@@ -13,6 +13,8 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
 ## Browse Airports:
 - [Bikoro Airport (FZBC)](airports/bikorofzbc/bikorobokoro.md)
 - [Bokoro Airport](airports/bikorofzbc/bikorobokoro.md)
+- [Boma Airport (old) (FZAJ)](airports/bomafzaj/boma.md)
+- [Boma Lukandu Airport](airports/bomafzaj/boma.md)
 - [Celo-Zongo Airport (FZAD)](airports/zongofzad/zongo.md)
 - [Inkisi Airport (FZAS)](airports/inkisifzas/inkisi.md)
 - [Kimpoko Airport (FZAE)](airports/kimpokofzae/kimpoko.md)
