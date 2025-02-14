@@ -13,6 +13,8 @@ Ci-dessous, vous trouverez une liste complète des aéroports et aérodromes en 
 ## Explorer les Aéroports :
 - [Aéroport de Bikoro (FZBC)](/airports_fr/bikorofzbc/bikorobokoro_fr.md)
 - [Aéroport de Bokoro](/airports_fr/bikorofzbc/bikorobokoro_fr.md)
+- [Aéroport de Boma (ancien) (FZAJ)](airports_fr/bomafzaj/boma_fr.md)
+- [Aéroport de Boma Lukandu](airports_fr/bomafzaj/boma_fr.md)
 - [Aéroport de Celo-Zongo (FZAD)](/airports_fr/zongofzad/zongo_fr.md)
 - [Aéroport de Inkisi (FZAS)](/airports_fr/inkisifzas/inkisi_fr.md)
 - [Aéroport de Kimpoko (FZAE)](/airports_fr/kimpokofzae/kimpoko_fr.md)
