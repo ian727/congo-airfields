@@ -4,6 +4,8 @@ title: "Celo-Zongo Airport (FZAD)"
 show_title: false
 ---
 
+[en français](../../airports_fr/zongofzad/zongo_fr.md)
+
 ## Celo-Zongo Airport (FZAD)
 
 **Location:** Zongo, Kongo Central  
@@ -18,6 +20,8 @@ Situated 75 kilometers southwest of Kinshasa, Zongo Falls is one of the few acce
 
 Since colonial times, Zongo has been known as a travel destination. Today, several tourist agencies offer guided trips, including sightseeing tours and swimming excursions in the falls' refreshing waters. The availability of established lodges and hotels makes Zongo one of the very few places in the DRC where visitors can actually book accommodations in advance.
 
+Zongo, along with another village further upstream, Sanga, is home to hydroelectric dams. Both were built during the colonial era in the 1950s and supply the majority of electricity to the capital, Kinshasa.
+
 <div class="image-left">
     <figure>
         <img src="https://live.staticflickr.com/514/19213974360_ec7ec92855_b.jpg" alt="Zongo Falls" width="70%">
@@ -27,7 +31,7 @@ Since colonial times, Zongo has been known as a travel destination. Today, sever
 
 ## Historical Background
 
-Very little official documentation exists regarding the establishment of Celo-Zongo Airport. No precise records were found that indicate when the airstrip was originally built or by whom. 
+Very little official documentation exists regarding the establishment of Celo-Zongo Airport. No precise records indicate when the airstrip was originally built or by whom. However, it can be assumed that its construction was linked either to the region's touristic development or the installation of the hydroelectric facilities.
 
 However, its existence can be confirmed through historical maps. The 1966 edition of the U.S. Defense Mapping Agency's aeronautical Joint Operations Graphics clearly marks the airstrip under the name "Zongo Airport".  
 
@@ -49,17 +53,11 @@ By 1996, the U.S. Tactical Pilotage Chart continued to display the airport at th
 
 The current name, Celo-Zongo Airport, appears to be derived from a nearby village named Celo, which can be found on a 1936 map. Today, Celo appears to be called Selo, with verious sources calling it either Selo-Zongo or Zongo-Selo.
 
----
-
 ## Current Status (as of 2025)  
 
-The operational status of Celo-Zongo Airport remains unclear. There is no known evidence of recent flights taking place at the airstrip. However, satellite imagery confirms its presence, and it remains a clearly defined area. 
+The operational status of Celo-Zongo Airport remains unclear. There is no known evidence of recent flights taking place at the airstrip. However, satellite imagery confirms its presence, and it remains a clearly defined area. Interestingly, the airport's shape is easily recognizable on aerial images not because of visible infrastructure, but because its perimeter is clearly delineated by roads that curve around it.  
 
-Interestingly, the airport's shape is easily recognizable on aerial images not because of visible infrastructure, but because its perimeter is clearly delineated by roads that curve around it.  
-
-The airport itself appears to be a grassy field, with no visible markings such as tire tracks that would indicate recent aircraft activity. This strongly suggests that no planes have used the airport for a long time.  
-
-However, despite the apparent lack of activity, the runway area is still kept clear of vegetation and potential obstructions. Given the proximity of Zongo's tourist infrastructure, it is possible that the airport is maintained for emergency use, allowing for quick evacuations in case of a medical or security incident at the resort.
+The airport itself appears to be a grassy field, with no visible markings, such as tire tracks, that would indicate recent aircraft activity. This strongly suggests that no planes have used the airport for a long time. However, despite the apparent lack of activity, the runway area remains clear of vegetation and potential obstructions. The 2015 MAF Airports Directory lists SNEL, the Congo's state-owned company responsible for electricity production, transmission, and distribution, as the airport's operator. This suggests that the airport is primarily linked to Zongo's hydroelectric facilities rather than its tourism infrastructure. It is likely maintained to ensure quick access in case of failures, as disruptions could threaten Kinshasa's electricity supply.
 
 <div class="image-left">
     <figure>
@@ -70,5 +68,5 @@ However, despite the apparent lack of activity, the runway area is still kept cl
 
 ## See Also
 
-- [List of Airports](list.md)
-- [Homepage](index.md)
+- [List of Airports](../../list.md)
+- [Homepage](../../index.md)
