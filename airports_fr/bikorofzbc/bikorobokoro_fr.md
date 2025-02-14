@@ -8,11 +8,23 @@ show_title: false
 
 ## Aéroport de Bikoro (FZBC) & Aéroport de Bokoro
 
-**Localisation :** Bikoro, Équateur ou Bokoro, Mai-Ndombe  
-**Statut :** Bikoro (FZBC) : Inconnu, Bokoro : Actif avec des vols réguliers  
-**Code ICAO :** Bikoro : FZBC, Bokoro : aucun  
-**Code IATA :** aucun  
-**Coordonnées :** Pour FZBC (non vérifié) : -0.733330°, 18.133330° ; pour l'Aéroport de Bokoro : -2.884714°, 18.352761°  
+**Localisation :**
+- Aéroport de Bikoro : Bikoro, Équateur
+- Aéroport de Bokoro : Bokoro, Mai-Ndombe
+
+**Statut :**
+- Aéroport de Bikoro : Inconnu, probablement jamais existé
+- Aéroport de Bokoro : Actif avec des vols réguliers
+
+**Code ICAO :**
+- Aéroport de Bikoro : FZBC
+- Aéroport de Bokoro : Aucun
+
+**Code IATA :** Aucun
+
+**Coordonnées :**
+- Aéroport de Bikoro (non vérifiées et incorrectes) : -0.733330°, 18.133330°
+- Aéroport de Bokoro (vérifiées) : -2.884714°, 18.352761°
 
 Bikoro est une ville marchande située sur les rives du lac Tumba, servant de plus grande localité de la région. Elle est reliée à Mbandaka via la Route Nationale 21 (RN21) et est documentée depuis longtemps sur diverses cartes.  
 
