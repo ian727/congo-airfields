@@ -57,5 +57,5 @@ Actuellement, aucun vol commercial régulier n’est assuré à l’aéroport de
 
 ## Voir aussi  
 
-- [Liste des Aéroports](list_fr.md)  
-- [Page d'accueil](index_fr.md)  
+- [Liste des Aéroports](../../list_fr.md)  
+- [Page d'accueil](../../index_fr.md)  
