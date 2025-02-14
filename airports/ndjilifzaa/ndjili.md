@@ -16,7 +16,7 @@ show_title: false
 
 Kinshasa N'Djili International Airport is the largest and busiest airport in the Democratic Republic of the Congo, serving as the primary gateway for both domestic and international flights. It is served daily by multiple national and international airlines.
 
-The history and operational details of N'Djili Airport are already well-documented and can be easily accessed through various online sources. 
+The history and operational details of N'Djili Airport are already well-documented and can be easily accessed through various online sources. A great article about N'Djili Airport can be found [here](https://kosubaawate.blogspot.com/2014/01/leopoldville-1959-tale-of-two-airports.html).
 
 This airport is included in this database only for the sake of completeness, as the primary focus of this project is to document lesser-known airfields across the country.
 
