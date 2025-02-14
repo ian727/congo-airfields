@@ -10,14 +10,18 @@ show_title: false
 
 **Location:** 
 - Bikoro Airport: Bikoro, Équateur  
-- Bokoro Airport: Bokoro, Mai-Ndombe  
+- Bokoro Airport: Bokoro, Mai-Ndombe
+
 **Status:**
 - Bikoro Airport: Unknown, probably never existed
 - Bokoro Airport: Active with regular flights  
+
 **ICAO Code:**
 - Bikoro Airport: FZBC
 - Bokoro Airport: none
+
 **IATA Code:** none  
+
 **Coordinates:**
 - Bikoro Airport (unverified and wrong): -0.733330°, 18.133330°  
 - Bokoro Airport (verified): -2.884714°, 18.352761°  
