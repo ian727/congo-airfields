@@ -8,11 +8,19 @@ show_title: false
 
 ## Bikoro Airport (FZBC) & Bokoro Airport
 
-**Location:** Bikoro, Équateur or Bokoro, Mai-Ndombe  
-**Status:** Bikoro (FZBC): Unknown, Bokoro: Active with regular flights  
-**ICAO Code:** Bikoro: FZBC, Bokoro: none  
+**Location:** 
+- Bikoro Airport: Bikoro, Équateur  
+- Bokoro Airport: Bokoro, Mai-Ndombe  
+**Status:**
+- Bikoro Airport: Unknown, probably never existed
+- Bokoro Airport: Active with regular flights  
+**ICAO Code:**
+- Bikoro Airport: FZBC
+- Bokoro Airport: none
 **IATA Code:** none  
-**Coordinates:** For FZBC (unverified): -0.733330°, 18.133330° ; for Bokoro Airport: -2.884714°, 18.352761°  
+**Coordinates:**
+- Bikoro Airport (unverified and wrong): -0.733330°, 18.133330°  
+- Bokoro Airport (verified): -2.884714°, 18.352761°  
 
 Bikoro is a market town situated on the shores of Lac Tumba, serving as the largest settlement in the region. It is connected to Mbandaka via National Road 21 (RN21) and has long been documented on various maps.  
 
