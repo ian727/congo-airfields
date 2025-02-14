@@ -4,6 +4,8 @@ title: "Muanda Airport (FZAG)"
 show_title: false
 ---
 
+[en français](../../airports_fr/muandafzag/muanda_fr.md)
+
 ## Muanda Airport (FZAG)
 
 **Location:** Muanda (Moanda), Kongo Central  
@@ -44,7 +46,7 @@ Muanda Airport remains active, with regular flights connecting it to the rest of
 
 In 2015, the newly established Congo Airways announced regular flights to Muanda, using Dash-8-400 aircraft. However, it remains unclear whether these flights ever took place or were canceled before operations began.
 
-Currently, no scheduled airline service operates at Muanda Airport. However, using Flightradar24, a Beech 1900 aircraft can be observed flying between Kinshasa and Muanda almost daily. These flights are likely charter operations for employees working in the oil industry, rather than publicly available commercial flights.
+Currently, no scheduled airline service operates at Muanda Airport. However, using Flightradar24, a Beech 1900 aircraft can be observed flying between [Kinshasa N'Djili](../ndjilifzaa/ndjili.md) and Muanda almost daily. These flights are likely charter operations for employees working in the oil industry, rather than publicly available commercial flights.
 
 <div class="image-left">
     <figure>
