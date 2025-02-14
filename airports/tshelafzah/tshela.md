@@ -4,6 +4,8 @@ title: "Tshela Airport (FZAH)"
 show_title: false
 ---
 
+[en français](../../airports_fr/tshelafzah/tshela_fr.md)
+
 ## Tshela Airport (FZAH)
 
 **Location:** Tshela, Kongo Central  
@@ -51,5 +53,5 @@ The same article also reports that with the new bridge, the RVA (Régie des Voie
 
 ## See Also
 
-- [List of Airports in the DRC](list.md)
-- [Homepage](index.md)
+- [List of Airports in the DRC](../../list.md)
+- [Homepage](../../index.md)
