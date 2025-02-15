@@ -9,7 +9,7 @@ show_title: false
 ## Aéroport de Celo-Zongo (FZAD)
 
 **Localisation :** Zongo, Kongo Central  
-**Statut :** Intermittent  
+**État :** Intermittent  
 **Code ICAO :** FZAD  
 **Code IATA :** Aucun  
 **Coordonnées (vérifiées) :** -4.790664°, 14.905632°  
@@ -53,7 +53,7 @@ En 1996, la U.S. Tactical Pilotage Chart continue de mentionner l’aéroport au
 
 Le nom actuel "Aéroport de Celo-Zongo" semble dériver d’un village voisin nommé Celo, qui figure sur une carte de 1936. Aujourd’hui, Celo semble être appelé "Selo", et différentes sources mentionnent l’endroit sous les noms de Selo-Zongo ou Zongo-Selo.  
 
-## Statut actuel (en 2025)  
+## État actuel (en 2025)  
 
 Le statut opérationnel de l’Aéroport de Celo-Zongo reste incertain. Aucune preuve récente ne confirme l’exploitation de la piste pour des vols. Cependant, les images satellites confirment toujours son existence, et l’aérodrome reste une zone clairement définie. Fait intéressant, la forme de l’aéroport est facilement reconnaissable sur les images aériennes, non pas grâce aux infrastructures visibles, mais parce que son périmètre est clairement délimité par des routes qui l’entourent.  
 

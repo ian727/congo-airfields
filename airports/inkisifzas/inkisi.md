@@ -9,7 +9,7 @@ show_title: false
 ## Inkisi Airport (FZAS)
 
 **Location:** Kisantu, Kongo Central  
-**Status:** Possibly Removed  
+**Status:** Abandoned with no visible traces left, exact location unknown
 **ICAO Code:** FZAS  
 **IATA Code:** none  
 **Coordinates (not verified):** -5.162953°, 15.002718°  

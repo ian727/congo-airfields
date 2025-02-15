@@ -9,7 +9,7 @@ show_title: false
 ## Aéroport de Kimpoko (FZAE)
 
 **Localisation :** Kimpoko, Kinshasa  
-**Statut :** Réaménagé  
+**État :** Réaménagé  
 **Code ICAO :** FZAE  
 **Code IATA :** aucun  
 **Coordonnées (vérifiées) :** -4.214337, 15.558997  
@@ -48,7 +48,7 @@ Seule une liste officielle des aéroports de l’ICAO ou une version du Doc 7910
     </figure>
 </div>
 
-## Statut actuel (en 2025)  
+## État actuel (en 2025)  
 
 En 1996, l'Aéroport de Kimpoko n'apparaît plus sur la carte U.S. Tactical Pilotage Chart, suggérant qu'il avait déjà cessé d'exister à cette époque. L'imagerie satellite de l'emplacement indiqué sur la carte de 1966 montre que la zone a été réaménagée avec des infrastructures supplémentaires pour le complexe de N’Sele, probablement durant les années 1970, lorsque le site était encore en activité. Aujourd’hui, il ne reste aucune trace de l'Aéroport de Kimpoko.
 

@@ -9,7 +9,7 @@ show_title: false
 ## Aéroport de Muanda (FZAG)
 
 **Localisation :** Muanda (Moanda), Kongo Central  
-**Statut :** Actif avec des vols réguliers  
+**État :** Actif avec des vols réguliers  
 **Code ICAO :** FZAG  
 **Code IATA :** MNB  
 **Coordonnées :** -5.930608°, 12.351373°  
@@ -40,7 +40,7 @@ L’explication la plus plausible de cette modernisation est la découverte et l
     </figure>
 </div>
 
-## Statut actuel (en 2025)  
+## État actuel (en 2025)  
 
 L’Aéroport de Muanda reste actif, avec des vols réguliers le reliant au reste du pays. Cependant, son rôle dans le transport de passagers** a été variable au fil des ans.  
 

@@ -9,7 +9,7 @@ show_title: false
 ## Aéroport d'Inkisi (FZAS)
 
 **Localisation :** Kisantu, Kongo Central  
-**Statut :** Possiblement supprimé  
+**État :** Abandonné, aucune trace visible, emplacement exact inconnu
 **Code ICAO :** FZAS  
 **Code IATA :** aucun  
 **Coordonnées (non vérifiées) :** -5.162953°, 15.002718°  
@@ -31,7 +31,7 @@ Les coordonnées ICAO fournies (-5.167, 15.000) sont très génériques et sembl
     </figure>
 </div>
 
-## Statut actuel (en 2025)  
+## État actuel (en 2025)  
 
 L’analyse de l’emplacement de l’Aéroport KM 237 avec des images satellites ne fournit aucune preuve claire de la présence d’une piste d’atterrissage. L’emplacement approximatif, à environ 300 mètres au nord de la Route Nationale 1, semble plausible, mais aucun vestige distinct d’une piste n’est visible.
 

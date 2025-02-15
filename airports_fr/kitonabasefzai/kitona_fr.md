@@ -9,7 +9,7 @@ show_title: false
 ## Base aérienne Kitona (FZAI)
 
 **Localisation :** Kitona, Kongo Central  
-**Statut :** Actif  
+**État :** Actif  
 **Code ICAO :** FZAI  
 **Code IATA :** Aucun  
 **Coordonnées (vérifiées) :** -5.919086°, 12.442534°  
@@ -40,7 +40,7 @@ Cette situation changea radicalement en 1998, lorsque les forces rwandaises, com
     </figure>
 </div>
 
-## Statut actuel (en 2025)  
+## État actuel (en 2025)  
 
 À l'exception de l'incursion rwandaise en 1998, la province du Kongo Central est restée relativement paisible comparée à d'autres régions du Congo. Depuis lors, la base de Kitona a retrouvé son rôle initial de centre de formation militaire, bien que son importance stratégique soit réduite.  
 

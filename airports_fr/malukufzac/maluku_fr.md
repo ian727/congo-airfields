@@ -9,7 +9,7 @@ show_title: false
 ## Aéroport de Maluku (FZAC)
 
 **Localisation :** Maluku, Kinshasa  
-**Statut :** Possiblement inactif, mais semble utilisable  
+**État :** Possiblement inactif, mais semble utilisable  
 **Code ICAO :** FZAC  
 **Code IATA :** Aucun  
 **Coordonnées (vérifiées) :** -4.070861°, 15.543336°  
@@ -26,7 +26,7 @@ Le code ICAO de l'Aéroport de Maluku est FZAC. Étant donné que C est la trois
 
 Il est donc probable que la construction de l’aéroport n’ait pas fait partie des projets d’industrialisation de Mobutu à Maluku, mais qu’elle leur soit antérieure. Cependant, l’aéroport n'apparaît ni sur les Joint Operations Graphics de 1966, publiées par la U.S. Defense Mapping Agency, ni sur la carte U.S. Tactical Pilotage Chart de 1996. Cette absence est particulièrement étrange, étant donné que la piste de l’Aéroport de Maluku est revêtue, une caractéristique rare parmi les petits aéroports du Congo. Aucune explication n'a été trouvée concernant son absence des cartes aéronautiques.
 
-## Statut actuel (en 2025)  
+## État actuel (en 2025)  
 
 Contrairement à de nombreuses petites pistes d'atterrissage en République Démocratique du Congo, l'Aéroport de Maluku possède une piste en dur. Cependant, avec le déclin économique de Maluku, l'aéroport a été laissé sans entretien pendant de nombreuses années. La piste reste clairement visible sur les images aériennes et, bien que sa surface se détériore, elle semble encore potentiellement utilisable. L’aérodrome comprend un grand hangar, mais l’état général des infrastructures est dégradé.  
 

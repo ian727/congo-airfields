@@ -12,7 +12,7 @@ show_title: false
 - Aéroport de Bikoro : Bikoro, Équateur
 - Aéroport de Bokoro : Bokoro, Mai-Ndombe
 
-**Statut :**
+**État :**
 - Aéroport de Bikoro : Inconnu, probablement jamais existé
 - Aéroport de Bokoro : Actif avec des vols réguliers
 
@@ -86,7 +86,7 @@ Un document de 2015 de Mission Aviation Fellowship (MAF) précise explicitement 
 
 L'Aéroport de Bokoro reste lui aussi largement non documenté. À seulement huit kilomètres au sud de Bokoro, une autre piste d'atterrissage, [l'Aéroport de Kempa (FZBG)](../kempafzbg/kempa_fr.md), a existé et était clairement indiquée sur la carte Joint Operations Graphics de 1966 ainsi que sur la carte U.S. Tactical Pilotage Chart de 1996. Des images satellites de basse résolution datant de 1984 montrent une piste bien définie à Kempa, tandis que la zone qui accueille aujourd’hui l'Aéroport de Bokoro n'apparaît alors que sous la forme d’une ligne vague. Au fil des années suivantes, la piste de l'Aéroport de Kempa s'est estompée progressivement, indiquant son abandon, tandis que la piste de l'Aéroport de Bokoro s’est précisée, suggérant qu'à un moment donné, l'Aéroport de Bokoro a remplacé Kempa en tant que principale piste d'atterrissage de la région.
 
-## Statut actuel (en 2025)  
+## État actuel (en 2025)  
 
 Le statut de l'Aéroport de Bikoro (FZBC) reste totalement incertain, et il est probable qu'il n'ait jamais existé. En revanche, l'Aéroport de Bokoro est actif et entretenu, bien qu'il ne reçoive pas de vols réguliers. La compagnie aérienne KinAvia répertorie l'Aéroport de Bokoro pour des vols charters réguliers.  
 

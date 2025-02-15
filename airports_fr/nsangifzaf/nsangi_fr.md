@@ -9,7 +9,7 @@ show_title: false
 ## Aéroport de Nsangi (FZAF)
 
 **Localisation :** Nsangi (près de Ngidinga), Kongo Central  
-**Statut :** Abandonné  
+**État :** Abandonné  
 **Code ICAO :** FZAF  
 **Code IATA :** Aucun  
 **Coordonnées (non vérifiées et incorrectes) :** -5.600000°, 15.316670°  
@@ -28,7 +28,7 @@ Les cartes aéronautiques Joint Operations Graphics, publiées par la U.S. Defen
 
 De plus, la carte U.S. Tactical Pilotage Chart de 1996, qui inclut encore de nombreux aérodromes abandonnés, ne répertorie pas FZAF, ce qui suggère que l’aéroport était déjà hors service à cette époque, voire jamais reconnu officiellement.  
 
-## Statut actuel (en 2025)  
+## État actuel (en 2025)  
 
 En raison du manque de documentation, il est probable que l’Aéroport de Nsangi (FZAF) ait été construit comme une piste privée destinée à desservir l’usine textile. Cependant, son emplacement exact reste incertain.  
 

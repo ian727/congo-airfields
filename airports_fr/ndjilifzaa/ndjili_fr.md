@@ -9,7 +9,7 @@ show_title: false
 ## Aéroport international de Kinshasa N'Djili (FZAA)
 
 **Localisation :** Kinshasa, Kinshasa  
-**Statut :** Actif avec des vols réguliers  
+**État :** Actif avec des vols réguliers  
 **Code ICAO :** FZAA  
 **Code IATA :** FIH  
 **Coordonnées :** -4.386544°, 15.445050°  

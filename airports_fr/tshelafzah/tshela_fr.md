@@ -9,7 +9,7 @@ show_title: false
 ## Aéroport de Tshela (FZAH)
 
 **Localisation :** Tshela, Kongo Central  
-**Statut :** Abandonné, mais réactivation en cours  
+**État :** Abandonné, mais réactivation en cours  
 **Code ICAO :** FZAH  
 **Code IATA :** Aucun  
 **Coordonnées (vérifiées) :** -5.013936°, 12.956319°  
@@ -36,7 +36,7 @@ Aucune documentation n’a été trouvée concernant la fondation de l’Aéropo
     </figure>
 </div>
 
-## Statut actuel (en 2025)  
+## État actuel (en 2025)  
 
 La zone où l’Aéroport de Tshela était autrefois situé est aujourd’hui utilisée pour l’agriculture, les champs recouvrant une grande partie du site. L’état des infrastructures suggère que l’aéroport est abandonné depuis de nombreuses années.  
 

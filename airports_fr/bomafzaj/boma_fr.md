@@ -9,7 +9,7 @@ show_title: false
 ## Aéroport de Boma (ancien) et Aéroport de Boma Lukandu (nouveau) (FZAJ)
 
 **Localisation :** Boma, Kongo Central  
-**Statut :** Opérationnel, mais incertain  
+**État :** Opérationnel, mais incertain  
 **Code ICAO :** FZAJ  
 **Code IATA :** BOA  
 **Coordonnées :**  
@@ -40,7 +40,7 @@ Les origines du premier aéroport de Boma ne sont pas bien documentées, mais il
 
 En raison de la petite taille de l’aéroport et de l’impossibilité d’agrandir la piste, il a été décidé en 2012 de construire un nouvel aéroport, appelé Aéroport International de Boma Lukandu. Ce nouveau site, situé à 8,5 kilomètres au nord-ouest de Boma, était conçu pour accueillir un terminal moderne et une piste de 3 000 mètres. Cependant, les travaux ont été interrompus après la préparation de seulement 2 000 mètres de piste, laissant le projet inachevé jusqu’à aujourd’hui.
 
-## Statut actuel (en 2025)  
+## État actuel (en 2025)  
 
 Depuis l’ouverture du nouveau site en 2012, l’ancien Aéroport de Boma a été abandonné. Son ancienne piste est en grande partie envahie par la végétation, et de nouvelles constructions ont commencé à empiéter sur l’ancien terrain aéroportuaire.  
 

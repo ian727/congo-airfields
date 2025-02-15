@@ -9,7 +9,7 @@ show_title: false
 ## Aéroport de Konde (FZAU)
 
 **Localisation :** Konde, Kongo Central  
-**Statut :** Possiblement supprimé  
+**État :** Abandonné, aucune trace visible, emplacement exact inconnu
 **Code ICAO :** FZAU  
 **Code IATA :** Aucun  
 **Coordonnées (non vérifiées) :** Près de -5.756851°, 12.264788°  
@@ -38,7 +38,7 @@ La version de 1967 des Joint Operations Graphics** aéronautiques, publiées par
 
 Sur la carte U.S. Tactical Pilotage Chart de 1996, l’aéroport n'est plus indiqué.
 
-## Statut actuel (en 2025)  
+## État actuel (en 2025)  
 
 Malgré une analyse approfondie de l'imagerie satellite, aucune trace claire de l'Aéroport de Konde n'a pu être identifiée. Certains motifs linéaires sont visibles dans les champs environnants, mais ils semblent être liés à l'agriculture ou aux systèmes de drainage plutôt qu'à des vestiges d'une ancienne piste d'atterrissage. De plus, ces structures ne correspondent pas à l'orientation de piste 03/21 mentionnée à la fois dans l'Annuaire des aéroports de la MAF (2015) et le Répertoire des aérodromes et hélipads de la RDC de l'ONU (2015).  
 

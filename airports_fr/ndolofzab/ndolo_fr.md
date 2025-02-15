@@ -9,7 +9,7 @@ show_title: false
 ## Aéroport de Kinshasa N'Dolo (FZAB)
 
 **Localisation :** Kinshasa, Kinshasa  
-**Statut :** Actif avec des vols réguliers  
+**État :** Actif avec des vols réguliers  
 **Code ICAO :** FZAB  
 **Code IATA :** NLO  
 **Coordonnées :** -4.326655°, 15.327401°  
