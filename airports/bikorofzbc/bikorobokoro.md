@@ -66,7 +66,7 @@ The only formal evidence of Bikoro Airport (FZBC) is its listing in the ICAO reg
 <div class="image-left">
     <figure>
         <img src="/congo-airfields/airports/bikorofzbc/FZBC_1947.png" alt="Bikoro on 1966 map" width="70%">
-        <figcaption>Yembe-Moke Airport shown on the 1947 Carte des renseignements aéronautiques.</figcaption>
+        <figcaption>Yembe-Moke Airport shown on the 1947 Carte des renseignements aéronautiques. ©Royal Museum for Central Africa</figcaption>
     </figure>
 </div>
 <div class="image-left">
