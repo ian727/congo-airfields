@@ -61,8 +61,14 @@ Malgré son existence de longue date, Bokoro n'apparaît pas sur les cartes réc
 
 ## Contexte historique  
 
-La seule preuve formelle de l'Aéroport de Bikoro (FZBC) est son inscription dans le registre de l'ICAO. Les coordonnées fournies pour FZBC le placent au centre-ville de Bikoro, mais aucune preuve historique ou récente n'indique l'existence d'un aéroport à cet endroit. Au lieu de cela, Bikoro semble avoir été historiquement desservi par [l'Aéroport de Yembe-Moke (FZEM)](../yembe-mokefzem/yembe-moke_fr.md), documenté sur la carte Joint Operations Graphics de 1966 mais disparu sur la carte U.S. Tactical Pilotage Chart de 1996.  
+La seule preuve formelle de l’existence de l’Aéroport de Bikoro (FZBC) est son inscription dans le registre de l’ICAO. Les coordonnées fournies pour FZBC le placent au centre de la ville de Bikoro, mais aucune preuve historique ou récente n’indique qu’un aéroport ait jamais existé à cet endroit. En revanche, Bikoro a historiquement été desservi par [l'Aéroport de Yembe-Moke (FZEM)](../yembe-mokefzem/yembe-moke_fr.md), qui est documenté sur la Carte des renseignements aéronautiques de 1947 et sur la Joint Operations Graphics de 1966, publiée par la U.S. Defense Mapping Agency. Cependant, sur la Tactical Pilotage Chart de 1996, l’Aéroport de Yembe-Moke n’apparaît plus.
 
+<div class="image-left">
+    <figure> 
+        <img src="/congo-airfields/airports/bikorofzbc/FZBC_1947.png" alt="Bikoro sur la carte de 1966" width="70%"> 
+        <figcaption>L’Aéroport de Yembe-Moke figurant sur la Carte des renseignements aéronautiques de 1947.</figcaption>
+    </figure>
+</div>
 <div class="image-left">
     <figure>
         <img src="/congo-airfields/airports/bikorofzbc/fzbc.png" alt="Bikoro sur la carte de 1966" width="70%">
