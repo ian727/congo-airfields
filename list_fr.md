@@ -18,6 +18,7 @@ Ci-dessous, vous trouverez une liste complète des aéroports et aérodromes en 
 - [Aéroport de Celo-Zongo (FZAD)](/airports_fr/zongofzad/zongo_fr.md)
 - [Aéroport de Inkisi (FZAS)](/airports_fr/inkisifzas/inkisi_fr.md)
 - [Aéroport de Kimpoko (FZAE)](/airports_fr/kimpokofzae/kimpoko_fr.md)
+- [Aéroport de Kinshasa Binza (FZAK)](/airports_fr/binzafzak/binza_fr.md)
 - [Aéroport de Kinshasa N'Djili (FZAA)](/airports_fr/ndjilifzaa/ndjili_fr.md)
 - [Aéroport de Kinshasa N'Dolo (FZAB)](/airports_fr/ndolofzab/ndolo_fr.md)
 - [Aéroport de Kitona Base (FZAI)](/airports_fr/kitonabasefzai/kitona_fr.md)
