@@ -23,6 +23,7 @@ Ci-dessous, vous trouverez une liste complète des aéroports et aérodromes en 
 - [Aéroport de Kinshasa N'Dolo (FZAB)](/airports_fr/ndolofzab/ndolo_fr.md)
 - [Aéroport de Kitona Base (FZAI)](/airports_fr/kitonabasefzai/kitona_fr.md)
 - [Aéroport de Konde (FZAU)](/airports_fr/kondefzau/konde_fr.md)
+- [Aéroport de Luozi (FZAL)](/aiports_fr/luozifzal/luozi_fr.md)
 - [Aéroport de Maluku (FZAC)](/airports_fr/malukufzac/maluku_fr.md)
 - [Aéroport de Muanda (FZAG)](/airports_fr/muandafzag/muanda_fr.md)
 - [Aéroport de Nsangi (FZAF)](/airports_fr/nsangifzaf/nsangi_fr.md)
