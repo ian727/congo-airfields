@@ -50,6 +50,13 @@ Matadi-Tshimpi Airport remains active, with frequent but unscheduled flights con
 
 The airport also includes a clearly separated apron and minor terminal facilities. KinAvia operates frequent shuttle flights between Kinshasa N'Dolo Airport and Matadi-Tshimpi Airport, primarily serving business travelers and government officials rather than offering a public commercial service.
 
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/matadifzam/FZAM_1967.png" alt="FZAM 2022" width="70%">
+        <figcaption>Matadi-Tshimpi Airport as as seen on 2022 satellite imagery.</figcaption>
+    </figure>
+</div>
+
 ## See Also
 
 - [List of Airports](../../list.md)  
