@@ -25,6 +25,7 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
 - [Konde Airport (FZAU)](airports/kondefzau/konde.md)
 - [Luozi Airport (FZAL)](airports/luozifzal/luozi.md)
 - [Maluku Airport (FZAC)](airports/malukufzac/maluku.md)
+- [Matadi-Tshimpi Airport (FZAM)](airports/matadifzam/matadi.md)
 - [Muanda Airport (FZAG)](airports/muandafzag/muanda.md)
 - [Nsangi Airport (FZAF)](airports/nsangifzaf/nsangi.md)
 - [Tshela Airport (FZAH)](airports/tshelafzah/tshela.md)
