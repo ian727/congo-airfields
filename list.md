@@ -15,8 +15,20 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
 *Click on the columns to sort the table respectively!*
 
 <style>
+  #airportTable td:nth-child(1) { 
+    font-size: 12px;
+  }
+  #airportTable td:nth-child(2) { 
+    font-size: 12px;
+  }
+  #airportTable td:nth-child(3) { 
+    font-size: 12px;
+  }
+  #airportTable td:nth-child(4) { 
+    font-size: 12px;
+  }
   #airportTable td:nth-child(5) { 
-    font-size: 12px; /* Smaller text for Status column */
+    font-size: 10px;
   }
 </style>
 
