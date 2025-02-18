@@ -86,8 +86,8 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>ABANDONED</td>
     </tr>
     <tr>
-      <td><a href="airports/kimpokofzad/kimpoko.html">Kimpoko Airport</a></td>
-      <td>FZAD</td>
+      <td><a href="airports/kimpokofzae/kimpoko.html">Kimpoko Airport</a></td>
+      <td>FZAE</td>
       <td>-</td>
       <td>Kinshasa</td>
       <td>REDEVELOPED</td>
