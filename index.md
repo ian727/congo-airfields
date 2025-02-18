@@ -14,58 +14,50 @@ What followed was, in the words of historian David van Reybrouck, *"a massacre o
 
 While Belgium constructed roads and railways, many remote mining sites, plantations, and mission posts were most conveniently accessed by airplane. As a result, hundreds of small airstrips were established across the country. Most were simple dirt runways, cleared of vegetation either manually or by light machinery. Some were no more than flattened fields in the savanna or rainforest.
 
-Many of these little-known airfields still exist today, yet most are undocumented. Their locations, conditions, and histories are often unknown to both aviation authorities and the public.
-
 ## Airfields in the Congo
 
-The first systematic documentation of airfields in the Congo took place before independence in 1960, under Belgian colonial rule. The airfields were assigned ICAO codes—the four-letter airport codes issued by the International Civil Aviation Organization (ICAO) to uniquely identify airports.
+Today, hundreds of airfields exist across the Congo, while hundreds more have been abandoned or even completely redeveloped. Yet, only a handful of major airports — the largest and most important ones — are officially and accurately documented. For smaller airstrips, documentation is often incomplete, and even their recorded coordinates can be unreliable. Still, as long as an airstrip is active, it can usually be identified on satellite imagery, since a runway is relatively easy to spot.
 
-These ICAO codes followed a structured format:
+However, the challenge becomes entirely different when dealing with abandoned airfields. With nothing more than a name and an imprecise set of coordinates, pinpointing their former locations can be extremely difficult — let alone uncovering details about their history. Locating such sites often requires scouring old maps and aeronautical charts, searching for any geographic documentation that might reveal clues. In some cases, even identifying the location of the place an airfield was named after can be a challenge. Occasionally, an airport’s name appears in colonial-era documents, offering insight into why and when it was established.
 
-The first letter, F, was assigned to Central Africa.
-The second letter, C, stood for Congo Belge (Belgian Congo).
-The last two letters represented individual airports.
-In most countries, these last two letters are based on the airport’s name - for example, Berlin-Tegel (EDDT):
+## ICAO Codes in the Congo
 
-E = Europe  
-D = Germany  
-D = Major airport  
-T = Tegel  
+An ICAO Code is a four-letter identifier assigned to an airport by the International Civil Aviation Organization (ICAO). These codes are published quarterly in ICAO Document 7910 and are crucial for aviation operations, including flight planning, navigation, and communication.
 
-However, the Congo followed a different system. Instead of naming conventions, ICAO codes were assigned alphabetically by region, moving clockwise across the country.
+The first letter of an ICAO code designates the global region, while the second letter represents the country. In the case of the Democratic Republic of the Congo, all ICAO codes begin with **FZ**:
 
-"A" for Kongo Central  
-"B," "C," and "D" for the former Bandundu region  
-"E" for Equateur  
-"M" and "N" for the Kivus  
+- **F** stands for Central and Southern Africa,
+- **Z** was assigned to Zaire, the country’s former name.
 
-The pattern continues across the country, with "W" marking inland places like Lodja and Mbuji-Mayi.
-This alphabetical regional system remained even after Congo’s independence in 1960. However, in 1971, President Mobutu Sese Seko renamed the country Zaire, and as a result, the ICAO code system was altered:
+The last two letters indicate the airport itself. In many countries, ICAO codes are designed to resemble the airport’s name—for example, LFPO stands for L (Europe), F (France), P (Paris), O (Orly).
 
-The second letter was changed from C (Congo) to Z (Zaire).
-The format "FZXX" has remained unchanged ever since, even though Zaire itself ceased to exist in 1997.
-For example, Kinshasa N'Djili International Airport was assigned the code FZAA:
+However, the Congo followed a different system. Instead of being based on airport names, ICAO codes were assigned alphabetically by region, moving clockwise across the country:
 
-F = Central Africa  
-Z = Zaire (formerly C for Congo)  
-A = Geographic region around Kinshasa & Kongo Central  
-A = Assigned letter with no special meaning  
+- A for Kongo Central, e.g., FZAM (Matadi-Tshimpi Airport)  
+- B, C, and D for the former Bandundu region, e.g., FZCA (Kikwit Airport)  
+- E, F, and G for the former Équateur region, e.g., FZEN (Basankusu Airport)  
+
+This pattern continues across the country, with V and W marking inland places like Lodja and Mbuji-Mayi.
+
+The origins of this alphabetical system date back to the colonial era, when ICAO codes were first assigned to airports in the Belgian Congo. However, only a fraction of airfields were assigned codes — many remained without official designation. Surprisingly, ICAO codes were not exclusively reserved for major airports; some tiny dirt airstrips also received official designations. Many of these have since vanished, leaving behind nothing but a name in the registry — as the next section will illustrate.
 
 ## Codes, Coordinates, and Mysteries
 
-Today, 286 airports in the Congo have an official ICAO code, yet hundreds more exist without any formal registration. The lack of an official database for small airstrips makes documentation difficult. Even among those that do have ICAO codes, many have been abandoned for decades, and their actual locations remain unclear.
+Today, 286 airports in the Congo have an official ICAO code, yet hundreds more exist without any formal registration. The absence of an official database for small airstrips makes documentation difficult. Even among those that do have ICAO codes, many have been abandoned for decades, and their actual locations remain unclear.
 
-Here are some examples illustrating this:
+Here are some examples of these discrepancies:
 
-- Bikoro Airport (FZBC) appears in the ICAO register, yet Bikoro has never had an airport - a fact confirmed by old maps and, most importantly, even local sources.  
-- Konde Airport (FZAU) exists in databases, but if you visit its given coordinates, all you find is forest and farmland. However, an old map proves that the airstrip once existed - though no trace remains.  
-- Gandajika Airport (FZWC) is another mystery. At the officially listed coordinates, no airstrip can be seen. But analyzing old maps and comparing them with historic satellite imagery reveals the correct location some kilometers away, and: the faint traces of a long-abandoned runway.  
+- Bikoro Airport (FZBC) appears in the ICAO registry, yet Bikoro has never had an airport — a fact confirmed by old maps and even local sources.
+- Konde Airport (FZAU) is listed in databases, but at its recorded coordinates, there is nothing but forest and farmland. However, an old map proves that the airstrip once existed, though no trace remains today.
+- Gandajika Airport (FZWC) presents another mystery. At its officially listed coordinates, no airstrip is visible. However, by analyzing old maps and comparing them with historic satellite imagery, the correct location can be found several kilometers away — along with the faint traces of a long-abandoned runway.
+- Some ICAO codes appear to be missing, such as FZAO. While FZAN and FZAP exist, FZAO does not. Was this code never assigned, or was it removed from ICAO records at some point?
+- At -7.762146°, 18.186861°, deep in the Kwango savannah, a clearly visible runway appears on satellite imagery. This airfield has no name and is not documented anywhere. There are no settlements nearby, and the only access is via small footpaths. What was its purpose?
 
-The Congo’s aviation records are filled with similar discrepancies - where runways exist without documentation, and documented runways no longer exist.
+The Congo’s aviation records are filled with similar mysteries—where runways exist without documentation, and documented runways no longer exist.
 
 ## About This Website
 
-I have spent countless hours researching Congolese airstrips as a hobby, gathering every bit of information available. I believe this knowledge should be publicly accessible, helping others — whether out of curiosity, for research, or practical needs — to find the same answers I sought.
+I have spent countless hours researching Congolese airstrips as a hobby, gathering every bit of information available. I believe this knowledge should be publicly accessible, helping others — whether out of curiosity, for research, or practical needs — to find the same answers I sought. See [this page](about.md) if you want to know details about the research involved in this project.
 
 In 2018, I was lucky enough to visit the Democratic Republic of the Congo, a beautiful country with wonderful people. While there, I saw firsthand the unique status of many airstrips. For example, at Gungu Airport, I observed a common practice: airstrips that are not formally maintained but are kept clear. If a flight is announced, local residents cut the vegetation, making the airstrip operational again within hours.
 
