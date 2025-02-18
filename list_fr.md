@@ -25,6 +25,7 @@ Ci-dessous, vous trouverez une liste complète des aéroports et aérodromes en 
 - [Aéroport de Konde (FZAU)](/airports_fr/kondefzau/konde_fr.md)
 - [Aéroport de Luozi (FZAL)](/aiports_fr/luozifzal/luozi_fr.md)
 - [Aéroport de Maluku (FZAC)](/airports_fr/malukufzac/maluku_fr.md)
+- [Aéroport de Matadi-Tshimpi (FZAM)](/airports_fr/matadifzam/matadi_fr.md)
 - [Aéroport de Muanda (FZAG)](/airports_fr/muandafzag/muanda_fr.md)
 - [Aéroport de Nsangi (FZAF)](/airports_fr/nsangifzaf/nsangi_fr.md)
 - [Aéroport de Tshela (FZAH)](/airports_fr/tshelafzah/tshela_fr.md)
