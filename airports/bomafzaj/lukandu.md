@@ -46,5 +46,3 @@ The transfer of the ICAO and IATA codes (FZAJ/BOA) from the old airport to the n
 
 - [List of Airports](../../list.md)  
 - [Homepage](../../index.md)
-
-
