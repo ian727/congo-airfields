@@ -25,7 +25,7 @@ Bikoro is a market town situated on the shores of Lac Tumba, serving as the larg
 
 ## Historical Background  
 
-The only formal evidence of Bikoro Airport (FZBC) is its listing in the ICAO register. The coordinates provided for FZBC place it in the town center of Bikoro, but there is no historical or recent evidence that an airport ever existed at that location. Instead, Bikoro has been historically served by [Yembe-Moke Airport (FZEM)](../yembemokefzem/yembemoke.md), which is documented in the 1947 Carte des renseignements aéronautiques and on the 1966 Joint Operations Graphics published by the U.S. Defense Mapping Agency. However, on the 1996 U.S. Tactical Pilotage Chart, Yembe-Moke Airport is not shown anymore.
+The only formal evidence of Bikoro Airport (FZBC) is its listing in the ICAO register. The coordinates provided for FZBC place it in the town center of Bikoro, but there is no historical or recent evidence that an airport ever existed at that location. Instead, Bikoro has been historically served by [Yembe-Moke Airport (FZEM)](../yembemokefzem/yembemoke.md), which is documented in the 1947 Carte des renseignements aéronautiques and on the 1966 Joint Operations Graphics published by the U.S. Defense Mapping Agency.
 
 <div class="image-left">
     <figure>
@@ -40,6 +40,9 @@ The only formal evidence of Bikoro Airport (FZBC) is its listing in the ICAO reg
         <figcaption>Bikoro shown on the 1966 Joint Operations Graphics published by the U.S. Defense Mapping Agency. Note Yembe-Moke Airport (FZEM) in the east.</figcaption>
     </figure>
 </div>
+
+However, on the 1996 U.S. Tactical Pilotage Chart, Yembe-Moke Airport is not shown anymore.
+
 <div class="image-left">
     <figure>
         <img src="/congo-airfields/airports/bikorofzbc/FZBC2.png" alt="Bikoro on 1996 map" width="70%">
