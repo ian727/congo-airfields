@@ -20,9 +20,30 @@ During the Belgian colonial era, Matadi was connected to Léopoldville (now Kins
 
 Following independence in 1960, political instability and economic mismanagement under Mobutu Sese Seko led to a gradual decline in railway operations. Today, the railway remains in use, but only with minimal maintenance and highly infrequent service. Freight transport has almost completely shifted to road transport, with National Road 1 (RN1) providing a fully paved connection between Matadi and Kinshasa, now heavily used by hundreds of trucks daily.
 
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/matadifzam/Matadi_2018_1.JPG" alt="RN1 at Matadi in 2018" width="70%">
+        <figcaption>National Road 1 in Matadi, photographed by me in 2018.</figcaption>
+    </figure>
+</div>
+
 A major milestone in Matadi’s infrastructure was the completion of the Matadi Bridge in 1983. At 722 meters long, it was the longest suspension bridge in Africa for decades and remains, as of 2025, the only bridge spanning the Congo River.
 
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/matadifzam/Matadi_2018_3.JPG" alt="Pont Maréchal 2018" width="70%">
+        <figcaption>Matadi bridge (Pont Maréchal) photographed by me in 2018.</figcaption>
+    </figure>
+</div>
+
 Today, Matadi has a population of approximately 450,000 inhabitants and continues to serve as a key economic center for the Kongo Central province.
+
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/matadifzam/Matadi_2018_2.JPG" alt="Matadi 2018" width="70%">
+        <figcaption>Houses on the hills of Matadi, photographed by me in 2018, showing the challenging topography of the city.</figcaption>
+    </figure>
+</div>
 
 ## Historical Background
 
