@@ -37,7 +37,7 @@ Le transfert des codes OACI et IATA (FZAJ/BOA) de l’ancien aéroport vers le n
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/bomafzaj/FZAJ_new_2021.png" alt="Aéroport de Boma Lukandu" width="70%">
+        <img src="/congo-airfields/airports/bomafzaj/FZAJ_new_2021.png" alt="Aéroport de Boma Lukandu" width="100%">
         <figcaption>L’Aéroport inachevé de Boma Lukandu en 2021.</figcaption>
     </figure>
 </div>
