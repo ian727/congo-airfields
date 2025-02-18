@@ -9,7 +9,7 @@ show_title: false
 ## Boma Lukandu Airport
 
 **Location:** Boma, Kongo Central  
-**Status:** Operational, though unclear  
+**Status:** Presumed active
 **ICAO Code:** none    
 **IATA Code:** none    
 **Coordinates:** -5.804751°, 12.996334°  
