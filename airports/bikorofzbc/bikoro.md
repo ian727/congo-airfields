@@ -4,7 +4,7 @@ title: "Bikoro Airport (FZBC)"
 show_title: false
 ---
 
-[en français](../../airports_fr/bikorofzbc/bikorobokoro_fr.md)
+[en français](../../airports_fr/bikorofzbc/bikoro_fr.md)
 
 ## Bikoro Airport (FZBC)
 
@@ -57,7 +57,7 @@ The status of Bikoro Airport (FZBC) remains entirely unclear, and it is likely t
 
 The case of FZBC is highly unusual, as it appears in official ICAO records, yet there is no evidence of an airport at Bikoro. More curiously, the third letter of the ICAO Code, "B," suggests it belongs to the Bandundu region, not Équateur province, where Bikoro is located. This strongly indicates that the ICAO Code FZBC was never actually intended for the town of Bikoro.  
 
-One possibility is that FZBC was originally assigned to Bokoro, but due to a spelling error or misinterpretation, the name "Bokoro" was mistaken for "Bikoro." While this may sound strange, such name inconsistencies are actually quite common in the Democratic Republic of the Congo, where multiple airports have had slight variations or outright spelling errors in the official ICAO database over the years.  
+One possibility is that FZBC was originally assigned to [Bokoro Airport](../bokoro/bokoro.md), but due to a spelling error or misinterpretation, the name "Bokoro" was mistaken for "Bikoro." While this may sound strange, such name inconsistencies are actually quite common in the Democratic Republic of the Congo, where multiple airports have had slight variations or outright spelling errors in the official ICAO database over the years.  
 
 What makes this theory slightly less credible however is the fact that [Kempa Airport (FZBG)](../kempafzbg/kempa.md) was located just eight kilometers from Bokoro - and it appears unusual for two official airports to exist (or have existed) so close to each other. It is possible that Kempa was originally the designated airfield for the region and that Bokoro only became relevant after Kempa was abandoned.  
 
