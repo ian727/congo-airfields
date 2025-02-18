@@ -9,8 +9,8 @@ show_title: false
 ## Bikoro Airport (FZBC)
 
 **Location:** Bikoro, Équateur  
-**Status:** Unknown, probably never existed
-**ICAO Code:** FZBC
+**Status:** Unknown, probably never existed  
+**ICAO Code:** FZBC  
 **IATA Code:** none  
 **Coordinates** (unverified and wrong): -0.733330°, 18.133330°  
 
