@@ -27,7 +27,7 @@ An analysis of old maps reveals the existence of an airport 535 meters northeast
 <div class="image-left">
     <figure>
         <img src="/congo-airfields/airports/inkisifzas/FZAS_1953.png" alt="FZAS 1953" width="70%">
-        <figcaption>The exact former location of KM 237 Airport/Inkisi Airport can be determined using this 1953 map published by the Institute Géographiqe du Congo Belge.</figcaption>
+        <figcaption>The exact former location of KM 237 Airport/Inkisi Airport can be determined using this 1953 map published by the Institute Géographiqe du Congo Belge. ©Royal Museum for Central Africa</figcaption>
     </figure>
 </div>
 
