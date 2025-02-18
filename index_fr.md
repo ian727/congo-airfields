@@ -14,61 +14,52 @@ Ce qui a suivi fut, selon l'historien David van Reybrouck, *« un massacre d'une
 
 Alors que la Belgique construisait des routes et des chemins de fer, de nombreux sites miniers reculés, plantations et missions étaient plus facilement accessibles par avion. Ainsi, des centaines de petites pistes d'atterrissage ont été établies à travers le pays. La plupart étaient de simples pistes en terre, débroussaillées à la main ou avec de légers engins mécaniques. Certaines n'étaient rien de plus que des champs aplatis dans la savane ou la forêt tropicale.
 
-Beaucoup de ces terrains d'aviation peu connus existent encore aujourd'hui, mais la plupart ne sont pas documentés. Leurs emplacements, leurs conditions et leurs histoires restent souvent inconnus tant des autorités aéronautiques que du public.
-
 ## Aérodromes au Congo
 
-La première documentation systématique des aérodromes du Congo a eu lieu avant l'indépendance en 1960, sous la domination coloniale belge. Ces aérodromes ont reçu des codes ICAO – les codes aéroportuaires à quatre lettres attribués par l'Organisation de l'aviation civile internationale (OACI) pour identifier de manière unique les aéroports.
+Aujourd’hui, des centaines d’aérodromes existent à travers le Congo, tandis que des centaines d’autres ont été abandonnés ou même entièrement réaménagés. Pourtant, seuls quelques grands aéroports — les plus importants — sont officiellement et précisément documentés. Pour les pistes plus petites, la documentation est souvent incomplète, et même les coordonnées enregistrées peuvent être peu fiables. Cependant, tant qu’un aérodrome est actif, il peut généralement être identifié sur les images satellites, car une piste est relativement facile à repérer.
 
-Ces codes ICAO suivaient un format structuré :
+En revanche, la situation est toute autre lorsqu’il s’agit d’aérodromes abandonnés. Lorsqu’on ne dispose que d’un nom et d’un ensemble de coordonnées approximatives, retrouver leur emplacement exact peut être extrêmement difficile — sans parler d’en apprendre davantage sur leur histoire. La recherche de ces sites nécessite souvent l’exploration de cartes anciennes et de documents aéronautiques pour y déceler des indices. Dans certains cas, il peut même être difficile d’identifier l’emplacement du lieu auquel l’aérodrome doit son nom. Parfois, le nom d’un aéroport apparaît dans des documents datant de l’époque coloniale, fournissant ainsi un aperçu des raisons de sa création et de la période à laquelle il a été établi.
 
-La première lettre, F, était attribuée à l'Afrique centrale.  
-La deuxième lettre, C, désignait le Congo Belge.  
-Les deux dernières lettres représentaient des aéroports individuels.
+## Codes OACI en République Démocratique du Congo
 
-Dans la plupart des pays, ces deux dernières lettres sont basées sur le nom de l'aéroport - par exemple, Berlin-Tegel (EDDT) :
+Un code OACI est un identifiant à quatre lettres attribué à un aéroport par l’Organisation de l’aviation civile internationale (OACI). Ces codes sont publiés chaque trimestre dans le Document 7910 de l’OACI et sont essentiels aux opérations aériennes, notamment pour la planification des vols, la navigation et les communications.
 
-E = Europe  
-D = Allemagne  
-D = Grand aéroport  
-T = Tegel  
+La première lettre d’un code OACI désigne la région du monde, tandis que la deuxième représente le pays. Dans le cas de la République Démocratique du Congo, tous les codes OACI commencent par **FZ** :
 
-Cependant, le Congo suivait un système différent. Au lieu d'utiliser des conventions de nommage, les codes ICAO étaient attribués alphabétiquement par région, en tournant dans le sens des aiguilles d'une montre à travers le pays.
+- **F** correspond à l’Afrique centrale et australe,
+- **Z** a été attribué au Zaïre, l’ancien nom du pays.
 
-"A" pour le Kongo Central  
-"B", "C" et "D" pour l'ancienne région de Bandundu  
-"E" pour l'Équateur  
-"M" et "N" pour les Kivus...  
+Les deux dernières lettres désignent l’aéroport lui-même. Dans de nombreux pays, les codes OACI sont conçus pour ressembler au nom de l’aéroport — par exemple, LFPO signifie L (Europe), F (France), P (Paris), O (Orly).
 
-Le schéma continue à travers le pays, avec "W" marquant des lieux intérieurs comme Lodja et Mbuji-Mayi. Ce système alphabétique régional est resté en place même après l'indépendance du Congo en 1960. Cependant, en 1971, le président Mobutu Sese Seko a renommé le pays Zaïre, ce qui a entraîné une modification du système de codes ICAO :
+Cependant, le Congo a adopté un autre système. Au lieu d’être basés sur les noms des aéroports, les codes OACI ont été attribués par ordre alphabétique selon les régions, en suivant un mouvement circulaire dans le pays :
 
-La deuxième lettre est passée de C (Congo) à Z (Zaïre).  
-Le format "FZXX" est resté inchangé depuis, même si le Zaïre lui-même a cessé d'exister en 1997.  
+- A pour le Kongo Central, ex. FZAM [(Aéroport de Matadi-Tshimpi)](airports_fr/matadifzam/matadi_fr.md)  
+- B, C et D pour l’ancienne région de Bandundu, ex. FZCA [(Aéroport de Kikwit)](airports_fr/kikwitfzca/kikwit_fr.md)  
+- E, F et G pour l’ancienne région de l’Équateur, ex. FZEN [(Aéroport de Basankusu)](airports_fr/basankusufzen/basankusu_fr.md)  
 
-Par exemple, l'aéroport international de Kinshasa N'Djili a reçu le code FZAA :
+Ce schéma se poursuit dans tout le pays, avec V et W attribués à des localités plus centrales comme [Lodja](airports_fr/lodjafzva/lodja_fr.md) et [Mbuji-Mayi](airports_fr/mbujimayifzwa/mbujimayi_fr.md).
 
-F = Afrique centrale  
-Z = Zaïre (anciennement C pour Congo)  
-A = Région géographique autour de Kinshasa & Kongo Central  
-A = Lettre assignée sans signification particulière  
+L’origine de ce système alphabétique remonte à l’époque coloniale, lorsque les premiers codes OACI ont été assignés aux aéroports du Congo belge. Cependant, seule une fraction des aérodromes a reçu un code officiel — beaucoup sont restés sans désignation officielle. Fait surprenant, les codes OACI n’étaient pas exclusivement réservés aux grands aéroports ; certaines petites pistes en terre battue ont également reçu des désignations officielles. Nombre d’entre elles ont depuis disparu, ne laissant derrière elles qu’un nom dans le registre — comme l’illustrera la section suivante.
 
 ## Codes, Coordonnées et Mystères
 
-Aujourd'hui, 286 aéroports au Congo possèdent un code ICAO officiel, mais des centaines d'autres existent sans enregistrement officiel. L'absence d'une base de données centralisée pour les petites pistes d'atterrissage rend leur documentation difficile. Même pour celles ayant un code ICAO, beaucoup sont abandonnées depuis des décennies, et leur localisation exacte reste incertaine.
+Aujourd’hui, 286 aéroports en République Démocratique du Congo possèdent un code OACI officiel, mais des centaines d’autres existent sans enregistrement officiel. L’absence d’une base de données centralisée pour les petits aérodromes complique leur documentation. Même parmi ceux qui ont un code OACI, beaucoup sont abandonnés depuis des décennies, et leur emplacement exact reste incertain.
 
-Voici quelques exemples illustrant ce phénomène :
+Voici quelques exemples de ces incohérences :
 
-- L'aéroport de Bikoro (FZBC) apparaît dans le registre de l'OACI, pourtant, il n’a jamais existé selon les anciennes cartes et les témoignages locaux.  
-- L'aéroport de Konde (FZAU) figure dans les bases de données, mais sur place, on ne trouve que de la forêt et des champs. Une carte ancienne prouve toutefois que la piste existait autrefois, bien que toute trace ait disparu.  
-- L'aéroport de Gandajika (FZWC) pose également question. Aux coordonnées officielles, aucune piste n'est visible. Cependant, l’analyse de cartes historiques et d’images satellites permet d’identifier son véritable emplacement à quelques kilomètres de là, avec les restes visibles d'une ancienne piste.  
+- [L’aéroport de Bikoro (FZBC)](airports_fr/bikorofzbc/bikoro_fr.md) figure dans le registre OACI, mais Bikoro n’a jamais eu d’aéroport — un fait confirmé par d’anciennes cartes ainsi que par des sources locales.
+- [L’aéroport de Konde (FZAU)](airports_fr/kondefzau/konde_fr.md) est listé dans certaines bases de données, mais à ses coordonnées officielles, il n’y a que de la forêt et des champs. Toutefois, une ancienne carte prouve que la piste existait autrefois, bien qu’aucune trace n’en subsiste aujourd’hui.
+- [L’aéroport de Gandajika (FZWC)](airports_fr/gandajikafzwc/gandajika_fr.md) constitue un autre mystère. À ses coordonnées officielles, aucune piste n’est visible. Cependant, en comparant d’anciennes cartes et des images satellites historiques, on peut retrouver son véritable emplacement à plusieurs kilomètres de là — avec les faibles vestiges d’une piste abandonnée.
+- Certains codes OACI semblent manquer, comme FZAO. Alors que FZAN et FZAP existent, FZAO est absent. Ce code n’a-t-il jamais été attribué, ou a-t-il été supprimé des registres OACI à un moment donné ?
+- À -7.762146°, 18.186861°, en pleine savane du Kwango, une piste d’atterrissage est clairement visible sur les images satellites. Pourtant, elle n’a aucun nom et ne figure dans aucun registre. Il n’y a aucun village à proximité, et le seul accès semble être un sentier piétonnier. Quelle était son utilité ?  
 
-Les archives aéronautiques du Congo sont remplies de telles incohérences : des pistes existant sans documentation, et des pistes documentées ayant disparu depuis longtemps.
+Les archives de l’aviation congolaise sont remplies de mystères similaires — des pistes d’atterrissage existent sans documentation, et des pistes documentées n’existent plus.
 
 ## À propos de ce site web
 
-J’ai consacré de nombreuses heures à la recherche des aérodromes congolais en tant que passionné, rassemblant chaque information disponible. Je crois que ces connaissances doivent être accessibles au public, qu'il s'agisse de simples curieux, de chercheurs ou de professionnels cherchant des réponses.
+J’ai consacré de nombreuses heures à la recherche des aérodromes congolais en tant que passionné, rassemblant chaque information disponible. Je crois que ces connaissances doivent être accessibles au public, qu'il s'agisse de simples curieux, de chercheurs ou de professionnels cherchant des réponses. Consultez [cette page](about_fr.md) si vous souhaitez obtenir des détails sur les recherches menées dans le cadre de ce projet.
 
-En 2018, j’ai eu la chance de visiter la République Démocratique du Congo, un pays magnifique avec une population chaleureuse. Lors de mon séjour, j’ai pu constater la particularité de nombreux aérodromes. Par exemple, à l’aéroport de Gungu, j’ai observé une pratique courante : bien que non entretenues officiellement, certaines pistes restent utilisables. Lorsqu’un vol est prévu, les habitants locaux se mobilisent pour débroussailler la végétation, permettant ainsi l'atterrissage dans un délai de quelques heures.
+En 2018, j’ai eu la chance de visiter la République Démocratique du Congo, un pays magnifique avec une population chaleureuse. Lors de mon séjour, j’ai pu constater la particularité de nombreux aérodromes. Par exemple, à [l’aéroport de Gungu](airports_fr/gungu/gungu_fr.md), j’ai observé une pratique courante : bien que non entretenues officiellement, certaines pistes restent utilisables. Lorsqu’un vol est prévu, les habitants locaux se mobilisent pour débroussailler la végétation, permettant ainsi l'atterrissage dans un délai de quelques heures.
 
 Ce site web est en partie dédié aux habitants du Congo, afin de documenter l’infrastructure sur laquelle ils comptent et de préserver l’histoire de ces aérodromes avant qu’ils ne disparaissent complètement.
 
