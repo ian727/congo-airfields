@@ -142,7 +142,7 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>OPERATIONAL, NO REGULAR FLIGHTS</td>
     </tr>
     <tr>
-      <td><a href="airports/matadifzam/matadi.html">Matadi Airport</a></td>
+      <td><a href="airports/matadifzam/matadi.html">Matadi-Tshimpi Airport</a></td>
       <td>FZAM</td>
       <td>MAT</td>
       <td>Kongo Central</td>
