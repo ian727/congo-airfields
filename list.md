@@ -12,6 +12,8 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
 
 ## Browse Airports:
 
+*Click on the columns to sort the table respectively!*
+
 <table id="airportTable">
   <thead>
     <tr>
@@ -24,41 +26,131 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
   </thead>
   <tbody>
     <tr>
-      <td><a href="airports/bikorofzbc/bikoro.md">Bikoro Airport</a></td>
+      <td><a href="airports/bikorofzbc/bikoro.html">Bikoro Airport</a></td>
       <td>FZBC</td>
       <td>-</td>
       <td>Équateur</td>
-      <td>Active</td>
+      <td>Unknown</td>
     </tr>
     <tr>
-      <td><a href="airports/bokoro/bokoro.md">Bokoro Airport</a></td>
+      <td><a href="airports/bokoro/bokoro.html">Bokoro Airport</a></td>
       <td>-</td>
       <td>-</td>
       <td>Mai-Ndombe</td>
-      <td>Unknown</td>
-    </tr>
-    <tr>
-      <td><a href="airports/bomafzaj/boma.md">Boma Airport (old)</a></td>
-      <td>FZAJ</td>
-      <td>-</td>
-      <td>Kongo-Central</td>
-      <td>Closed</td>
-    </tr>
-    <tr>
-      <td><a href="airports/bomafzaj/boma.md">Boma Lukandu Airport</a></td>
-      <td>-</td>
-      <td>-</td>
-      <td>Kongo-Central</td>
-      <td>Unknown</td>
-    </tr>
-    <tr>
-      <td><a href="airports/zongofzad/zongo.md">Celo-Zongo Airport</a></td>
-      <td>FZAD</td>
-      <td>-</td>
-      <td>Équateur</td>
       <td>Active</td>
     </tr>
-    <!-- Add more airports here -->
+    <tr>
+      <td><a href="airports/bomafzaj/boma.html">Boma Airport (old)</a></td>
+      <td>FZAJ</td>
+      <td>BOA</td>
+      <td>Kongo Central</td>
+      <td>Redeveloped</td>
+    </tr>
+    <tr>
+      <td><a href="airports/bomafzaj/boma.html">Boma Lukandu Airport</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td><a href="airports/zongofzad/zongo.html">Celo-Zongo Airport</a></td>
+      <td>FZAD</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td><a href="airports/inkisifzas/inkisi.html">Inkisi Airport</a></td>
+      <td>FZAS</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>Abandoned</td>
+    </tr>
+    <tr>
+      <td><a href="airports/kimpokofzad/kimpoko.html">Kimpoko Airport</a></td>
+      <td>FZAD</td>
+      <td>-</td>
+      <td>Kinshasa</td>
+      <td>Redeveloped</td>
+    </tr>
+    <tr>
+      <td><a href="airports/binzafzak/binza.html">Kinshasa Binza Airport</a></td>
+      <td>FZAK</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td><a href="airports/ndjilifzaa/ndjili.html">Kinshasa N'Djili Airport</a></td>
+      <td>FZAA</td>
+      <td>FIH</td>
+      <td>Kinshasa</td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td><a href="airports/ndolofzab/ndolo.html">Kinshasa N'Dolo Airport</a></td>
+      <td>FZAB</td>
+      <td>NLO</td>
+      <td>Kinshasa</td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td><a href="airports/kitonabasefzai/kitona.html">Kitona Base Airport</a></td>
+      <td>FZAI</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td><a href="airports/kondefzau/konde.html">Konde Airport</a></td>
+      <td>FZAU</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td><a href="airports/luozifzal/luozi.html">Luozi Airport</a></td>
+      <td>FZAL</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>Intermittent</td>
+    </tr>
+    <tr>
+      <td><a href="airports/malukufzac/maluku.html">Maluku Airport</a></td>
+      <td>FZAC</td>
+      <td>-</td>
+      <td>Kinshasa</td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td><a href="airports/matadifzam/matadi.html">Matadi Airport</a></td>
+      <td>FZAM</td>
+      <td>MAT</td>
+      <td>Kongo Central</td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td><a href="airports/muandafzag/muanda.html">Muanda Airport</a></td>
+      <td>FZAG</td>
+      <td>MNB</td>
+      <td>Kongo Central</td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td><a href="airports/nsangifzaf/nsangi.html">Nsangi Airport</a></td>
+      <td>FZAF</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td><a href="airports/tshelafzah/tshela.html">Tshela Airport</a></td>
+      <td>FZAH</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>Abandoned</td>
+    </tr>
   </tbody>
 </table>
 
