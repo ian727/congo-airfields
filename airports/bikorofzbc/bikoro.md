@@ -6,7 +6,7 @@ show_title: false
 
 [en français](../../airports_fr/bikorofzbc/bikorobokoro_fr.md)
 
-## Bikoro Airport (FZBC) & Bokoro Airport
+## Bikoro Airport (FZBC)
 
 **Location:** Bikoro, Équateur  
 **Status:** Unknown, probably never existed
