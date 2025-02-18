@@ -36,8 +36,8 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
   <thead>
     <tr>
       <th onclick="sortTable(0)">Name</th>
-      <th onclick="sortTable(1)">ICAO Code</th>
-      <th onclick="sortTable(2)">IATA Code</th>
+      <th onclick="sortTable(1)">ICAO</th>
+      <th onclick="sortTable(2)">IATA</th>
       <th onclick="sortTable(3)">Province</th>
       <th onclick="sortTable(4)">Status</th>
     </tr>
@@ -65,7 +65,7 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>REDEVELOPED</td>
     </tr>
     <tr>
-      <td><a href="airports/bomafzaj/boma.html">Boma Lukandu Airport</a></td>
+      <td><a href="airports/bomafzaj/lukandu.html">Boma Lukandu Airport</a></td>
       <td>-</td>
       <td>-</td>
       <td>Kongo Central</td>
