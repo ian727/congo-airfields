@@ -50,12 +50,12 @@ Cependant, sur la Tactical Pilotage Chart de 1996, l’aéroport de Yembe-Moke n
     </figure>
 </div>
 
-Une base de données aéronautique de Mission Aviation Fellowship (MAF) de 2015 indique explicitement :  
+Une base de données aéronautique de Mission Aviation Fellowship (MAF) de 2015 indique explicitement:  
 *"En janvier 2012, il n'y a jamais eu de piste d'atterrissage à Bikoro malgré les indications des cartes ONC et les informations de la RVA. Utilisez Ntondo."* [L’aéroport de Ntondo](../ntondo/ntondo_fr.md), une petite piste située au sud de Bikoro à -0.831463°, 18.125646°, semble être en état intermittent, bien qu’il ne possède pas de désignation OACI officielle.
 
 ## État actuel (2025)  
 
-Le statut de l’aéroport de Bikoro (FZBC) reste entièrement incertain, et il est **probable qu’il n’ait jamais existé**.  
+Le statut de l’aéroport de Bikoro (FZBC) reste entièrement incertain, et il est probable qu’il n’ait jamais existé.  
 
 ## Bikoro et Bokoro – Le résultat d’une erreur d’orthographe ?  
 
