@@ -29,7 +29,7 @@ Despite losing its capital status to Kinshasa (then Léopoldville) in 1923, Boma
 
 The origins of Boma Airport (FZAJ) are not well documented, but it was likely established in the early 20th century during the colonial era, possibly in the 1920s or 1930s. Located just east of the city, the airport was gradually surrounded by urban expansion until it became completely enclosed within Boma’s dense cityscape. The old airport featured an unpaved runway measuring only 1,020 meters in length, which severely limited its capacity to handle larger aircraft.
 
-Due to the airport’s small size and lack of expansion possibilities, a decision was made in 2012 to construct a new airport, named [Boma Lukandu International Airport](lokandu.md). This new facility is located 8.5 kilometers northwest of Boma and was originally designed to feature a modern terminal and a 3,000-meter-long runway. However, construction stalled after just 2,000 meters of the runway were graded, and the project has remained incomplete ever since.
+Due to the airport’s small size and lack of expansion possibilities, a decision was made in 2012 to construct a new airport, named [Boma Lukandu International Airport](lukandu.md). This new facility is located 8.5 kilometers northwest of Boma and was originally designed to feature a modern terminal and a 3,000-meter-long runway. However, construction stalled after just 2,000 meters of the runway were graded, and the project has remained incomplete ever since.
 
 ## Current Status (as of 2025)
 
