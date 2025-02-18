@@ -20,9 +20,30 @@ Pendant l’époque coloniale belge, Matadi a été reliée à Léopoldville (au
 
 Après l’indépendance en 1960, l’instabilité politique et la mauvaise gestion économique sous Mobutu Sese Seko ont entraîné un déclin progressif du chemin de fer. Aujourd’hui, il est encore en service, mais avec un entretien minimal et des trains très rares. Le transport de marchandises s’est presque totalement déplacé vers la route, la Route Nationale 1 (RN1) offrant désormais une liaison entièrement goudronnée entre Matadi et Kinshasa, empruntée quotidiennement par des centaines de camions.
 
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/matadifzam/Matadi_2018_1.JPG" alt="RN1 à Matadi en 2018" width="70%">
+        <figcaption>La Route Nationale 1 à Matadi, photographiée par moi en 2018.</figcaption>
+    </figure>
+</div>
+
 Un événement majeur dans l’histoire des infrastructures de Matadi a été l’achèvement du pont Matadi en 1983. Long de 722 mètres, il a été le plus long pont suspendu d’Afrique pendant des décennies et reste, en 2025, le seul pont traversant le fleuve Congo.
 
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/matadifzam/Matadi_2018_3.JPG" alt="Pont Maréchal 2018" width="70%">
+        <figcaption>Le pont de Matadi (Pont Maréchal), photographié par moi en 2018.</figcaption>
+    </figure>
+</div>
+
 Aujourd’hui, Matadi compte environ 450 000 habitants et continue de jouer un rôle économique clé dans la province du Kongo Central.
+
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/matadifzam/Matadi_2018_2.JPG" alt="Matadi 2018" width="70%">
+        <figcaption>Maisons sur les collines de Matadi, photographiées par moi en 2018, illustrant la topographie difficile de la ville.</figcaption>
+    </figure>
+</div>
 
 ## Contexte historique  
 
