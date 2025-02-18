@@ -9,10 +9,10 @@ show_title: false
 ## Inkisi Airport (FZAS)
 
 **Location:** Kisantu, Kongo Central  
-**Status:** Abandoned with no visible traces left, exact location unknown
+**Status:** Abandoned
 **ICAO Code:** FZAS  
 **IATA Code:** none  
-**Coordinates (not verified):** -5.162953°, 15.002718°  
+**Coordinates (verified):** -5.162924°, 15.003078°  
 
 Kisantu is a historical town in Kongo Central province, located along the Matadi-Kinshasa railway and National Road 1 (RN1). The name "Inkisi" originates from the Inkisi River, which crosses the railway at Kisantu. Over time, the river’s name began to be used synonymously with the town, leading to maps labeling the settlement as either "Inkisi" or "Kisantu," and sometimes marking both names separately.
 
@@ -20,22 +20,34 @@ Kisantu has grown into a regional center with over 75,000 inhabitants and is hom
 
 ## Historical Background
 
-No official documents regarding the establishment of Inkisi Airport have been found. The airport only appears in official databases under the ICAO code FZAS, without further details. It is notable that the airport is referred to as "Inkisi" - a name historically associated with the river rather than the town itself.
+No official documents regarding the establishment of Inkisi Airport have been found. The airport only appears in official databases under the ICAO code FZAS, without further details. It is notable that the airport is referred to as "Inkisi" - a name historically associated with the river rather than the town itself. The provided ICAO coordinates (-5.167, 15.000) are very generic and appear incorrect, as they point to a location directly on National Road 1. 
 
-The provided ICAO coordinates (-5.167, 15.000) are very generic and appear incorrect, as they point to a location directly on National Road 1. However, the 1967 version of the aeronautical Joint Operations Graphics by the U.S. Defense Mapping Agency marks an airfield in the same general area, referred to as "KM 237 Airport." This name likely originates from the airport’s position at kilometer 237 along either the national road or the railway. Due to the close proximity of the ICAO-listed coordinates and the KM 237 Airport location, it can be reasonably assumed that they refer to the same facility.
+An analysis of old maps reveals the existence of an airport 535 meters northeast of the given coordinates. However, both a 1953 map published by the Institut Géographique du Congo Belge and the 1967 aeronautical Joint Operations Graphics by the U.S. Defense Mapping Agency refer to this airport as "KM 237 Airport." This name originates from the airport’s position at kilometer 237 along National Road 1. Since no historical map indicates the presence of another airport in the vicinity, it is likely that KM 237 Airport was later renamed Inkisi Airport. However, final confirmation from a local source is still needed.  
+
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/inkisifzas/FZAS_1953.png" alt="FZAS 1953" width="70%">
+        <figcaption>The exact former location of KM 237 Airport/Inkisi Airport can be determined using this 1953 map published by the Institute Géographiqe du Congo Belge.</figcaption>
+    </figure>
+</div>
 
 <div class="image-left">
     <figure>
         <img src="/congo-airfields/airports/inkisifzas/1967.png" alt="Inkisi on 1967 map" width="70%">
-        <figcaption>The only geographic evidence for the existence of Inkisi Airport is sheet SB 33-6 of the Joint Operations Graphics published by the U.S. Defense Mapping Agency, where at its righternmost edge, KM 237 Airport can be found at the supposed location of Inkisi Airport</figcaption>
+        <figcaption>Sheet SB 33-6 of the Joint Operations Graphics published by the U.S. Defense Mapping Agency, where at its righternmost edge, KM 237 Airport can be found at the supposed location of Inkisi Airport</figcaption>
     </figure>
 </div>
 
 ## Current Status (as of 2025)  
 
-Matching the KM 237 Airport location with satellite imagery does not provide clear evidence of an airstrip. The approximate location, about 300 meters north of National Road 1, appears realistic, but there are no distinct remnants of a runway visible.
+Today, barely any trace of Inkisi Airport (FZAS) remains. Its location was identified solely thanks to the 1953 IGCB map, which provided crucial confirmation. Recent satellite imagery does reveal subtle patterns in vegetation and agricultural use that could indicate a former runway, but without the historical map, this would have been impossible to verify. Inkisi Airport appears to have been abandoned decades ago, most likely due to the decent road connection between Kisantu and Kinshasa, which reduced the need for air travel in the area.
 
-Some patterns in the satellite imagery hint at past infrastructure, but no conclusive signs of a runway remain. While it is likely that Inkisi Airport once existed at or near -5.162953°, 15.002718°, it seems that all physical traces have been lost over time.
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/inkisifzas/FZAS_2024.png" alt="FZAS 2024" width="100%">
+        <figcaption>The location of Inkisi Airport as seen on 2024 satellite imagery. For reference, the location of the runway has been highlighed on the right side.</figcaption>
+    </figure>
+</div>
 
 ## See Also
 
