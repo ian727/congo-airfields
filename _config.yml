@@ -6,7 +6,7 @@ include:
   - _includes
   - _sass
   - assets
-url: "https://ian727.github.io/congo-airfields/"
+url: "https://ian727.github.io"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
