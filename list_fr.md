@@ -36,8 +36,8 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
   <thead>
     <tr>
       <th onclick="sortTable(0)">Nom</th>
-      <th onclick="sortTable(1)">Code OACI</th>
-      <th onclick="sortTable(2)">Code IATA</th>
+      <th onclick="sortTable(1)">OACI</th>
+      <th onclick="sortTable(2)">IATA</th>
       <th onclick="sortTable(3)">Province</th>
       <th onclick="sortTable(4)">État</th>
     </tr>
@@ -58,14 +58,14 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>ACTIF, VOLS RÉGULIERS</td>
     </tr>
     <tr>
-      <td><a href="airports_fr/bomafzaj/boma_fr.html">Aéroport de Boma</a></td>
+      <td><a href="airports_fr/bomafzaj/boma_fr.html">Aéroport de Boma (ancien)</a></td>
       <td>FZAJ</td>
       <td>BOA</td>
       <td>Kongo Central</td>
       <td>RECONVERTI</td>
     </tr>
     <tr>
-      <td><a href="airports_fr/bomafzaj/boma_fr.html">Aéroport de Boma Lukandu</a></td>
+      <td><a href="airports_fr/bomafzaj/lukandu_fr.html">Aéroport de Boma Lukandu</a></td>
       <td>-</td>
       <td>-</td>
       <td>Kongo Central</td>
