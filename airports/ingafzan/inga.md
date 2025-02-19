@@ -11,7 +11,7 @@ show_title: false
 **Location:** Inga, Kongo Central  
 **Status:** Active  
 **ICAO Code:** FZAN  
-**IATA Code:** None  
+**IATA Code:** none  
 **Coordinates:** -5.529591°, 13.575741°  
 
 Wikipedia features a [comprehensive article](https://en.wikipedia.org/wiki/Inga_dams) on the Inga Dams, providing detailed information on their history, current state, and future developments. The following summary is based on that article.
