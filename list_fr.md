@@ -79,6 +79,20 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>OPÉRATIONNEL, PAS DE VOLS RÉGULIERS</td>
     </tr>
     <tr>
+      <td><a href="airports_fr/ingafzan/inga_fr.html">Aéroport d'Inga</a></td>
+      <td>FZAN</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>OPÉRATIONNEL, PAS DE VOLS RÉGULIERS</td>
+    </tr>
+    <tr>
+      <td><a href="airports_fr/ingafzan/ingaold_fr.html">Aéroport d'Inga (ancien)</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>RECONVERTI</td>
+    </tr>
+    <tr>
       <td><a href="airports_fr/inkisifzas/inkisi_fr.html">Aéroport d'Inkisi</a></td>
       <td>FZAS</td>
       <td>-</td>
