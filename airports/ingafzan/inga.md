@@ -24,7 +24,7 @@ Looking forward, the Grand Inga Project envisions an expansion that could genera
 
 ## Historical Background  
 
-Inga Airport (FZAN) was constructed sometime between 1965 and 1984, replacing [Inga Airport (old)](inga_old.md). Following the relocation of the airport, the former airfield site was redeveloped to accommodate main operational facilities for the Inga Dams, serving as housing and administrative infrastructure for dam personnel.
+Inga Airport (FZAN) was constructed sometime between 1965 and 1984, replacing [Inga Airport (old)](ingaold.md). Following the relocation of the airport, the former airfield site was redeveloped to accommodate main operational facilities for the Inga Dams, serving as housing and administrative infrastructure for dam personnel.
 
 By 1996, the U.S. Tactical Pilotage Chart marked Inga Airport (FZAN) at its current location, listing it as the only airport in Inga. This confirmes that the transition from the old airfield to the new one was fully completed by that time.
 
