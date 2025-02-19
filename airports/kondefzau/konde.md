@@ -27,7 +27,7 @@ Konde is a small village situated at the westernmost point of the Democratic Rep
 
 Konde Airport has an assigned ICAO code (FZAU) and is included in official aviation databases. However, very little documentation is available regarding its origins or operational history.
 
-The 1967 version of the aeronautical Joint Operations Graphics by the U.S. Defense Mapping Agency confirms the existence of an airport near Konde, mapping it in the general vicinity of -5.756851°, 12.264788°. However, the same map explicitly notes that the given position of the airport is only approximate, suggesting that even in 1967, Konde Airport was of limited significance and that its exact location was not well documented.
+The 1967 version of the aeronautical Joint Operations Graphics published by the U.S. Defense Mapping Agency confirms the existence of an airport near Konde, mapping it in the general vicinity of -5.756851°, 12.264788°. However, the same map explicitly notes that the given position of the airport is only approximate, suggesting that even in 1967, Konde Airport was of limited significance and that its exact location was not well documented.
 
 <div class="image-left">
     <figure>
