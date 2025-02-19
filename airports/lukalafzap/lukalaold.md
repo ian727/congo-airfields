@@ -20,7 +20,7 @@ The town’s infrastructure reflects its industrial heritage. Lukala’s segrega
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/lukalafzap/CICO.png" alt="Lukala CICO" width="70%">
+        <img src="/congo-airfields/airports/lukalafzap/CICO.JPG" alt="Lukala CICO" width="70%">
         <figcaption>A part of the cement plant in Lukala as seen from National Road 1, photographed by me in 2018.</figcaption>
     </figure>
 </div>
@@ -29,7 +29,7 @@ The town’s infrastructure reflects its industrial heritage. Lukala’s segrega
 
 The earliest known depiction of an airfield in Lukala appears on the 1947 Carte des Renseignements Aéronautiques, indicating that aviation activity in the area dates back to at least the mid-20th century.  
 
-By 1953, a map published by the Institut Géographique du Congo Belge provides a detailed representation of Lukala Airport (old), showing it located just west of the town, directly adjacent to the Matadi-Kinshasa railway. The 1967 Joint Operations Graphics, published by the U.S. Defense Mapping Agency, confirm this location, referring to the airfield simply as “Lukala”.  
+By 1953, a map published by the Institut Géographique du Congo Belge provides a detailed representation of Lukala Airport (old), showing it located just west of the town, directly adjacent to the Matadi-Kinshasa railway. The 1967 Joint Operations Graphics, published by the U.S. Defense Mapping Agency, confirms this location, referring to the airfield simply as “Lukala”.  
 
 <div class="image-left">
     <figure>
@@ -48,5 +48,6 @@ Lukala Airport (old) no longer exists. Its former location has been redeveloped,
 
 ## See Also  
 
+- [Lukala CICO Airport](lukalacico.md), another, third airport that has possibly served Lukala
 - [List of Airports](../../list.md)  
 - [Homepage](../../index.md)
