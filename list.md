@@ -86,7 +86,7 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>OPERATIONAL, NO REGULAR FLIGHTS</td>
     </tr>
     <tr>
-      <td><a href="airports/ingafzan/inga_old.html">Inga Airport (old)</a></td>
+      <td><a href="airports/ingafzan/ingaold.html">Inga Airport (old)</a></td>
       <td>-</td>
       <td>-</td>
       <td>Kongo Central</td>
