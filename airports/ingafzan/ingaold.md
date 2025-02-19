@@ -4,7 +4,7 @@ title: "Inga Airport (old)"
 show_title: false
 ---
 
-[en français](../../airports_fr/ingaold/inga_old_fr.md)
+[en français](../../airports_fr/ingafzan/inga_old_fr.md)
 
 ## Inga Airport (old)
 
