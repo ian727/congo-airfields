@@ -11,7 +11,7 @@ show_title: false
 **Location:** Binza, Kinshasa  
 **Status:** Unknown, does not exist  
 **ICAO Code:** FZAK  
-**IATA Code:** None  
+**IATA Code:** none  
 **Coordinates:** Unknown, possibly near -4.3670°, 15.2500°  
 
 Binza was originally a small village located near Léopoldville, the colonial capital that later became Kinshasa. Following World War II, Binza was developed into an upper-class neighborhood, primarily inhabited by white settlers. After the Congo gained independence in 1960, the district retained its elite status, but its residents changed: the newly emerging Congolese political elite moved into the luxurious homes once occupied by Belgian officials.
