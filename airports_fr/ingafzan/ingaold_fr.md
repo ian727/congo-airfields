@@ -4,7 +4,7 @@ title: "Aéroport d’Inga (ancien)"
 show_title: false
 ---
 
-[en anglais](../../airports/ingafzan/ingaold.md)
+[in english](../../airports/ingafzan/ingaold.md)
 
 ## Ancien Aéroport d’Inga
 
