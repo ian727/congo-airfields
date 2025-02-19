@@ -10,8 +10,8 @@ show_title: false
 
 **Location:** Inga, Kongo Central  
 **Status:** Redeveloped  
-**ICAO Code:** None  
-**IATA Code:** None  
+**ICAO Code:** none  
+**IATA Code:** none  
 **Coordinates:** -5.517293°, 13.582857°  
 
 Wikipedia features a [comprehensive article](https://en.wikipedia.org/wiki/Inga_dams) on the Inga Dams, providing detailed information on their history, current state, and future developments. The following summary is based on that article.
