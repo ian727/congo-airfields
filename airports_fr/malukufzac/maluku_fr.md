@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Maluku, Kinshasa  
 **État :** Possiblement inactif, mais semble utilisable  
-**Code ICAO :** FZAC  
+**Code OACI :** FZAC  
 **Code IATA :** Aucun  
 **Coordonnées (vérifiées) :** -4.070861°, 15.543336°  
 

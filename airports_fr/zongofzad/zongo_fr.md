@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Zongo, Kongo Central  
 **État :** Intermittent  
-**Code ICAO :** FZAD  
+**Code OACI :** FZAD  
 **Code IATA :** Aucun  
 **Coordonnées (vérifiées) :** -4.790664°, 14.905632°  
 

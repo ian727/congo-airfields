@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Bokoro, Mai-Ndombe  
 **État :** Actif avec des vols réguliers  
-**Code ICAO :** Aucun  
+**Code OACI :** Aucun  
 **Code IATA :** Aucun  
 **Coordonnées :** -2.884714°, 18.352761°  
 

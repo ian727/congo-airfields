@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Tshela, Kongo Central  
 **État :** Abandonné, mais réactivation en cours  
-**Code ICAO :** FZAH  
+**Code OACI :** FZAH  
 **Code IATA :** Aucun  
 **Coordonnées (vérifiées) :** -5.013936°, 12.956319°  
 

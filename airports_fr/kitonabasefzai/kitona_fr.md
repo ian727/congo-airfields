@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Kitona, Kongo Central  
 **État :** Actif  
-**Code ICAO :** FZAI  
+**Code OACI :** FZAI  
 **Code IATA :** Aucun  
 **Coordonnées (vérifiées) :** -5.919086°, 12.442534°  
 

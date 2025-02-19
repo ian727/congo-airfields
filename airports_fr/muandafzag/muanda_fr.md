@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Muanda (Moanda), Kongo Central  
 **État :** Actif avec des vols réguliers  
-**Code ICAO :** FZAG  
+**Code OACI :** FZAG  
 **Code IATA :** MNB  
 **Coordonnées :** -5.930608°, 12.351373°  
 

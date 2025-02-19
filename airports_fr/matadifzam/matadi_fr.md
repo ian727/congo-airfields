@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Matadi, Kongo Central  
 **État :** Actif avec des vols réguliers  
-**Code ICAO :** FZAM  
+**Code OACI :** FZAM  
 **Code IATA :** MAT  
 **Coordonnées :** -5.795459°, 13.441170°  
 

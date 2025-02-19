@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Kisantu, Kongo Central  
 **État :** Abandonné  
-**Code ICAO :** FZAS  
+**Code OACI :** FZAS  
 **Code IATA :** aucun  
 **Coordonnées (vérifiées) :** -5.162924°, 15.003078°  
 

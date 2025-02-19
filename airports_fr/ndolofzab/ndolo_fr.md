@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Kinshasa, Kinshasa  
 **État :** Actif avec des vols réguliers  
-**Code ICAO :** FZAB  
+**Code OACI :** FZAB  
 **Code IATA :** NLO  
 **Coordonnées :** -4.326655°, 15.327401°  
 

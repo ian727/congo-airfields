@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Kinshasa, Kinshasa  
 **État :** Actif avec des vols réguliers  
-**Code ICAO :** FZAA  
+**Code OACI :** FZAA  
 **Code IATA :** FIH  
 **Coordonnées :** -4.386544°, 15.445050°  
 

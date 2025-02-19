@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Bikoro, Équateur  
 **État :** Inconnu, probablement jamais existé  
-**Code ICAO :** FZBC  
+**Code OACI :** FZBC  
 **Code IATA :** Aucun  
 **Coordonnées** (non vérifiées et erronées) : -0.733330°, 18.133330°  
 

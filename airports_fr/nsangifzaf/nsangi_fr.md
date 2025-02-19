@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Nsangi (près de Ngidinga), Kongo Central  
 **État :** Abandonné  
-**Code ICAO :** FZAF  
+**Code OACI :** FZAF  
 **Code IATA :** Aucun  
 **Coordonnées (non vérifiées et incorrectes) :** -5.600000°, 15.316670°  
 

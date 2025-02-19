@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Binza, Kinshasa  
 **État :** Inconnu, n'existe pas  
-**Code ICAO :** FZAK  
+**Code OACI :** FZAK  
 **Code IATA :** Aucun  
 **Coordonnées :** Inconnues, possiblement vers -4.3670°, 15.2500°  
 

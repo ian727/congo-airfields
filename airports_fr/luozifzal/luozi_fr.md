@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Luozi, Kongo Central  
 **État :** Intermittent  
-**Code ICAO :** FZAL  
+**Code OACI :** FZAL  
 **Code IATA :** LZI  
 **Coordonnées :** -4.943525°, 14.123001°  
 

@@ -10,7 +10,7 @@ show_title: false
 
 **Localisation :** Kimpoko, Kinshasa  
 **État :** Réaménagé  
-**Code ICAO :** FZAE  
+**Code OACI :** FZAE  
 **Code IATA :** aucun  
 **Coordonnées (vérifiées) :** -4.214337, 15.558997  
 
