@@ -139,7 +139,7 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>FZAU</td>
       <td>-</td>
       <td>Kongo Central</td>
-      <td>UNKNOWN, EXACT FORMER LOCATION UNCLEAR</td>
+      <td>ABANDONED, EXACT LOCATION UNKNOWN</td>
     </tr>
     <tr>
       <td><a href="airports/lukalafzap/lukala.html">Lukala Airport</a></td>
@@ -195,7 +195,7 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>FZAF</td>
       <td>-</td>
       <td>Kongo Central</td>
-      <td>UNKNOWN, EXACT FORMER LOCATION UNCLEAR</td>
+      <td>ABANDONED, EXACT LOCATION UNKNOWN</td>
     </tr>
     <tr>
       <td><a href="airports/tshelafzah/tshela.html">Tshela Airport</a></td>
