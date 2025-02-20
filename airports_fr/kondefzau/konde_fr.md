@@ -9,7 +9,7 @@ show_title: false
 ## Aéroport de Konde (FZAU)
 
 **Localisation :** Konde, Kongo Central  
-**État :** Abandonné, aucune trace visible, emplacement exact inconnu
+**État :** Abandonné, aucune trace visible, emplacement exact inconnu  
 **Code OACI :** FZAU  
 **Code IATA :** Aucun  
 **Coordonnées (non vérifiées) :** Près de -5.756851°, 12.264788°  
