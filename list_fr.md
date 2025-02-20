@@ -139,7 +139,28 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>FZAU</td>
       <td>-</td>
       <td>Kongo Central</td>
-      <td>INCONNU, EMPLACEMENT EXACT INCERTAIN</td>
+      <td>ABANDONNÉ, EMPLACEMENT EXACT INCONNU</td>
+    </tr>
+    <tr>
+      <td><a href="airports_fr/lukalafzap/lukala_fr.html">Aéroport de Lukala</a></td>
+      <td>FZAP</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>OPÉRATIONNEL, PAS DE VOLS RÉGULIERS</td>
+    </tr>
+    <tr>
+      <td><a href="airports_fr/lukalafzap/lukalaold_fr.html">Aéroport de Lukala (ancien)</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>RECONVERTI</td>
+    </tr>
+    <tr>
+      <td><a href="airports_fr/lukalafzap/lukalacico_fr.html">Aéroport de Lukala CICO</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>RECONVERTI</td>
     </tr>
     <tr>
       <td><a href="airports_fr/luozifzal/luozi_fr.html">Aéroport de Luozi</a></td>
@@ -174,7 +195,7 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>FZAF</td>
       <td>-</td>
       <td>Kongo Central</td>
-      <td>INCONNU, EMPLACEMENT EXACT INCERTAIN</td>
+      <td>ABANDONNÉ, EMPLACEMENT EXACT INCONNU</td>
     </tr>
     <tr>
       <td><a href="airports_fr/tshelafzah/tshela_fr.html">Aéroport de Tshela</a></td>
