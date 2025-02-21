@@ -100,6 +100,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>ABANDONED</td>
     </tr>
     <tr>
+      <td><a href="airports/kimpese/kimpese.html">Kimpese Airport</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONED</td>
+    </tr>
+    <tr>
       <td><a href="airports/kimpokofzae/kimpoko.html">Kimpoko Airport</a></td>
       <td>FZAE</td>
       <td>-</td>
@@ -165,6 +172,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
     <tr>
       <td><a href="airports/luozifzal/luozi.html">Luozi Airport</a></td>
       <td>FZAL</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>INTERMITTENT, MAINT. REQ. FOR FLIGHTS</td>
+    </tr>
+    <tr>
+      <td><a href="airports/malangafzda/malanga.html">Malanga Airport</a></td>
+      <td>FZDA</td>
       <td>-</td>
       <td>Kongo Central</td>
       <td>INTERMITTENT, MAINT. REQ. FOR FLIGHTS</td>
