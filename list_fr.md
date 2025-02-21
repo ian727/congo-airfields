@@ -100,6 +100,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>ABANDONNÉ</td>
     </tr>
     <tr>
+      <td><a href="airports_fr/kimpese/kimpese_fr.html">Aéroport de Kimpese</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONNÉ</td>
+    </tr>
+    <tr>
       <td><a href="airports_fr/kimpokofzae/kimpoko_fr.html">Aéroport de Kimpoko</a></td>
       <td>FZAE</td>
       <td>-</td>
@@ -165,6 +172,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
     <tr>
       <td><a href="airports_fr/luozifzal/luozi_fr.html">Aéroport de Luozi</a></td>
       <td>FZAL</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>INTERMITTENT, MAINT. NÉCES. POUR VOLS</td>
+    </tr>
+    <tr>
+      <td><a href="airports_fr/malangafzda/malanga_fr.html">Aéroport de Malanga</a></td>
+      <td>FZDA</td>
       <td>-</td>
       <td>Kongo Central</td>
       <td>INTERMITTENT, MAINT. NÉCES. POUR VOLS</td>
