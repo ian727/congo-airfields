@@ -22,9 +22,7 @@ Today, archival sources suggest that Kimpese continues to be economically active
 
 ## Historical Background  
 
-The origins of Kimpese Airport remain unclear, as no historical maps or aeronautical charts depict an airfield at this location. This absence of documentation makes it difficult to determine when the airstrip was established and suggests that it may have been created unofficially.  
-
-The only known source listing an airfield at Kimpese is the 2015 MAF Airports Directory, which provides exact coordinates and names CEC as the operator. CEC most likely refers to the Communauté Évangélique du Congo, which aligns with the town’s strong missionary presence.  
+The origins of Kimpese Airport remain unclear. It is first depicted on the 1996 U.S. Tactical Pilotage Chart. Furthermore, Kimpese is listed in the 2015 MAF Airports Directory, which provides exact coordinates and names CEC as the operator. CEC most likely refers to the Communauté Évangélique du Congo, which aligns with the town’s strong missionary presence.  
 
 The MAF listing also warns of obstacles at the site, including a Vodacom tower at the eastern end of the runway and a TV antenna at the western end. This indicates that MAF aircraft operated at Kimpese in relatively recent years.  
 
