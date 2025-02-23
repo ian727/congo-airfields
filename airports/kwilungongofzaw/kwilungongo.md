@@ -4,7 +4,7 @@ title: "Kwilu-Ngongo Airport (FZAW)"
 show_title: false
 ---
 
-[en français](../../airports_fr/kwilungongofzaw/kwilu_ngongo_fr.md)
+[en français](../../airports_fr/kwilungongofzaw/kwilungongo_fr.md)
 
 ## Kwilu-Ngongo Airport (FZAW)
 
