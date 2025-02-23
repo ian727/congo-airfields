@@ -22,7 +22,7 @@ Between 1970 and 1996, operations at Kolo Fuma were halted, and the ranch remain
 
 Despite the ranch being called Kolo Fuma, the associated airfield is named Nkolo-Fuma Airport. As there is no known locality in the vicinity named Nkolo, the origin of the additional "N" in the airport’s name remains unclear.  
 
-The airfield itself is quite old. The earliest known map depicting the airfield is the 1947 Carte des Renseignements Aéronautiques, which refers to it simply as "Kolo" at that time. By 195*, another map places the airfield adjacent and parallel to the railway tracks. Interestingly, the airfield's actual location is about one kilometer south of the railway, raising the possibility of either a mapping error or a relocation at some point.  
+The airfield itself is quite old. The earliest known map depicting the airfield is the 1947 Carte des Renseignements Aéronautiques, which refers to it simply as "Kolo" at that time. By 1953, another map places the airfield adjacent and parallel to the railway tracks. Interestingly, the airfield's actual location is about one kilometer south of the railway, raising the possibility of either a mapping error or a relocation at some point.  
 
 <div class="image-left">
     <figure>
