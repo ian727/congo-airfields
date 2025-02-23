@@ -4,7 +4,7 @@ title: "Aéroport de Kwilu-Ngongo (FZAW)"
 show_title: false
 ---
 
-[in english](../../airports/kwilungongofzaw/kwilu_ngongo.md)
+[in english](../../airports/kwilungongofzaw/kwilungongo.md)
 
 ## Aéroport de Kwilu-Ngongo (FZAW)
 
@@ -40,7 +40,7 @@ L’aéroport est également doté d’un grand hangar, utilisé pour l’entrep
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/nkolofumafzar/FZAW_2024.png" alt="FZAW 2024" width="70%">
+        <img src="/congo-airfields/airports/kwilungongofzaw/FZAW_2024.png" alt="FZAW 2024" width="70%">
         <figcaption>L’aéroport de Kwilu-Ngongo vu sur une image satellite de 2024, montrant une piste bien entretenue.</figcaption>
     </figure>
 </div>
