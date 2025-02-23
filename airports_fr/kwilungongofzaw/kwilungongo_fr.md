@@ -27,7 +27,7 @@ La première représentation connue de l’aéroport de Kwilu-Ngongo apparaît s
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/nkolofumafzar/FZAR_1967.png" alt="FZAR 1967" width="70%">
+        <img src="/congo-airfields/airports/nkolofumafzar/FZAR_FZAW_1967.png" alt="FZAR 1967" width="70%">
         <figcaption>L’aéroport de Kwilu-Ngongo à son emplacement correct sur une carte aéronautique de 1967.</figcaption>
     </figure>
 </div>
