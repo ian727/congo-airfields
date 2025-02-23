@@ -40,7 +40,7 @@ The airport is also equipped with a large hangar, used for storing aircraft and 
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/nkolofumafzar/FZAW_2024.png" alt="FZAW 2024" width="70%">
+        <img src="/congo-airfields/airports/kwilungongofzaw/FZAW_2024.png" alt="FZAW 2024" width="70%">
         <figcaption>Kwilu-Ngongo Airport as seen on 2024 satellite imagery, showing a well-maintained runway.</figcaption>
     </figure>
 </div>
