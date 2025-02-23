@@ -27,7 +27,7 @@ The first known depiction of Kwilu-Ngongo Airport appears in the 1967 Joint Oper
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/nkolofumafzar/FZAR_1967.png" alt="FZAR 1967" width="70%">
+        <img src="/congo-airfields/airports/nkolofumafzar/FZAR_1967.png" alt="FZAW 1967" width="70%">
         <figcaption>Kwilu-Ngongo Airport shown at its correct location on a 1967 aeronautical chart.</figcaption>
     </figure>
 </div>
