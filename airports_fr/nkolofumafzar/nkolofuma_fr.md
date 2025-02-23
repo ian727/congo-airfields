@@ -4,7 +4,7 @@ title: "Aéroport de Nkolo-Fuma (FZAR)"
 show_title: false
 ---
 
-[in english](../../airports/nkolofumafzar/nkolo_fuma.md)
+[in english](../../airports/nkolofumafzar/nkolofuma.md)
 
 ## Aéroport de Nkolo-Fuma (FZAR)
 
