@@ -24,13 +24,34 @@ Despite the ranch being called Kolo Fuma, the associated airfield is named Nkolo
 
 The airfield itself is quite old. The earliest known map depicting the airfield is the 1947 Carte des Renseignements Aéronautiques, which refers to it simply as "Kolo" at that time. By 195*, another map places the airfield adjacent and parallel to the railway tracks. Interestingly, the airfield's actual location is about one kilometer south of the railway, raising the possibility of either a mapping error or a relocation at some point.  
 
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/nkolofumafzar/FZAR_1953.png" alt="FZAR 1953" width="70%">
+        <figcaption>Nkolo-Fuma Airport shown on a 1953 map. Note its indicated position directly next to the railway. ©Royal Museum for Central Africa</figcaption>
+    </figure>
+</div>
+
 By 1967, the Joint Operations Graphics, published by the U.S. Defense Mapping Agency, listed the airfield under its current name, Nkolo-Fuma. The fact that Nkolo-Fuma Airport was also assigned an IATA Code (NKL) suggests that it was once considered a significant airfield, possibly serving logistical or agricultural purposes linked to the ranch.  
+
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/nkolofumafzar/FZAR_1967.png" alt="FZAR 1953" width="70%">
+        <figcaption>Nkolo-Fuma Airport shown at its correct location on a 1967 aeronautical chart.</figcaption>
+    </figure>
+</div>
 
 ## Current Status (as of 2025)  
 
 Despite its long history and the presence of an IATA Code, Nkolo-Fuma Airport is little more than a 1,150-meter grass landing strip with no visible facilities.  
 
 While the airfield is clearly visible on recent satellite imagery, it appears to see very little use. It remains unclear if and when aircraft still operate at the site.  
+
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/nkolofumafzar/FZAR_1967.png" alt="FZAR 2021" width="70%">
+        <figcaption>Nkolo-Fuma Airport as seen on 2021 satellite imagery.</figcaption>
+    </figure>
+</div>
 
 ## See Also  
 
