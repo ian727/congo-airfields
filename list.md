@@ -149,6 +149,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>ABANDONED, EXACT LOCATION UNKNOWN</td>
     </tr>
     <tr>
+      <td><a href="airports/kwilungongofzaw/kwilungongo.html">Kwilu-Ngongo Airport</a></td>
+      <td>FZAW</td>
+      <td>none</td>
+      <td>Kongo Central</td>
+      <td>ACTIVE, REGULAR FLIGHTS</td>
+    </tr>
+    <tr>
       <td><a href="airports/lukalafzap/lukala.html">Lukala Airport</a></td>
       <td>FZAP</td>
       <td>-</td>
@@ -203,6 +210,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>MNB</td>
       <td>Kongo Central</td>
       <td>ACTIVE, REGULAR FLIGHTS</td>
+    </tr>
+    <tr>
+      <td><a href="airports/nkolofumafzar/nkolofuma.html">Nkolo-Fuma Airport</a></td>
+      <td>FZAR</td>
+      <td>NKL</td>
+      <td>Kongo Central</td>
+      <td>OPERATIONAL, NO REGULAR FLIGHTS</td>
     </tr>
     <tr>
       <td><a href="airports/nsangifzaf/nsangi.html">Nsangi Airport</a></td>
