@@ -4,7 +4,7 @@ title: "Nkolo-Fuma Airport (FZAR)"
 show_title: false
 ---
 
-[en français](../../airports_fr/nkolofumafzar/nkolo_fuma_fr.md)
+[en français](../../airports_fr/nkolofumafzar/nkolofuma_fr.md)
 
 ## Nkolo-Fuma Airport (FZAR)
 
@@ -48,7 +48,7 @@ While the airfield is clearly visible on recent satellite imagery, it appears to
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/nkolofumafzar/FZAR_1967.png" alt="FZAR 2021" width="70%">
+        <img src="/congo-airfields/airports/nkolofumafzar/FZAR_2021.png" alt="FZAR 2021" width="70%">
         <figcaption>Nkolo-Fuma Airport as seen on 2021 satellite imagery.</figcaption>
     </figure>
 </div>
