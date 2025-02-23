@@ -35,7 +35,7 @@ By 1967, the Joint Operations Graphics, published by the U.S. Defense Mapping Ag
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/nkolofumafzar/FZAR_1967.png" alt="FZAR 1967" width="70%">
+        <img src="/congo-airfields/airports/nkolofumafzar/FZAR_FZAW_1967.png" alt="FZAR 1967" width="70%">
         <figcaption>Nkolo-Fuma Airport shown at its correct location on a 1967 aeronautical chart.</figcaption>
     </figure>
 </div>
