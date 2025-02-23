@@ -48,7 +48,7 @@ L’aérodrome est bien identifiable sur les images satellites récentes, mais i
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/nkolofumafzar/FZAR_1967.png" alt="FZAR 2021" width="70%">
+        <img src="/congo-airfields/airports/nkolofumafzar/FZAR_2021.png" alt="FZAR 2021" width="70%">
         <figcaption>L’aéroport de Nkolo-Fuma vu sur une image satellite de 2021.</figcaption>
     </figure>
 </div>
