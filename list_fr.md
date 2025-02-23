@@ -149,6 +149,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>ABANDONNÉ, EMPLACEMENT EXACT INCONNU</td>
     </tr>
     <tr>
+      <td><a href="airports_fr/kwilungongofzaw/kwilungongo_fr.html">Aéroport de Kwilu-Ngongo</a></td>
+      <td>FZAW</td>
+      <td>none</td>
+      <td>Kongo Central</td>
+      <td>ACTIF, VOLS RÉGULIERS</td>
+    </tr>
+    <tr>
       <td><a href="airports_fr/lukalafzap/lukala_fr.html">Aéroport de Lukala</a></td>
       <td>FZAP</td>
       <td>-</td>
@@ -203,6 +210,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>MNB</td>
       <td>Kongo Central</td>
       <td>ACTIF, VOLS RÉGULIERS</td>
+    </tr>
+    <tr>
+      <td><a href="airports_fr/nkolofumafzar/nkolofuma_fr.html">Aéroport de Nkolo-Fuma</a></td>
+      <td>FZAR</td>
+      <td>NKL</td>
+      <td>Kongo Central</td>
+      <td>OPÉRATIONNEL, PAS DE VOLS RÉGULIERS</td>
     </tr>
     <tr>
       <td><a href="airports_fr/nsangifzaf/nsangi_fr.html">Aéroport de Nsangi</a></td>
