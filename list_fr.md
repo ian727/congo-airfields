@@ -219,6 +219,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>ACTIF, VOLS RÉGULIERS</td>
     </tr>
     <tr>
+      <td><a href="airports_fr/mvulasandafzay/mvulasanda_fr.html">Aéroport de Mvula-Sanda</a></td>
+      <td>FZAY</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONNÉ</td>
+    </tr>
+    <tr>
       <td><a href="airports_fr/nkolofumafzar/nkolofuma_fr.html">Aéroport de Nkolo-Fuma</a></td>
       <td>FZAR</td>
       <td>NKL</td>
