@@ -156,6 +156,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>ACTIVE, REGULAR FLIGHTS</td>
     </tr>
     <tr>
+      <td><a href="airports/luhekifzax/luheki.html">Luheki Airport</a></td>
+      <td>FZAX</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONED, EXACT LOCATION UNKNOWN</td>
+    </tr>
+    <tr>
       <td><a href="airports/lukalafzap/lukala.html">Lukala Airport</a></td>
       <td>FZAP</td>
       <td>-</td>
