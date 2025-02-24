@@ -156,6 +156,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>ACTIF, VOLS RÉGULIERS</td>
     </tr>
     <tr>
+      <td><a href="airports_fr/luhekifzax/luheki_fr.html">Aéroport de Luheki</a></td>
+      <td>FZAX</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONNÉ, EMPLACEMENT EXACT INCONNU</td>
+    </tr>
+    <tr>
       <td><a href="airports_fr/lukalafzap/lukala_fr.html">Aéroport de Lukala</a></td>
       <td>FZAP</td>
       <td>-</td>
