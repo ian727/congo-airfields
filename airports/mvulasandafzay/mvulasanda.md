@@ -4,7 +4,7 @@ title: "Mvula-Sanda Airport (FZAY)"
 show_title: false
 ---
 
-[en français](../../airports_fr/mvulasandafzay/mvula_sanda_fr.md)
+[en français](../../airports_fr/mvulasandafzay/mvulasanda_fr.md)
 
 ## Mvula-Sanda Airport (FZAY)  
 
@@ -26,7 +26,7 @@ No information is available regarding the establishment of Mvula-Sanda Airport (
 
 The collection of colonial-era maps available online does not cover this area, meaning that the airport’s first known depiction appears in the 1967 Joint Operations Graphics, published by the U.S. Defense Mapping Agency. Interestingly, this map marks two airfields in close proximity to the Sanda villages:  
 - Mvula-Sanda Airport (FZAY)  
-- [Sanda-Samuna Airport](../sandasamuna/sandasamuna.md)
+- [Sanda-Samuna Airport](sandasamuna.md)
 
 <div class="image-left">
     <figure>
