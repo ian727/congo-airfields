@@ -219,6 +219,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>ACTIVE, REGULAR FLIGHTS</td>
     </tr>
     <tr>
+      <td><a href="airports/mvulasandafzay/mvulasanda.html">Mvula-Sanda Airport</a></td>
+      <td>FZAY</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONED</td>
+    </tr>
+    <tr>
       <td><a href="airports/nkolofumafzar/nkolofuma.html">Nkolo-Fuma Airport</a></td>
       <td>FZAR</td>
       <td>NKL</td>
