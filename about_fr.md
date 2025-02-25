@@ -33,6 +33,10 @@ En raison des défis liés à cette recherche, une grande partie de mes conclusi
 
 La collecte d'informations et toutes les conclusions présentées sur ce site sont le fruit du travail humain. Toutefois, certaines informations sont rassemblées sous forme de listes ou de points clés avant d'être transformées en texte fluide avec l'aide d'une IA. Tous ces textes sont relus, vérifiés et validés par des humains. De plus, l'IA est utilisée pour aider à la traduction du contenu anglais vers le français.
 
+## À propos des conclusions
+
+Le contenu de ce site web est le résultat de la recherche présentée ci-dessus. Pour être clair et concis : Je suis généralement assis derrière mon bureau, en train de parcourir des tonnes de vieux documents, sites web et cartes. Jusqu'à présent (au début de l'année 2025), je n'ai pas spécifiquement visité d'archives ou construit un réseau de contacts locaux en RDC - j'aimerais beaucoup le faire, mais cela dépasse le temps et les efforts que je peux consacrer à un projet qui n'est jusqu'à présent qu'un simple passe-temps. Cela signifie également - et c'est important - que si j'écris - par exemple : « L'emplacement de cet aéroport reste un mystère » - cela signifie qu'il reste un mystère *pour moi* et que *Je* n'ai pas été en mesure de trouver l'emplacement de cet aéroport, avec les moyens dont je disposais à ce moment. Cela ne signifie pas que je prétends que l'emplacement de l'aéroport est un mystère *pour le monde entier et pour tout le monde*. J'ai créé ce site parce que je me suis rendu compte que, même en ne faisant que des recherches en ligne, j'ai pu trouver un certain nombre de détails sur ces aérodromes qui n'étaient disponibles sous cette forme nulle part ailleurs.
+
 ## Contact
 
 J'aimerais beaucoup collaborer ! Si vous avez des informations sur un aérodrome en RDC ou si vous partagez un intérêt pour la documentation des infrastructures abandonnées, n'hésitez pas à me contacter.
