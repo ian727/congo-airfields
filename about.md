@@ -33,6 +33,10 @@ Due to the difficult nature of this research, many of my findings involve theori
 
 The collection of information and all conclusions made on this website are the courtesy of humans. However, in some instances, information is collected in or compiled to bullet points, which are transformed into flowing text with the help of AI. All respective text is read, checked and verified by humans. Furthermore, AI is used to help with the translation of English content to French.
 
+## About the conclusions
+
+The content of this website is the result of the research presented above. To say it clear and concise: I am usually sitting behind my desk, browsing tons of old documents, websites and maps. I did so far (as of early 2025) not specifically visit any archives or built a network of local contacts in the DRC - I would love to do that, but it exceeds the times and effort I can spend on a project that is so far just a hobby. This also means - and this is important: If I write - for example: "The location of this airport remains a mystery" - this means that it remains a mystery *for me* and that *I* was unable to figure out where this airport was located, using the means that were available to me at that time. It does not mean that I claim the airport's location to be a mystery *worldwide and for everybody*. I created this website because I realized that even with only online-research, I was able to find quite some details about those airfields that were not available in this form anywhere else.
+
 ## Contact
 
 I would love to collaborate! If you have any information about an airfield in the DRC, or if you share an interest in documenting abandoned infrastructure, feel free to get in touch.
