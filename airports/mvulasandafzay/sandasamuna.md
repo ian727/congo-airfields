@@ -4,7 +4,7 @@ title: "Sanda-Samuna Airport"
 show_title: false
 ---
 
-[en français](../../airports_fr/mvulasandafzay/sandasamuna.md)
+[en français](../../airports_fr/mvulasandafzay/sandasamuna_fr.md)
 
 ## Sanda-Samuna Airport
 
