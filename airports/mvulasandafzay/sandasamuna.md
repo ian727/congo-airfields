@@ -8,11 +8,11 @@ show_title: false
 
 ## Sanda-Samuna Airport
 
-**Location:** Sanda-Samuna, Kongo Central
-**Status:** Redeveloped
-**ICAO Code:** none
-**IATA Code:** none
-**Coordinates (unverified):** -5.651934°, 13.443264°
+**Location:** Sanda-Samuna, Kongo Central  
+**Status:** Redeveloped  
+**ICAO Code:** none  
+**IATA Code:** none  
+**Coordinates (unverified):** -5.651934°, 13.443264°  
 
 Little information is available about the area surrounding Sanda-Samuna Airport. In this region, National Road 1 takes a northern detour between Boma and Matadi, avoiding the challenging terrain near the Congo River. Several large villages and smaller settlements are scattered along this route.  
 
