@@ -247,6 +247,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>REDEVELOPED</td>
     </tr>
     <tr>
+      <td><a href="airports/sumbi/sumbi.html">Sumbi Airport</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>REDEVELOPED</td>
+    </tr>
+    <tr>
       <td><a href="airports/tshelafzah/tshela.html">Tshela Airport</a></td>
       <td>FZAH</td>
       <td>-</td>
