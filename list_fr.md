@@ -247,6 +247,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>RECONVERTI</td>
     </tr>
     <tr>
+      <td><a href="airports_fr/sumbi/sumbi_fr.html">Aéroport de Sumbi</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>RECONVERTI</td>
+    </tr>
+    <tr>
       <td><a href="airports_fr/tshelafzah/tshela_fr.html">Aéroport de Tshela</a></td>
       <td>FZAH</td>
       <td>-</td>
