@@ -79,6 +79,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>OPERATIONAL, NO REGULAR FLIGHTS</td>
     </tr>
     <tr>
+      <td><a href="airports/cipelo/cipelo.html">Cipelo Airport</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>REDEVELOPED</td>
+    </tr>
+    <tr>
       <td><a href="airports/ingafzan/inga.html">Inga Airport</a></td>
       <td>FZAN</td>
       <td>-</td>
@@ -98,6 +105,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>-</td>
       <td>Kongo Central</td>
       <td>ABANDONED</td>
+    </tr>
+    <tr>
+      <td><a href="airports/kengekc/kenge.html">Kenge Airport (Kongo Central)</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>REDEVELOPED</td>
     </tr>
     <tr>
       <td><a href="airports/kimpese/kimpese.html">Kimpese Airport</a></td>
@@ -133,6 +147,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>NLO</td>
       <td>Kinshasa</td>
       <td>ACTIVE, REGULAR FLIGHTS</td>
+    </tr>
+    <tr>
+      <td><a href="airports/kitomesa/kitomesa.html">Kitomesa Airport</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONED</td>
     </tr>
     <tr>
       <td><a href="airports/kitonabasefzai/kitona.html">Kitona Base Airport</a></td>
@@ -205,6 +226,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>OPERATIONAL, NO REGULAR FLIGHTS</td>
     </tr>
     <tr>
+      <td><a href="airports/cipelo/cipelo.html">Manzonzi Airport</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>REDEVELOPED</td>
+    </tr>
+    <tr>
       <td><a href="airports/matadifzam/matadi.html">Matadi-Tshimpi Airport</a></td>
       <td>FZAM</td>
       <td>MAT</td>
@@ -245,6 +273,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>-</td>
       <td>Kongo Central</td>
       <td>REDEVELOPED</td>
+    </tr>
+    <tr>
+      <td><a href="airports/sonapangu/sonapangu.html">Sona-Pangu Airport</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONED, EXACT LOCATION UNKNOWN</td>
     </tr>
     <tr>
       <td><a href="airports/sumbi/sumbi.html">Sumbi Airport</a></td>
