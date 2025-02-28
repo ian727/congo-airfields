@@ -79,6 +79,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>OPÉRATIONNEL, PAS DE VOLS RÉGULIERS</td>
     </tr>
     <tr>
+      <td><a href="airports_fr/cipelo/cipelo_fr.html">Aéroport de Cipelo</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>RECONVERTI</td>
+    </tr>
+    <tr>
       <td><a href="airports_fr/ingafzan/inga_fr.html">Aéroport d'Inga</a></td>
       <td>FZAN</td>
       <td>-</td>
@@ -98,6 +105,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>-</td>
       <td>Kongo Central</td>
       <td>ABANDONNÉ</td>
+    </tr>
+    <tr>
+      <td><a href="airports_fr/kengekc/kenge_fr.html">Aéroport de Kenge (Kongo Central)</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>RECONVERTI</td>
     </tr>
     <tr>
       <td><a href="airports_fr/kimpese/kimpese_fr.html">Aéroport de Kimpese</a></td>
@@ -133,6 +147,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>NLO</td>
       <td>Kinshasa</td>
       <td>ACTIF, VOLS RÉGULIERS</td>
+    </tr>
+    <tr>
+      <td><a href="airports_fr/kitomesa/kitomesa_fr.html">Aéroport de Kitomesa</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONNÉ</td>
     </tr>
     <tr>
       <td><a href="airports_fr/kitonabasefzai/kitona_fr.html">Aéroport/Base aérienne de Kitona</a></td>
@@ -205,6 +226,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>OPÉRATIONNEL, PAS DE VOLS RÉGULIERS</td>
     </tr>
     <tr>
+      <td><a href="airports_fr/cipelo/cipelo_fr.html">Aéroport de Manzonzi</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>RECONVERTI</td>
+    </tr>
+    <tr>
       <td><a href="airports_fr/matadifzam/matadi_fr.html">Aéroport de Matadi-Tshimpi</a></td>
       <td>FZAM</td>
       <td>MAT</td>
@@ -245,6 +273,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>-</td>
       <td>Kongo Central</td>
       <td>RECONVERTI</td>
+    </tr>
+    <tr>
+      <td><a href="airports_fr/sonapangu/sonapangu_fr.html">Aéroport de Sona-Pangu</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONNÉ, EMPLACEMENT EXACT INCONNU</td>
     </tr>
     <tr>
       <td><a href="airports_fr/sumbi/sumbi_fr.html">Aéroport de Sumbi</a></td>
