@@ -50,7 +50,7 @@ Luangu est un petit village directement adjacent à la frontière RDC-Congo. Cer
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/luangu/luangu_1966.png" alt="Luangu 1966" width="70%">
+        <img src="/congo-airfields/airports/luangu/Luangu_1966.png" alt="Luangu 1966" width="70%">
         <figcaption>Le village, mentionné sous le nom de "Louangou", sur la carte aéronautique de 1967.</figcaption>
     </figure>
 </div>
@@ -74,7 +74,7 @@ Avec un simple débroussaillage et un minimum d’entretien, l’aéroport de Lu
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/luangu/luangu_2015.png" alt="Luangu 2015" width="70%">
+        <img src="/congo-airfields/airports/luangu/Luangu_2015.png" alt="Luangu 2015" width="70%">
         <figcaption>La piste telle qu’elle apparaît sur les images satellites de 2015. Bien qu’elle semble légèrement courbée, cet effet est probablement accentué par des distorsions de l’imagerie satellite ou des variations du terrain.</figcaption>
     </figure>
 </div>
