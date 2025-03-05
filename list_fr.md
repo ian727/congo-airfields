@@ -51,6 +51,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>INCONNU, N'EXISTE PAS</td>
     </tr>
     <tr>
+      <td><a href="airports_fr/binda/binda_fr.html">Aéroport de Binda</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONNÉ, EMPLACEMENT EXACT INCONNU</td>
+    </tr>
+    <tr>
       <td><a href="airports_fr/bokoro/bokoro_fr.html">Aéroport de Bokoro</a></td>
       <td>-</td>
       <td>-</td>
@@ -175,6 +182,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>none</td>
       <td>Kongo Central</td>
       <td>ACTIF, VOLS RÉGULIERS</td>
+    </tr>
+    <tr>
+      <td><a href="airports_fr/luangu/luangu_fr.html">Aéroport de Luangu</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONNÉ</td>
     </tr>
     <tr>
       <td><a href="airports_fr/luhekifzax/luheki_fr.html">Aéroport de Luheki</a></td>
