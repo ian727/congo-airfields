@@ -51,6 +51,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>UNKNOWN, DOES NOT EXIST</td>
     </tr>
     <tr>
+      <td><a href="airports/binda/binda.html">Binda Airport</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONED, EXACT LOCATION UNKNOWN</td>
+    </tr>
+    <tr>
       <td><a href="airports/bokoro/bokoro.html">Bokoro Airport</a></td>
       <td>-</td>
       <td>-</td>
@@ -175,6 +182,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>none</td>
       <td>Kongo Central</td>
       <td>ACTIVE, REGULAR FLIGHTS</td>
+    </tr>
+    <tr>
+      <td><a href="airports/luangu/luangu.html">Luangu Airport</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>ABANDONED</td>
     </tr>
     <tr>
       <td><a href="airports/luhekifzax/luheki.html">Luheki Airport</a></td>
