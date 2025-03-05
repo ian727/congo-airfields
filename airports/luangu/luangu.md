@@ -47,7 +47,7 @@ Luangu itself is a small village directly adjacent to the DRC-Congo border. Some
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/luangu/luangu_1966.png" alt="Luangu 1966" width="70%">
+        <img src="/congo-airfields/airports/luangu/Luangu_1966.png" alt="Luangu 1966" width="70%">
         <figcaption>The village, referred to as "Louangou", as seen on the 1967 Joint Operations Graphics.</figcaption>
     </figure>
 </div>
@@ -66,7 +66,7 @@ Despite this, the airfield remains undeveloped, with no buildings or other infra
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/luangu/luangu_2015.png" alt="Luangu 2015" width="70%">
+        <img src="/congo-airfields/airports/luangu/Luangu_2015.png" alt="Luangu 2015" width="70%">
         <figcaption>The runway as seen on 2015 satellite imagery. While it does appear to be slightly curved, this effect is likely emphasized by distortions in the satellite imagery or terrain variations.</figcaption>
     </figure>
 </div>
