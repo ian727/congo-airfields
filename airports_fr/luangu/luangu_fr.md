@@ -19,7 +19,7 @@ L’aéroport de Luangu a été localisé ! Faites défiler la page pour voir le
 ## Recherche initiale  
 
 Très peu d’informations étaient initialement disponibles concernant l’aéroport de Luangu et sa région environnante. L’aérodrome était supposé se situer entre deux petits villages le long de la Route Nationale 12, Sundi-Mawawa et Kimbala-Zolele.  
-La seule référence connue à l’aéroport de Luangu apparaissait dans le répertoire des aéroports de la MAF de 2015. Contrairement à de nombreux autres aérodromes, il n’était mentionné sur **aucune carte ancienne ni aucun document aéronautique**, rendant son origine et sa fonction incertaines.  
+La seule référence connue à l’aéroport de Luangu apparaissait dans le répertoire des aéroports de la MAF de 2015. Contrairement à de nombreux autres aérodromes, il n’était mentionné sur aucune carte ancienne ni aucun document aéronautique, rendant son origine et sa fonction incertaines.  
 
 Le répertoire MAF de 2015 fournit généralement deux types de données de coordonnées :  
 - La majorité des aérodromes sont répertoriés avec des coordonnées génériques extrapolées, probablement issues d’anciennes cartes.  
@@ -74,7 +74,7 @@ Avec un simple débroussaillage et un minimum d’entretien, l’aéroport de Lu
 
 <div class="image-left">
     <figure>
-        <img src="/congo-airfields/airports/luangu/Luangu_2015.png" alt="Luangu 2015" width="70%">
+        <img src="/congo-airfields/airports/luangu/Luangu_2015.png" alt="Luangu 2015" width="100%">
         <figcaption>La piste telle qu’elle apparaît sur les images satellites de 2015. Bien qu’elle semble légèrement courbée, cet effet est probablement accentué par des distorsions de l’imagerie satellite ou des variations du terrain.</figcaption>
     </figure>
 </div>
