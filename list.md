@@ -179,7 +179,7 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
     <tr>
       <td><a href="airports/kwilungongofzaw/kwilungongo.html">Kwilu-Ngongo Airport</a></td>
       <td>FZAW</td>
-      <td>none</td>
+      <td>-</td>
       <td>Kongo Central</td>
       <td>ACTIVE, REGULAR FLIGHTS</td>
     </tr>
