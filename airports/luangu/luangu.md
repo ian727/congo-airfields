@@ -18,8 +18,7 @@ Luangu Airport has been located! Scroll down to view the most recent findings.
 
 ## Initial Research  
 
-Very little information was initially available regarding Luangu Airport and its surrounding area. The airfield was thought to be located between two small villages along National Road 12, Sundi-Mawawa and Kimbala-Zolele.  
-
+Very little information was initially available regarding Luangu Airport and its surrounding area. The airfield was thought to be located between two small villages along National Road 12, Sundi-Mawawa and Kimbala-Zolele.   
 The only known reference to Luangu Airport appeared in the 2015 MAF Airports Directory. Unlike many other airfields, it was not featured on old maps or aeronautical charts, making its purpose and origins unclear.  
 
 The 2015 MAF list typically provides two types of coordinate data. The vast majority of airfields features generic extrapolated coordinates, likely taken from old maps or charts. But a few airfields also have highly precise coordinates, likely because those actually saw MAF service at some point.  
@@ -46,6 +45,13 @@ This confirmed that Luangu Airport’s true location had been obscured due to a 
 
 Luangu itself is a small village directly adjacent to the DRC-Congo border. Some sources also refer to it as Louangou.  
 
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/luangu/luangu_1966.png" alt="Luangu 1966" width="70%">
+        <figcaption>The village, referred to as "Louangou", as seen on the 1967 Joint Operations Graphics.</figcaption>
+    </figure>
+</div>
+
 ## Historical Background  
 
 No specific information could be found regarding the establishment of Luangu Airport.  Notably, even at its correct location, Luangu Airport does not appear on any known maps or aeronautical charts, reinforcing the lack of official documentation regarding its existence. Additionally, unlike the misidentified dirt road at the incorrect location, the actual airfield aligns with the runway heading given in the MAF list (18/36), confirming its authenticity.  
@@ -57,6 +63,13 @@ However, its makeshift appearance, combined with evidence of past MAF service, s
 The earliest available high-resolution satellite imagery from 2014 already shows the runway in a barely visible, abandoned state. It appears that there has been no aviation activity at Luangu Airport for many years.  
 
 Despite this, the airfield remains undeveloped, with no buildings or other infrastructure encroaching on its site. With basic vegetation clearing and minimal maintenance, Luangu Airport could potentially be restored for operational use.  
+
+<div class="image-left">
+    <figure>
+        <img src="/congo-airfields/airports/luangu/luangu_2015.png" alt="Luangu 2015" width="70%">
+        <figcaption>The runway as seen on 2015 satellite imagery. While it does appear to be slightly curved, this effect is likely emphasized by distortions in the satellite imagery or terrain variations.</figcaption>
+    </figure>
+</div>
 
 ## See Also  
 
