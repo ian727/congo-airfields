@@ -179,7 +179,7 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
     <tr>
       <td><a href="airports_fr/kwilungongofzaw/kwilungongo_fr.html">Aéroport de Kwilu-Ngongo</a></td>
       <td>FZAW</td>
-      <td>none</td>
+      <td>-</td>
       <td>Kongo Central</td>
       <td>ACTIF, VOLS RÉGULIERS</td>
     </tr>
