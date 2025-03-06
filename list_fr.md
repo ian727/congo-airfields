@@ -135,6 +135,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>RECONVERTI</td>
     </tr>
     <tr>
+      <td><a href="airports_fr/kinkenge/kinkenge_fr.html">Aéroport de Kinkenge</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>INTERMITTENT, MAINT. NÉCES. POUR VOLS</td>
+    </tr>
+    <tr>
       <td><a href="airports_fr/binzafzak/binza_fr.html">Aéroport de Kinshasa Binza</a></td>
       <td>FZAK</td>
       <td>-</td>
@@ -154,6 +161,13 @@ Vous trouverez ci-dessous une liste complète des aéroports et aérodromes en R
       <td>NLO</td>
       <td>Kinshasa</td>
       <td>ACTIF, VOLS RÉGULIERS</td>
+    </tr>
+    <tr>
+      <td><a href="airports_fr/kinzolani/kinzolani_fr.html">Aéroport de Kinzolani</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>RECONVERTI</td>
     </tr>
     <tr>
       <td><a href="airports_fr/kitomesa/kitomesa_fr.html">Aéroport de Kitomesa</a></td>
