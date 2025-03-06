@@ -135,6 +135,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>REDEVELOPED</td>
     </tr>
     <tr>
+      <td><a href="airports/kinkenge/kinkenge.html">Kinkenge Airport</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>INTERMITTENT, MAINT. REQ. FOR FLIGHTS</td>
+    </tr>
+    <tr>
       <td><a href="airports/binzafzak/binza.html">Kinshasa Binza Airport</a></td>
       <td>FZAK</td>
       <td>-</td>
@@ -154,6 +161,13 @@ Below, you will find a comprehensive list of airports and airfields in the DRC. 
       <td>NLO</td>
       <td>Kinshasa</td>
       <td>ACTIVE, REGULAR FLIGHTS</td>
+    </tr>
+    <tr>
+      <td><a href="airports/kinzolani/kinzolani.html">Kinzolani Airport</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Kongo Central</td>
+      <td>REDEVELOPED</td>
     </tr>
     <tr>
       <td><a href="airports/kitomesa/kitomesa.html">Kitomesa Airport</a></td>
