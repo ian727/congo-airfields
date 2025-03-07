@@ -14,7 +14,7 @@ show_title: false
 **IATA Code:** none  
 **Coordinates:** -5.558347°, 14.458567°  
 
-Kimpese is a town situated along National Road 1 and the Matadi-Kinshasa railway, serving as a regional hub with historical ties to missionary and agricultural activities. The earliest mention of Kimpese found online dates back to 1908, when the town’s hospital was founded.  
+Kimpese is a town situated along National Road 1 and the Matadi-Kinshasa railway, serving as a regional hub with historical ties to missionary and agricultural activities. A catholic mission was established in Kimpese in 1901, and seven years later, in 1908, the town’s hospital was founded.  
 
 Due to its strategic location along the railway, Kimpese experienced steady growth, attracting several Christian missions that managed the hospital along with other social and economic initiatives. However, as late as 1980, Kimpese was still referred to as a large village, indicating that its development remained moderate despite its favorable position.  
 
