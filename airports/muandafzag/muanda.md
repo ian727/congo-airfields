@@ -14,7 +14,7 @@ show_title: false
 **IATA Code:** MNB  
 **Coordinates:** -5.930608°, 12.351373°  
 
-Muanda, also spelled Moanda, is the westernmost city in the Democratic Republic of the Congo and the country’s only coastal city on the Atlantic Ocean. Historically, the main settlement in this region was Banana, a small port town located just south of Muanda. However, Muanda, originally established as a mission, gradually grew into a large town with schools, a hospital, and hotels.
+Muanda, also spelled Moanda, is the westernmost city in the Democratic Republic of the Congo and the country’s only coastal city on the Atlantic Ocean. Historically, the main settlement in this region was Banana, a small port town located just south of Muanda. However, Muanda, originally established as a catholic mission in 1889, gradually grew into a large town with schools, a hospital, and hotels.
 
 The city is relatively well-connected to Kinshasa with the National Road 1 (RN1), which is mostly paved. Muanda is home to significant economic activity, primarily due to its offshore oil reserves. The Muanda Oil Terminal, located just off the coast, plays a crucial role in the region’s economy. Additionally, Muanda has some tourism potential, with long Atlantic beaches and its proximity to the Mangroves National Park — one of the few protected coastal ecosystems in Central Africa.
 
