@@ -14,7 +14,7 @@ show_title: false
 **Code IATA :** aucun  
 **Coordonnées :** -5.558347°, 14.458567°  
 
-Kimpese est une ville située le long de la Route Nationale 1 et de la ligne ferroviaire Matadi-Kinshasa, servant de centre régional avec des liens historiques aux missions chrétiennes et aux activités agricoles. La plus ancienne mention de Kimpese trouvée en ligne remonte à 1908, année de la fondation de l'hôpital de la ville.  
+Kimpese est une ville située le long de la Route Nationale 1 et de la ligne ferroviaire Matadi-Kinshasa, servant de centre régional avec des liens historiques aux missions chrétiennes et aux activités agricoles. Une mission catholique a été établie à Kimpese en 1901, et sept ans plus tard, en 1908, l'hôpital de la ville a été fondé.  
 
 Grâce à sa position stratégique le long du chemin de fer, Kimpese a connu une croissance régulière, attirant plusieurs missions chrétiennes qui ont géré l’hôpital ainsi que d'autres initiatives sociales et économiques. Cependant, en 1980 encore, Kimpese était qualifiée de grand village, ce qui indique que son développement est resté modéré malgré sa situation favorable.  
 
