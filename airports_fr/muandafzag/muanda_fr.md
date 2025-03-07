@@ -14,7 +14,7 @@ show_title: false
 **Code IATA :** MNB  
 **Coordonnées :** -5.930608°, 12.351373°  
 
-Muanda, également orthographiée Moanda, est la ville la plus occidentale de la République Démocratique du Congo et la seule ville côtière du pays, située sur l’océan Atlantique. Historiquement, la principale localité de cette région était Banana, un petit port situé juste au sud de Muanda. Cependant, Muanda, initialement fondée comme mission, s’est progressivement développée en grande ville, avec des écoles, un hôpital et des hôtels.  
+Muanda, également orthographiée Moanda, est la ville la plus occidentale de la République Démocratique du Congo et la seule ville côtière du pays, située sur l’océan Atlantique. Historiquement, la principale localité de cette région était Banana, un petit port situé juste au sud de Muanda. Cependant, Muanda, initialement fondée comme mission catholique en 1889, s’est progressivement développée en grande ville, avec des écoles, un hôpital et des hôtels.  
 
 La ville est relativement bien connectée à Kinshasa grâce à la Route Nationale 1 (RN1), qui est en grande partie asphaltée. Muanda possède une activité économique importante, principalement grâce à ses réserves pétrolières offshore. Le terminal pétrolier de Muanda, situé au large des côtes, joue un rôle crucial dans l’économie de la région. De plus, Muanda possède un potentiel touristique, avec ses longues plages atlantiques et sa proximité avec le Parc National des Mangroves, l’un des rares écosystèmes côtiers protégés en Afrique centrale.  
 
