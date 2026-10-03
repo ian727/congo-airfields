@@ -13,9 +13,6 @@ plugins:
   - jekyll-sitemap
 header_pages:
   - index.md
-  - list.md
-  - map.md
-  - index_fr.md
 defaults:
   - scope:
       path: "_layouts"
@@ -35,3 +32,13 @@ defaults:
       sitemap: false
 markdown: kramdown
 highlighter: rouge
+exclude:
+  - airports
+  - airports_fr
+  - list.md
+  - list_fr.md
+  - listold.md
+  - map.md
+  - map_fr.md
+  - about.md
+  - about_fr.md
